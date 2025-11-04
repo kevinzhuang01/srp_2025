@@ -1,8 +1,8 @@
 # Site configuration for GitHub Pages
 title: SHI Collaboration Profiles
 description: Profile pages for Sustainable Horizons Institute BE@US-RSE25 participants, researchers, and contributors.
-baseurl: "/shi-collab"
-url: "https://markcmiller86.github.io"
+baseurl: "/srp_2025"
+url: "https://kevinzhuang01.github.io"
 
 # GitHub Pages configuration
 remote_theme: pages-themes/primer@v0.6.0
@@ -42,3 +42,4 @@ author:
 
 # Enable GitHub metadata
 github: [metadata]
+
