@@ -24,7 +24,7 @@ def csv_to_profiles
   # CSV columns: Submission,Status ,First,Last,Email,Institution,Department,Website,Citizenship Status,Academic Status,Title,Abstract ,Academic/Research Interests,Motivation,Additional Comments
 
   # Read CSV and create profile pages
-  CSV.foreach(csv_file, headers: true) do |row|
+  CSV.foreach(csv_file, headers: true, encoding: 'ISO-8859-1:UTF-8') do |row|
     first = row['First/Given Names (first)'] || row['First']
     last = row['Last/Family Name (first)'] || row['Last']
     name = "#{first}_#{last}"
@@ -33,27 +33,20 @@ def csv_to_profiles
     slug = slugify(name)
     filename = "#{profiles_dir}/#{slug}.md"
     
-    # Check for profile image matching first_last pattern
+    # Get image from CSV column
+    image_filename = row['Upload a photograph of this person (JPEG/GIF/PNG/TIFF)']
     image_path = nil
-    first_name = first.to_s.downcase.strip
-    last_name = last.to_s.downcase.strip
     
-    # Look for any file that starts with first_last pattern
-    image_dir = "assets/images/profiles/Letter-Number-Files"
-    if Dir.exist?(image_dir)
-      # Try different combinations for multi-word and hyphenated names
-      name_combinations = [
-        "#{first_name}_#{last_name.gsub(/[\s-]/, '_')}",  # Replace spaces and hyphens with underscores
-        "#{first_name}_#{last_name.split(/[\s-]/).first}",  # First word of last name only
-        "#{first_name}_#{last_name.split(/[\s-]/).last}",   # Last word of last name only
-        "#{first_name}_#{last_name}"  # Original format (fallback)
-      ].uniq
+    if image_filename && !image_filename.strip.empty?
+      # Check if image exists in assets/images directory
+      possible_paths = [
+        "assets/images/#{image_filename}",
+        "assets/images/profiles/#{image_filename}"
+      ]
       
-      name_combinations.each do |name_pattern|
-        pattern = "#{name_pattern}_*"
-        matching_files = Dir.glob("#{image_dir}/#{pattern}.{jpg,jpeg,png}", File::FNM_CASEFOLD)
-        if matching_files.any?
-          image_path = "/#{matching_files.first}"
+      possible_paths.each do |path|
+        if File.exist?(path)
+          image_path = "/#{path}"
           break
         end
       end
@@ -61,21 +54,27 @@ def csv_to_profiles
     
     # Prepare front matter
     front_matter = {
-      'layout' => 'profile',
-      'name' => "#{first} #{last}",
-      'organization' => row['Institution/Organization (first)'] || row['Institution'],
-      'department' => row['Department (first)'] || row['Department'],
-      'project_title' => row['Title'],
-      'status' => (row['Status (This Stage)'] || row['Status '])&.strip,
-      'abstract' => (row['Abstract (short description)'] || row['Abstract '])&.strip,
-      'academic_interests' => row['Academic/Research Interests (Maximum 250 words)'] || row['Academic/Research Interests'],
-      'email' => row['Email (first)'] || row['Email'],
-      'citizenship_status' => row['Citizenship Status'],
-      'academic_status' => row['Academic Status [undergraduate and master\'s students: if you are graduating this semester, please provide your current status, i.e., your status before graduation.]'] || row['Academic Status'],
-      'additional_comments' => row['Additional Comments'],
-      'website' => row['Website (first)'] || row['Website'],
-      'image' => image_path
-    }
+    "first_name" => row["First/Given Names (first)"],
+    "last_name" => row["Last/Family Name (first)"],
+    "name" => "#{row['First/Given Names (first)']} #{row['Last/Family Name (first)']}",
+    "email" => row["Email (first)"],
+    "institution" => row["Institution"],
+    "organization" => row["Institution"],
+    "department" => row["Department"],
+    "pronouns" => row["Pronouns"],
+    "biography" => row["Short Biography (Maximum 200 words)"],
+    "academic_status" => row["Academic Status"],
+    "year_in_program" => row["Year in program"],
+    "research_area" => row["Research Area/Department (check as many as appropriate)"],
+    "major" => row["Major/Specialty"],
+    "degrees" => row["Degrees Earned or in Progress (Degree/Field/Year)"],
+    "courses" => row["What courses or academic preparation have you completed to prepare for a summer internship experience (we recommend at least two science or computer science classes)?"],
+    "research_experience" => row["Where has your research been published or where have you conducted research/technical projects? Please include a few references, if available."],
+    "academic_interests" => row["Please describe your research/academic interests."],
+    "topical_areas" => row["Please select all the topical areas that apply to your field of study:"],
+    "motivation" => row["Motivation"],
+    "image" => image_path 
+}
     
     # Remove empty fields
     front_matter.reject! { |k, v| v.nil? || v.strip.empty? }
@@ -110,7 +109,7 @@ def csv_to_yaml
   end
   
   profiles = []
-  CSV.foreach(csv_file, headers: true) do |row|
+  CSV.foreach(csv_file, headers: true, encoding: 'ISO-8859-1:UTF-8') do |row|
     profile = {}
     row.headers.each do |header|
       value = row[header]

@@ -40,6 +40,9 @@ author:
   name: SHI Collaboration
   email: contact@example.com
 
+encoding: "utf-8"
+csv_default_encoding: "UTF-8"
+
 # Enable GitHub metadata
 github: [metadata]
 
