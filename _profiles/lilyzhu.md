@@ -29,6 +29,7 @@ academic_interests: Patient centered research to reduce bias in physicians throu
   training.
 topical_areas: Applied Mathematics; Artificial Intelligence and Intelligent Systems;
   Basic Medicine; Clinical Medicine; Educational Sciences; Other Medical Sciences
+image: "/assets/images/pictures/lily_zhu.jpg"
 ---
 
 ## Academic Interests

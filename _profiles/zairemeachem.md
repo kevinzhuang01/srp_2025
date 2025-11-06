@@ -36,6 +36,7 @@ academic_interests: My research and academic interests stems from being able to 
   about the ability to understand what's going on under the hood when developing solutions
   for problems.
 topical_areas: Artificial Intelligence and Intelligent Systems
+image: "/assets/images/pictures/zaire_meachem.jpg"
 ---
 
 ## Academic Interests

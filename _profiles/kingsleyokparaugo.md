@@ -24,6 +24,7 @@ academic_interests: "Iâ\x80\x99m interested in math, computer science and data 
 topical_areas: Applied Computer Science; Applied Mathematics; Artificial Intelligence
   and Intelligent Systems; Computer Science; Informatics, Analytics and Information
   Science; Other Computer and Information Sciences; Statistics and Probability
+image: "/assets/images/pictures/kingsley_okparaugo.jpg"
 ---
 
 ## Academic Interests

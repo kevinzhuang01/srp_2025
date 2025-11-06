@@ -69,6 +69,7 @@ topical_areas: Applied Computer Science; Applied Mathematics; Astronomy and Plan
   and Solid Earth Sciences; Materials Engineering; Other Computer and Information
   Sciences; Other Earth and Environmental Sciences; Other Engineering and Technologies;
   Statistics and Probability
+image: "/assets/images/pictures/abdullah_maruf.jpg"
 ---
 
 ## Academic Interests

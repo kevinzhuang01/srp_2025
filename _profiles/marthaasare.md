@@ -76,6 +76,7 @@ topical_areas: Applied Computer Science; Artificial Intelligence and Intelligent
   Engineering; Informatics, Analytics and Information Science; Materials Engineering;
   Mechanical Engineering; Performance Evaluation and Benchmarking; Statistics and
   Probability; Visualization and Human-Computer Systems
+image: "/assets/images/pictures/martha_asare.jpg"
 ---
 
 ## Academic Interests

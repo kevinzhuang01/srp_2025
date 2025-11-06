@@ -66,6 +66,7 @@ academic_interests: My research interests focus on the application of artificial
 topical_areas: Artificial Intelligence and Intelligent Systems; Educational Sciences;
   Other Engineering and Technologies; Statistics and Probability; Visualization and
   Human-Computer Systems
+image: "/assets/images/pictures/emmanuella_ejichukwu.jpg"
 ---
 
 ## Academic Interests

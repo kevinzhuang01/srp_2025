@@ -94,6 +94,7 @@ academic_interests: My academic interests are in applied statistics and machine 
 topical_areas: Applied Computer Science; Applied Mathematics; Computer Science; Other
   Computer and Information Sciences; Performance Evaluation and Benchmarking; Statistics
   and Probability; Visualization and Human-Computer Systems
+image: "/assets/images/pictures/aditya_mittal.jpg"
 ---
 
 ## Academic Interests

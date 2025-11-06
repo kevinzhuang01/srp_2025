@@ -80,6 +80,7 @@ topical_areas: Artificial Intelligence and Intelligent Systems; Computer Science
   Educational Sciences; Informatics, Analytics and Information Science; Other Computer
   and Information Sciences; Psychology Sociology; Visualization and Human-Computer
   Systems; Organization
+image: "/assets/images/pictures/darren_butler.jpg"
 ---
 
 ## Academic Interests

@@ -42,6 +42,7 @@ academic_interests: My research interests lie at the intersection of functional 
 topical_areas: Applied Mathematics; Artificial Intelligence and Intelligent Systems;
   Condensed Matter Physics; Health Sciences; Informatics, Analytics and Information
   Science; Statistics and Probability
+image: "/assets/images/pictures/kwesi_ohene_obeng.jpg"
 ---
 
 ## Academic Interests

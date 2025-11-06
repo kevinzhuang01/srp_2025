@@ -69,6 +69,7 @@ academic_interests: My current research involves 2D to 3D reconstruction using N
   with a deterministic component like a PINN.
 topical_areas: Applied Mathematics; Artificial Intelligence and Intelligent Systems;
   Computer Science; Statistics and Probability
+image: "/assets/images/pictures/pierce_secola.jpg"
 ---
 
 ## Academic Interests

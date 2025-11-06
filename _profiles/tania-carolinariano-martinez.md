@@ -32,6 +32,7 @@ academic_interests: My main research interests focus on dynamical systems, real 
   I am motivated to contribute to collaborative research projects and foster interdisciplinary
   connections.
 topical_areas: Applied Mathematics; Computer Science
+image: "/assets/images/pictures/tania_carolina_riano_martinez.jpg"
 ---
 
 ## Academic Interests

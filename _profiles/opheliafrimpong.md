@@ -46,6 +46,7 @@ academic_interests: I have been focusing on meta-learning for medical diagnosis,
 topical_areas: Applied Mathematics; Artificial Intelligence and Intelligent Systems;
   Health Sciences; Informatics, Analytics and Information Science; Statistics and
   Probability
+image: "/assets/images/pictures/ophelia_frimpong.jpg"
 ---
 
 ## Academic Interests

@@ -30,6 +30,7 @@ topical_areas: Applied Computer Science; Artificial Intelligence and Intelligent
   Computer Science; Informatics, Analytics and Information Science; Other Computer
   and Information Sciences; Other Engineering and Technologies; Visualization and
   Human-Computer Systems
+image: "/assets/images/pictures/samuel_ajuwon.jpg"
 ---
 
 ## Academic Interests

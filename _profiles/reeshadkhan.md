@@ -54,6 +54,7 @@ topical_areas: Applied Computer Science; Applied Mathematics; Artificial Intelli
   and Intelligent Systems; Computer Science; Electrical, Electronic, and Information
   Engineering; Environmental Engineering; Informatics, Analytics and Information Science;
   Statistics and Probability; Visualization and Human-Computer Systems
+image: "/assets/images/pictures/reeshad_khan.jpg"
 ---
 
 ## Academic Interests

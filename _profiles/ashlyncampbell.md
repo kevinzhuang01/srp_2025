@@ -57,6 +57,7 @@ academic_interests: 'My research interests lie in broadening access to AI by cre
 topical_areas: Applied Computer Science; Artificial Intelligence and Intelligent Systems;
   Computer Science; Educational Sciences; Informatics, Analytics and Information Science;
   Other Computer and Information Sciences; Visualization and Human-Computer Systems
+image: "/assets/images/pictures/ashlyn_campbell.jpg"
 ---
 
 ## Academic Interests

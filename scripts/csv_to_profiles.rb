@@ -33,18 +33,18 @@ def csv_to_profiles
     slug = slugify(name)
     filename = "#{profiles_dir}/#{slug}.md"
     
-    # Get image from CSV column
+    # Get image from CSV column and construct path based on slug
     image_filename = row['Upload a photograph of this person (JPEG/GIF/PNG/TIFF)']
     image_path = nil
     
     if image_filename && !image_filename.strip.empty?
-      # Check if image exists in assets/images directory
-      possible_paths = [
-        "assets/images/#{image_filename}",
-        "assets/images/profiles/#{image_filename}"
-      ]
+      # Try to find image by name with underscore in pictures directory
+      possible_extensions = ['.jpg', '.jpeg', '.png', '.gif', '.tiff']
+      # Create filename with underscore: first_last, convert hyphens and spaces to underscores
+      image_slug = "#{first}_#{last}".downcase.strip.gsub(/[^a-z0-9_\s-]/, '').gsub(/[-\s]+/, '_')
       
-      possible_paths.each do |path|
+      possible_extensions.each do |ext|
+        path = "assets/images/pictures/#{image_slug}#{ext}"
         if File.exist?(path)
           image_path = "/#{path}"
           break

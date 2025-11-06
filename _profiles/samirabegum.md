@@ -71,6 +71,7 @@ topical_areas: Applied Computer Science; Applied Mathematics; Artificial Intelli
   Information Science; Infrastructure and Instrumentation; Other Earth and Environmental
   Sciences; Statistics and Probability; Visualization and Human-Computer Systems;
   Organization
+image: "/assets/images/pictures/samira_begum.jpg"
 ---
 
 ## Academic Interests

@@ -35,6 +35,7 @@ academic_interests: AI and data science applied to high-performance computing, l
 topical_areas: Applied Computer Science; Artificial Intelligence and Intelligent Systems;
   Computer Science; Informatics, Analytics and Information Science; Statistics and
   Probability; Training; Visualization and Human-Computer Systems
+image: "/assets/images/pictures/dionne_bang.jpg"
 ---
 
 ## Academic Interests

@@ -62,6 +62,7 @@ academic_interests: "Iâ\x80\x99m primarily interested in computer vision, robot
   and efficient vision algorithms that can be deployed in dynamic, real-world conditions."
 topical_areas: Applied Computer Science; Artificial Intelligence and Intelligent Systems;
   Computer Science
+image: "/assets/images/pictures/megdalia_bromhal.jpg"
 ---
 
 ## Academic Interests

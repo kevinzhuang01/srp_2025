@@ -57,6 +57,7 @@ topical_areas: Applied Computer Science; Artificial Intelligence and Intelligent
   Computer Science; Electrical, Electronic, and Information Engineering; Informatics,
   Analytics and Information Science; Performance Evaluation and Benchmarking; Statistics
   and Probability; Visualization and Human-Computer Systems
+image: "/assets/images/pictures/clement_bosomtwe.jpg"
 ---
 
 ## Academic Interests

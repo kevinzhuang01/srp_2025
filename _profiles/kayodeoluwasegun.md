@@ -71,6 +71,7 @@ academic_interests: My research interest lies in the development and analysis of
   AI and computing resources.
 topical_areas: Applied Mathematics; Artificial Intelligence and Intelligent Systems;
   Climate and Global Dynamics; Ecology; Statistics and Probability
+image: "/assets/images/pictures/kayode_oluwasegun.jpg"
 ---
 
 ## Academic Interests

@@ -70,6 +70,7 @@ academic_interests: My research lies at the intersection of applied mathematics,
   discovery and technological innovation.
 topical_areas: Applied Mathematics; Performance Evaluation and Benchmarking; Statistics
   and Probability
+image: "/assets/images/pictures/temitope_oyedeji.jpg"
 ---
 
 ## Academic Interests

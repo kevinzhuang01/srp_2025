@@ -69,6 +69,7 @@ topical_areas: Applied Computer Science; Applied Mathematics; Artificial Intelli
   and Intelligent Systems; Computer Science; Informatics, Analytics and Information
   Science; Other Computer and Information Sciences; Performance Evaluation and Benchmarking;
   Statistics and Probability; Training
+image: "/assets/images/pictures/jamil_gafur.jpg"
 ---
 
 ## Academic Interests

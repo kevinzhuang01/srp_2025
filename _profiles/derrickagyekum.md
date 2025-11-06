@@ -48,6 +48,7 @@ academic_interests: "Iâ\x80\x99m interested in applied AI/ML that moves from re
   between models and outcomes."
 topical_areas: Applied Computer Science; Computer Science; Informatics, Analytics
   and Information Science; Other Computer and Information Sciences
+image: "/assets/images/pictures/derrick_agyekum.jpg"
 ---
 
 ## Academic Interests

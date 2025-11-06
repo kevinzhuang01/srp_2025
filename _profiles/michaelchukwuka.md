@@ -36,6 +36,7 @@ academic_interests: My research interests lie at the intersection of data scienc
   in the years to come.
 topical_areas: Informatics, Analytics and Information Science; Particle and High-Energy
   Physics; Visualization and Human-Computer Systems
+image: "/assets/images/pictures/michael_chukwuka.jpg"
 ---
 
 ## Academic Interests

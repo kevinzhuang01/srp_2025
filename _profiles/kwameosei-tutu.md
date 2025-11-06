@@ -31,6 +31,7 @@ academic_interests: "Optimizing ML models via mixed precision techniques. Curren
 topical_areas: Applied Computer Science; Applied Mathematics; Artificial Intelligence
   and Intelligent Systems; Computer Science; Performance Evaluation and Benchmarking;
   Statistics and Probability
+image: "/assets/images/pictures/kwame_osei_tutu.jpg"
 ---
 
 ## Academic Interests

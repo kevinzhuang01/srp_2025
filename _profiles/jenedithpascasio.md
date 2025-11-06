@@ -47,6 +47,7 @@ academic_interests: I'm interested in computational and theoretical chemistry, w
   that benefit both communities and the world.
 topical_areas: Applied Computer Science; Applied Mathematics; Artificial Intelligence
   and Intelligent Systems; Computer Science
+image: "/assets/images/pictures/jenedith_pascasio.jpg"
 ---
 
 ## Academic Interests

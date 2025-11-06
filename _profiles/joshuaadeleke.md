@@ -40,6 +40,7 @@ academic_interests: My research centers on analysis and partial differential equ
   in fluid and kinetic models.
 topical_areas: Applied Mathematics; Electrical, Electronic, and Information Engineering;
   Fluid and Plasma Physics; Materials Engineering; Statistics and Probability
+image: "/assets/images/pictures/joshua_adeleke.jpg"
 ---
 
 ## Academic Interests

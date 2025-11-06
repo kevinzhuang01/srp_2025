@@ -53,6 +53,7 @@ academic_interests: I am interested in making high-dimensional data analysis rep
   and production-level implementation.
 topical_areas: Applied Computer Science; Applied Mathematics; Clinical Medicine; Other
   Medical Sciences; Performance Evaluation and Benchmarking; Statistics and Probability
+image: "/assets/images/pictures/xingyi_chen.jpg"
 ---
 
 ## Academic Interests

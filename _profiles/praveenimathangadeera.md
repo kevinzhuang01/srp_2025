@@ -70,6 +70,7 @@ academic_interests: My primary research interests are in applied and computation
   that support the understanding of climate related processes.
 topical_areas: Applied Mathematics; Climate and Global Dynamics; Fluid and Plasma
   Physics; Geology and Solid Earth Sciences; Other Earth and Environmental Sciences
+image: "/assets/images/pictures/praveeni_mathangadeera.jpg"
 ---
 
 ## Academic Interests

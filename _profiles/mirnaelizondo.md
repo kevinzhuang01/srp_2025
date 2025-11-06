@@ -54,6 +54,7 @@ academic_interests: My research and academic interests focus on the intersection
   about unbiased and fair AI, ensuring that predictive insights are actionable and
   equitable.
 topical_areas: Computer Science
+image: "/assets/images/pictures/mirna_elizondo.jpg"
 ---
 
 ## Academic Interests

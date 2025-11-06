@@ -54,6 +54,7 @@ topical_areas: Applied Computer Science; Applied Mathematics; Artificial Intelli
   Other Computer and Information Sciences; Other Engineering and Technologies; Performance
   Evaluation and Benchmarking; Statistics and Probability; Training; Visualization
   and Human-Computer Systems
+image: "/assets/images/pictures/adam_trojak.jpg"
 ---
 
 ## Academic Interests

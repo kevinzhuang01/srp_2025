@@ -42,6 +42,7 @@ academic_interests: "Iâ\x80\x99m interested in cybersecurity, data science, and
 topical_areas: Applied Computer Science; Artificial Intelligence and Intelligent Systems;
   Computer Science; Informatics, Analytics and Information Science; Other Computer
   and Information Sciences; Training; Organization
+image: "/assets/images/pictures/taylor_garcia.jpg"
 ---
 
 ## Academic Interests
