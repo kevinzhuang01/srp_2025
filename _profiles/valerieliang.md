@@ -1,4 +1,5 @@
 ---
+layout: profile
 first_name: Valerie
 last_name: Liang
 name: Valerie Liang

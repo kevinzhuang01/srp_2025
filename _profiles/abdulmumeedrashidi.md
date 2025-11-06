@@ -1,4 +1,5 @@
 ---
+layout: profile
 first_name: Abdulmumeed
 last_name: Rashidi
 name: Abdulmumeed Rashidi

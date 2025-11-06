@@ -1,4 +1,5 @@
 ---
+layout: profile
 first_name: Reeshad
 last_name: Khan
 name: Reeshad Khan

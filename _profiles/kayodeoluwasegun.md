@@ -1,4 +1,5 @@
 ---
+layout: profile
 first_name: Kayode
 last_name: Oluwasegun
 name: Kayode Oluwasegun

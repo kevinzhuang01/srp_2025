@@ -1,4 +1,5 @@
 ---
+layout: profile
 first_name: Adam
 last_name: Trojak
 name: Adam Trojak

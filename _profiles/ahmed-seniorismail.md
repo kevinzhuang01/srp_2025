@@ -1,4 +1,5 @@
 ---
+layout: profile
 first_name: Ahmed Senior
 last_name: Ismail
 name: Ahmed Senior Ismail

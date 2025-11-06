@@ -1,4 +1,5 @@
 ---
+layout: profile
 first_name: Samira
 last_name: Begum
 name: Samira Begum

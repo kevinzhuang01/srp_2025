@@ -1,4 +1,5 @@
 ---
+layout: profile
 first_name: Danny
 last_name: Tran
 name: Danny Tran

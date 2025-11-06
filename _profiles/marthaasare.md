@@ -1,4 +1,5 @@
 ---
+layout: profile
 first_name: Martha
 last_name: Asare
 name: Martha Asare

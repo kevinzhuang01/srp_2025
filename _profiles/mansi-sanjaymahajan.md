@@ -1,4 +1,5 @@
 ---
+layout: profile
 first_name: Mansi Sanjay
 last_name: Mahajan
 name: Mansi Sanjay Mahajan

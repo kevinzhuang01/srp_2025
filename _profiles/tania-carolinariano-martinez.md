@@ -1,4 +1,5 @@
 ---
+layout: profile
 first_name: Tania Carolina
 last_name: Riano Martinez
 name: Tania Carolina Riano Martinez

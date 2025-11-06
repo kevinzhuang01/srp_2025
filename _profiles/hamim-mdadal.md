@@ -1,4 +1,5 @@
 ---
+layout: profile
 first_name: Hamim Md
 last_name: Adal
 name: Hamim Md Adal

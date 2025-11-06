@@ -1,4 +1,5 @@
 ---
+layout: profile
 first_name: Jenedith
 last_name: Pascasio
 name: Jenedith Pascasio

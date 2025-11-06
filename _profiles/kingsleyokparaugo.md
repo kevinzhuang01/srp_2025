@@ -1,4 +1,5 @@
 ---
+layout: profile
 first_name: Kingsley
 last_name: Okparaugo
 name: Kingsley Okparaugo

@@ -1,4 +1,5 @@
 ---
+layout: profile
 first_name: Jamil
 last_name: Gafur
 name: Jamil Gafur

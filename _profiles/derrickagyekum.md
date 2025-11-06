@@ -1,4 +1,5 @@
 ---
+layout: profile
 first_name: Derrick
 last_name: Agyekum
 name: Derrick Agyekum

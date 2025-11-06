@@ -1,4 +1,5 @@
 ---
+layout: profile
 first_name: Darren
 last_name: Butler
 name: Darren Butler

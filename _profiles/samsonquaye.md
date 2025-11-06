@@ -1,4 +1,5 @@
 ---
+layout: profile
 first_name: Samson
 last_name: Quaye
 name: Samson Quaye

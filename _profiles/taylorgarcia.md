@@ -1,4 +1,5 @@
 ---
+layout: profile
 first_name: Taylor
 last_name: Garcia
 name: Taylor Garcia

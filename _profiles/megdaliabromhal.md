@@ -1,4 +1,5 @@
 ---
+layout: profile
 first_name: Megdalia
 last_name: Bromhal
 name: Megdalia Bromhal

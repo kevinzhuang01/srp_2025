@@ -54,6 +54,7 @@ def csv_to_profiles
     
     # Prepare front matter
     front_matter = {
+    "layout" => "profile",
     "first_name" => row["First/Given Names (first)"],
     "last_name" => row["Last/Family Name (first)"],
     "name" => "#{row['First/Given Names (first)']} #{row['Last/Family Name (first)']}",

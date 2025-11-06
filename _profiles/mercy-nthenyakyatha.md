@@ -1,4 +1,5 @@
 ---
+layout: profile
 first_name: Mercy Nthenya
 last_name: Kyatha
 name: Mercy Nthenya Kyatha

@@ -1,4 +1,5 @@
 ---
+layout: profile
 first_name: Kaiwan
 last_name: Bilal
 name: Kaiwan Bilal

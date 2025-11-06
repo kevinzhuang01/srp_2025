@@ -1,4 +1,5 @@
 ---
+layout: profile
 first_name: Clement
 last_name: Bosomtwe
 name: Clement Bosomtwe

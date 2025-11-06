@@ -1,4 +1,5 @@
 ---
+layout: profile
 first_name: Pierce
 last_name: Secola
 name: Pierce Secola

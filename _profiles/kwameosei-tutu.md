@@ -1,4 +1,5 @@
 ---
+layout: profile
 first_name: Kwame
 last_name: Osei-Tutu
 name: Kwame Osei-Tutu

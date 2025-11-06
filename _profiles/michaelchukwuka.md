@@ -1,4 +1,5 @@
 ---
+layout: profile
 first_name: Michael
 last_name: Chukwuka
 name: Michael Chukwuka

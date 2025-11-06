@@ -1,4 +1,5 @@
 ---
+layout: profile
 first_name: Amanda
 last_name: Lee
 name: Amanda Lee

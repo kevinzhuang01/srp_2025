@@ -1,4 +1,5 @@
 ---
+layout: profile
 first_name: Ophelia
 last_name: Frimpong
 name: Ophelia Frimpong

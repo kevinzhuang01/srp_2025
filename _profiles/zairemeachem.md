@@ -1,4 +1,5 @@
 ---
+layout: profile
 first_name: Zaire
 last_name: Meachem
 name: Zaire Meachem

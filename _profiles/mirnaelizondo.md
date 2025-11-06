@@ -1,4 +1,5 @@
 ---
+layout: profile
 first_name: Mirna
 last_name: Elizondo
 name: Mirna Elizondo

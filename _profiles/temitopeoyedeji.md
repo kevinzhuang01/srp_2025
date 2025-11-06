@@ -1,4 +1,5 @@
 ---
+layout: profile
 first_name: Temitope
 last_name: Oyedeji
 name: Temitope Oyedeji

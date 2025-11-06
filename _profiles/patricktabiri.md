@@ -1,4 +1,5 @@
 ---
+layout: profile
 first_name: Patrick
 last_name: Tabiri
 name: Patrick Tabiri

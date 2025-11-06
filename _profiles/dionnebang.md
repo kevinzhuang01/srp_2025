@@ -1,4 +1,5 @@
 ---
+layout: profile
 first_name: dionne
 last_name: bang
 name: dionne bang

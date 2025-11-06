@@ -1,4 +1,5 @@
 ---
+layout: profile
 first_name: Eric
 last_name: Pabon Cancel
 name: Eric Pabon Cancel

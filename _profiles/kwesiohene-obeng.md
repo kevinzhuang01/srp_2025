@@ -1,4 +1,5 @@
 ---
+layout: profile
 first_name: Kwesi
 last_name: Ohene-Obeng
 name: Kwesi Ohene-Obeng

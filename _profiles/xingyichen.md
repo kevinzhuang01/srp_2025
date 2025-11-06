@@ -1,4 +1,5 @@
 ---
+layout: profile
 first_name: Xingyi
 last_name: Chen
 name: Xingyi Chen

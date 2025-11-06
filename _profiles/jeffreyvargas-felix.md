@@ -1,4 +1,5 @@
 ---
+layout: profile
 first_name: Jeffrey
 last_name: Vargas Felix
 name: Jeffrey Vargas Felix

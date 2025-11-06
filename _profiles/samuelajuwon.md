@@ -1,4 +1,5 @@
 ---
+layout: profile
 first_name: Samuel
 last_name: Ajuwon
 name: Samuel Ajuwon

@@ -1,4 +1,5 @@
 ---
+layout: profile
 first_name: Emmanuella
 last_name: Ejichukwu
 name: Emmanuella Ejichukwu

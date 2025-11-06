@@ -1,4 +1,5 @@
 ---
+layout: profile
 first_name: Joshua
 last_name: Adeleke
 name: Joshua Adeleke

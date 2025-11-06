@@ -1,4 +1,5 @@
 ---
+layout: profile
 first_name: Praveeni
 last_name: Mathangadeera
 name: Praveeni Mathangadeera

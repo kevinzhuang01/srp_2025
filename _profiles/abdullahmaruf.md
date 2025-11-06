@@ -1,4 +1,5 @@
 ---
+layout: profile
 first_name: Abdullah
 last_name: Maruf
 name: Abdullah Maruf

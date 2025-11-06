@@ -1,4 +1,5 @@
 ---
+layout: profile
 first_name: Banooqa
 last_name: Banday
 name: Banooqa Banday

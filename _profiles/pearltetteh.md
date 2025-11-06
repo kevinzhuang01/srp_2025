@@ -1,4 +1,5 @@
 ---
+layout: profile
 first_name: Pearl
 last_name: Tetteh
 name: Pearl Tetteh

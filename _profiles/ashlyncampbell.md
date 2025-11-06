@@ -1,4 +1,5 @@
 ---
+layout: profile
 first_name: Ashlyn
 last_name: Campbell
 name: Ashlyn Campbell

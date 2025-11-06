@@ -1,4 +1,5 @@
 ---
+layout: profile
 first_name: Miriam
 last_name: Asare-Baiden
 name: Miriam Asare-Baiden

@@ -1,4 +1,5 @@
 ---
+layout: profile
 first_name: Lily
 last_name: Zhu
 name: Lily Zhu

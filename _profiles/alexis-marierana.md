@@ -1,4 +1,5 @@
 ---
+layout: profile
 first_name: Alexis Marie
 last_name: Rana
 name: Alexis Marie Rana

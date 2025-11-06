@@ -1,4 +1,5 @@
 ---
+layout: profile
 first_name: Dianara
 last_name: Sagastizado
 name: Dianara Sagastizado

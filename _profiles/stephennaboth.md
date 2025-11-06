@@ -1,4 +1,5 @@
 ---
+layout: profile
 first_name: Stephen
 last_name: Naboth
 name: Stephen Naboth

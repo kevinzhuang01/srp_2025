@@ -1,4 +1,5 @@
 ---
+layout: profile
 first_name: Vianney
 last_name: Diaz-Barraza
 name: Vianney Diaz-Barraza

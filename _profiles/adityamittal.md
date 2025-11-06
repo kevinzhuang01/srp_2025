@@ -1,4 +1,5 @@
 ---
+layout: profile
 first_name: Aditya
 last_name: Mittal
 name: Aditya Mittal
