@@ -47,6 +47,19 @@ academic_interests: Science is a tool we develop out of necessity and we use dat
   While I have most experience in R, I am eager to learn new coding languages.
 topical_areas: Biochemistry and Molecular Biology; Cell Biology; Informatics, Analytics
   and Information Science
+motivation: "During my first year, I attended a conference for SACNAS: the Society
+  for the Advancement of Chicanos/Hispanics and Native Americans in Science. I learned
+  how to use science as a tool to support others. One of the conference panelists
+  closed her speech saying, â\x80\x9Cbeing connected with your heart doesnâ\x80\x99t
+  make you a worse scientist.â\x80\x9D I learned that I do not have to separate my
+  identity and experiences from my career. As a student in Sustainable Research Pathways
+  program, my goal is to help create a bridge between my community and research. This
+  internship opportunity will help me learn how to communicate as a researcher by
+  exploring data in collaboration with skilled researchers. I will enrich my intuition
+  and troubleshooting skills as a scientist. I would be honored to use my passion
+  for life sciences and data literacy to become a more engaged scientist. I look forward
+  to applying my background as a molecular biologist, data scientist, and a researcher
+  of color to extract insight from mentors during this internship experience."
 ---
 
 ## Academic Interests

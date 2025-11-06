@@ -71,6 +71,24 @@ academic_interests: My research lies at the intersection of applied mathematics,
   discovery and technological innovation.
 topical_areas: Applied Mathematics; Performance Evaluation and Benchmarking; Statistics
   and Probability
+motivation: "I am applying to the Sustainable Research Pathways (SRP) program because
+  I am deeply motivated to contribute my skills in applied mathematics, HPC, and machine
+  learning to impactful scientific collaborations with national laboratories. SRPâ\x80\x99s
+  mission of building bridges between underrepresented researchers and the Department
+  of Energy (DOE) labs strongly resonates with my own goals as a researcher seeking
+  to apply computational science to pressing challenges in energy, health, and national
+  security. The program offers a unique opportunity to work alongside world-class
+  scientists while expanding my experience with HPC, AI, and computational modeling
+  at scale. I am particularly drawn to SRP because it emphasizes technical excellence,
+  mentorship, community, and preparing future leaders in computational science. My
+  career objective is to pursue a research-driven role where I can develop advanced
+  algorithms and scalable models that address national challenges in areas such as
+  biomedical monitoring, optimization of energy systems, and next-generation scientific
+  computing. The program is an ideal step toward that goal, providing an environment
+  where I can both contribute and learn, while strengthening my readiness for future
+  collaborations with DOE labs. I look forward to the chance to bring my enthusiasm,
+  technical expertise, and collaborative mindset to SRP and to grow through meaningful
+  engagement with its research community."
 image: "/assets/images/pictures/temitope_oyedeji.jpg"
 ---
 

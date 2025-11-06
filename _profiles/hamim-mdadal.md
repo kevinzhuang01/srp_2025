@@ -66,6 +66,47 @@ topical_areas: Applied Computer Science; Applied Mathematics; Artificial Intelli
   and Intelligent Systems; Computer Science; Informatics, Analytics and Information
   Science; Other Computer and Information Sciences; Other Engineering and Technologies;
   Statistics and Probability; Visualization and Human-Computer Systems
+motivation: Last year, in June 2024, I was on vacation with my wife in San Francisco,
+  California, where we boarded a cruise to Alcatraz Island! While we were enjoying
+  the sights of the bay and skyline, I found myself standing beside a group of summer
+  graduate interns from Lawrence Berkeley National Lab (LBNL). What began as casual
+  small talk quickly turned into an inspiring exchange about their paths into research
+  opportunities in LBNL offered by Sustainable Research Pathways (SRP). It was then
+  that I first heard about SRP. For me, it was inspiring to know how SRP connects
+  young researchers with leading scientists from national labs, opening doors to experiences
+  that can shape the research careers of graduate students. At the end of my vacation,
+  when I returned to my campus, I spent some time exploring the SRP website and its
+  ongoing engagements. I was glad to know that I was not the first one from my school
+  who is seeking opportunities to work in summer research projects through SRP, but
+  a handful of Alumni have already participated in different National Labs across
+  the USA! For the past few years, SRP has constantly been a pioneer, bringing together
+  scientists, students, faculty, and researchers from diverse backgrounds to contribute
+  to advancement in science and technology. As a Ph.D. candidate in Computer Science,
+  I see this program as a valuable opportunity to expand my skills, gain guidance
+  from leading scientists, and grow as a researcher. The field of Artificial Intelligence
+  (AI) is growing at a rapid pace, where researchers from different fields have a
+  lot to contribute in their own application domains, both by actively participating
+  in the research work in AI and also spreading its application in their respective
+  research domains. In this regard, I have always found SRP as a platform that provides
+  collaboration opportunities between early-career researchers and established scientists.
+  This always worked as a motivation for me to work on a project from which I can
+  learn a great deal of knowledge and experience. Besides, it has also been an inspiration
+  for me to observe alumni from my institution participating in SRP-funded projects
+  in the past few years. Witnessing how their experiences in this program significantly
+  shaped their early careers and guided their professional paths has strongly motivated
+  me to pursue this opportunity. Throughout my graduate program, I have built a strong
+  foundation in Artificial Intelligence and Machine Learning, conducting scientific
+  research, completing advanced graduate courses, and publishing papers in research
+  conferences. At this point in my career, I want to join a program where I can be
+  mentored by experts, improve my research abilities, and contribute to research projects.
+  My long-term goal after my Ph.d is to pursue a postdoctoral position, followed by
+  becoming a scientist at a national lab or a research faculty member at an accredited
+  U.S. institution. This program aligns with my ambitions by offering mentorship,
+  collaboration, and networking opportunities that will help me achieve these goals
+  while contributing to the ongoing research projects funded by the National Science
+  Foundation and National Artificial Intelligence Research Resource (NAIRR) projects.
+  I am confident that the opportunity to participate in this program will give shape
+  to my career to become a more accomplished researcher in the future.
 ---
 
 ## Academic Interests

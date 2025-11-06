@@ -72,6 +72,45 @@ topical_areas: Applied Computer Science; Applied Mathematics; Artificial Intelli
   Information Science; Infrastructure and Instrumentation; Other Earth and Environmental
   Sciences; Statistics and Probability; Visualization and Human-Computer Systems;
   Organization
+motivation: "I had the opportunity to attend the Sustainable Horizons Institute HPC
+  bootcamp (Summer of 2023) at the Berkeley National Lab and work on a group project
+  using AI (large language models) for energy justice. My mentors and researchers/staff
+  from other groups highly encouraged me to consider working for the DOE labs, noting
+  that SRP would be a great avenue to do so. I grew very interested in HPC over the
+  course of the conference and heard great feedback from an alumnus of the SRP program!
+  The most inspiring element of that opportunity that pushed me to apply was the genuine
+  interest researchers from the labs had for their work. It would be an incredible
+  opportunity to work on a project Iâ\x80\x99m curious about, especially with people
+  that will only make that experience better. Additionally, I served as a peer mentor
+  during the second iteration of this bootcamp this summer at the Argonne National
+  Lab. I had the opportunity to reconnect with my peers and research mentors from
+  the previous bootcamp, encourage students emerging in these fields by providing
+  technical and social support, and further develop my technical proficiency in AI/ML
+  systems. Through these experiences, I've learned that my information processing
+  is geared towards logic and pattern recognition. Whether it be consumer decision
+  making in economics, mapping in discrete math, or organizing my academic workflow,
+  I generally find connections and perform academically by thinking abstractly. Iâ\x80\x99ve
+  developed this sort of mentality over time and through the flexibility of attending
+  a liberal arts college. In a matter-of-fact way, I like things that make sense â\x80\x93
+  and computational work is the exact subject that I believe makes sense to me. It
+  aligns very well with the way I think yet challenges me on the occasions it doesnâ\x80\x99t.
+  Iâ\x80\x99d consider myself goal-oriented, and working through data-driven programs
+  has a tangibility that feels rare in other fields. As Iâ\x80\x99ve developed an
+  interest in ethics through philosophy, Iâ\x80\x99ve looked further into computer
+  science and artificial intelligence. Data sciences and AI/ML in the computer science
+  field specifically called me to because of their human element. Despite being a
+  very STEM-centered subject, it feels as though it could be a social science due
+  to its theoretical and applicable nature. Especially given that computers were modelled
+  after humans and data is tracked from details on human behavior. Combining elements
+  of the human and inhuman is part of the work I aspire to do in the tech field! In
+  conjunction with my research areas and interests, a primary motivating principle
+  of applying to this program is getting the opportunity to work with leading researchers
+  in such an emerging and relevant field. Of the people I've met, mostly from the
+  DOE labs, everyone has been incredibly passionate about their and welcoming to newcomers.
+  Additionally, many of the projects Iâ\x80\x99ve seen across the national lab and
+  NSF websites are issues that align with my interests and skillset. Attending and
+  mentoring for the HPC bootcamps certainly reinforced my desire to work alongside
+  the kinds of people I met!"
 image: "/assets/images/pictures/samira_begum.jpg"
 ---
 

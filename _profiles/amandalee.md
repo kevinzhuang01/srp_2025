@@ -76,6 +76,45 @@ topical_areas: Applied Computer Science; Applied Mathematics; Artificial Intelli
   and Information Science; Other Computer and Information Sciences; Other Engineering
   and Technologies; Other Medical Sciences; Statistics and Probability; Visualization
   and Human-Computer Systems
+motivation: "I was first selected to be a Sustainable Research Pathways (SRP) intern
+  in 2022, an opportunity that validated my growth as a researcher and strengthened
+  my commitment to advancing science and medicine through artificial intelligence.
+  My internships with SRP have played a crucial role in supporting both my personal
+  and professional growth. Both summers, I worked with Dr. Shinjae Yoo at Brookhaven
+  National Laboratory (BNL). Under Dr. Yooâ\x80\x99s supervision, I developed a Transformers-based
+  machine learning model to study gene regulatory code using PyTorch and high-performance
+  computing (HPC) systems including NERSC Perlmutter and BNLâ\x80\x99s HPC cluster.
+  Following the internship, Dr. Yoo invited me to participate in the BNL GPU Hackathon,
+  where I learned to accelerate the training algorithm for the model I developed across
+  multiple GPUs with Python Distributed Data Parallel. I also had the opportunity
+  to attend several SRP events, including the BNL Summer Internship Symposium and
+  the 2023 Exascale Computing Project Annual Meeting, where I presented my work. These
+  events allowed me to connect with other scholars and learn from the incredible SRP
+  mentors, whose dedication to supporting science is truly inspiring. In a time when
+  scientific research is increasingly vulnerable to political polarization and funding
+  cuts, being part of a community so deeply committed to the advancement of science
+  feels especially meaningful and hopeful. I especially valued the opportunity to
+  engage in a setting where scholars and mentors could share their experiences, exchange
+  ideas, and support one another through the many challenges of graduate school and
+  beyond. I would be extremely grateful to participate in the 2026 SRP-NAIRR program,
+  as it offers a unique opportunity to engage with a diverse and collaborative research
+  community while contributing to impactful work at the intersection of artificial
+  intelligence and applied science. My research focuses on developing data-efficient
+  and self-supervised AI methods for healthcare applications, particularly in medical
+  imaging, while also exploring how these approaches can extend to other high-impact
+  domains. This program offers an opportunity to deepen my technical expertise by
+  collaborating with domain experts and utilizing advanced computing resources, both
+  of which were experiences I greatly valued during my previous SRP participation.
+  In addition, I am just as motivated by the chance to engage with the inclusive,
+  mentorship-driven research community at SRP. Looking ahead, my goal is to work in
+  the biotechnology industry or at a national laboratory, where I can conduct high-impact
+  research, collaborate with academia, and mentor students of diverse backgrounds.
+  My experiences as an SRP intern have brought me closer to that vision, reinforcing
+  both my technical growth and my commitment to inclusive mentorship. I would be grateful
+  for the opportunity to return as an SRP intern, continuing to build on this foundation
+  while contributing to the community. My hope is to build a career where I will be
+  able to help students achieve their goals just as the SRP program has helped and
+  supported me."
 ---
 
 ## Academic Interests

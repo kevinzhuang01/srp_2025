@@ -41,6 +41,26 @@ academic_interests: My research targets the intersection of reinforcement learni
   under uncertainty. I focus on risk measures and distributional RL (e.g., VaR/CVaR),
   stochastic control, and policy optimization with theoretical guarantees.
 topical_areas: Applied Mathematics; Artificial Intelligence and Intelligent Systems
+motivation: "I am motivated to participate in the Sustainable Research Pathways program
+  because it directly aligns with both my research and personal interests. As a Ph.D.
+  student in Integrated Applied Mathematics at the University of New Hampshire, working
+  under the tutelage of Professor Marek Petrik on reinforcement learning, machine
+  learning, and optimization for decision-making under uncertainty, I am eager to
+  apply and contribute my skills to meaningful projects at the intersection of mathematics,
+  computing, and societal impact. Beyond research, I am attracted to the programâ\x80\x99s
+  commitment to building inclusive, sustainable communities of scientists and engineers.
+  Having studied and worked across multiple countries and educational systems, I deeply
+  value diversity in perspectives and experiences, and I believe that collaboration
+  across backgrounds is essential for robust, innovative science. I see this program
+  as a unique opportunity to not only advance my technical expertise but also to contribute
+  actively to a community where everyone is respected, valued, and successful I strongly
+  believe that the summer project experience will allow me to gain exposure to cutting-edge
+  applications of artificial intelligence and optimization while strengthening my
+  ability to put theoretical knowledge into practice. At the same time, I look forward
+  to engaging in the programâ\x80\x99s career development and mentorship activities,
+  where I can both learn from established researchers and share experiences with peers.
+  Most importantly, I hope to build lasting professional relationships and a collaborative
+  network that extends beyond the program. Thank you."
 ---
 
 ## Academic Interests

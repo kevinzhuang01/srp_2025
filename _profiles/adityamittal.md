@@ -95,6 +95,29 @@ academic_interests: My academic interests are in applied statistics and machine 
 topical_areas: Applied Computer Science; Applied Mathematics; Computer Science; Other
   Computer and Information Sciences; Performance Evaluation and Benchmarking; Statistics
   and Probability; Visualization and Human-Computer Systems
+motivation: 'My undergraduate research with Dr. Norman Matloff has been challenging
+  yet rewarding. It has taught me to approach problems systematically: read prior
+  work, identify gaps, and build end-to-end projects. This process has also included
+  many setbacks; for example, reviewers recently rejected our towerDebias submission
+  citing unclear motivation. To revise the paper, I am reframing our motivation around
+  established fairness notions and making broader connections to legal requirements
+  we had not previously considered. This iterative process has been a valuable learning
+  experience, allowing me to apply coursework to practical efforts and connect math
+  concepts to real world implications. We plan to resubmit soon with a clearer motivation
+  and fairness framing. These experiences motivated me to pursue graduate study at
+  UCI and explore new research areas with the goal of applying to a PhD program. The
+  Sustainable Research Pathways program provides a unique opportunity to build on
+  my current experience and explore new areas of research. I aim to achieve three
+  main goals: (1) to develop a focused research goal that I can carry into my PhD
+  applications & studies; (2) to gain mentorship and expand my academic network, finding
+  potential advisors; (3) clearer guidance on graduate fellowships and how to position
+  my work more clearly. I want exposure to new ideas and academic environments and
+  to learn proper research methods that will allow me to tackle more advanced projects.
+  I am very interested in socially aware machine-learning applications with a focus
+  on algorithmic fairness, and I am also open to exploring entirely new directions
+  in artificial intelligence research that may be of interest. I hope the NAIRR projects
+  will help clarify my future research directions, and that the summer project will
+  also produce some publishable results! Thank you for considering my application.'
 image: "/assets/images/pictures/aditya_mittal.jpg"
 ---
 

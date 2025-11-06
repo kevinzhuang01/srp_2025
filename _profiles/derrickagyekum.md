@@ -49,6 +49,23 @@ academic_interests: "Iâ\x80\x99m interested in applied AI/ML that moves from re
   between models and outcomes."
 topical_areas: Applied Computer Science; Computer Science; Informatics, Analytics
   and Information Science; Other Computer and Information Sciences
+motivation: "I want to join Sustainable Research Pathways to grow as a researcher
+  while contributing to an inclusive, impact-driven AI community. As a CS major (AI/ML
+  focus) at Michigan State University, Iâ\x80\x99ve helped faculty as a Professorial
+  Assistant build data-mining and ML pipelines in Python/SQL/TensorFlow and learned
+  how rigorous methods, careful evaluation, and clear communication turn raw data
+  into decisions. SRPâ\x80\x99s mission, which include mentoring, collaboration across
+  backgrounds, and hands-on work with NAIRR projects, matches how I like to learn.
+  My research interests are applied AI for public benefit: NLP and retrieval-augmented
+  generation, recommendation/personalization, and time-series/causal methods for forecasting
+  and decision support. I bring solid software skills (iOS, full-stack, SQL), experience
+  shipping features, and a habit of testing ideas with experiments and metrics. Through
+  SRP I hope to deepen my research toolkit (problem formulation, literature synthesis,
+  experimental design, MLOps), contributes to a publishable project, and learn from
+  mentors committed to inclusive excellence. In return I offer energy, humility, and
+  a builderâ\x80\x99s mindset, ready to prototype, analyze, write, and present. Iâ\x80\x99m
+  excited to help SRPâ\x80\x99s community connect rigorous AI research to real-world
+  problems where it can improve lives."
 image: "/assets/images/pictures/derrick_agyekum.jpg"
 ---
 

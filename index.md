@@ -1,7 +1,7 @@
 ---
 layout: default
-title: SHI BE@US-RSE25 Participant Profiles
-description: Profile pages for Sustainable Horizons Institute BE@US-RSE25 participants 
+title: SHI SRP 25-26 Participant Profiles
+description: Profile pages for Sustainable Horizons Institute SRP 25-26 participants 
 ---
 ## Our Participants
 
@@ -20,12 +20,15 @@ description: Profile pages for Sustainable Horizons Institute BE@US-RSE25 partic
     
     <div class="profile-card-content">
       <h3><a href="{{ profile.url | relative_url }}">{{ profile.name }}</a></h3>
-      {% if profile.project_title %}
-        <p class="profile-card-title">{{ profile.project_title }}</p>
+      {% if profile.pronouns %}
+        <p class="profile-card-pronouns">{{ profile.pronouns }}</p>
       {% endif %}
       <p class="profile-card-org">{{ profile.organization }}</p>
-      {% if profile.academic_interests %}
-        <p class="profile-card-bio">{{ profile.academic_interests | truncate: 150 }}</p>
+      {% if profile.department %}
+        <p class="profile-card-department">{{ profile.department }}</p>
+      {% endif %}
+      {% if profile.biography %}
+        <p class="profile-card-bio">{{ profile.biography | truncate: 150 }}</p>
       {% endif %}
       
       <div class="profile-card-links">

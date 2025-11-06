@@ -43,6 +43,13 @@ academic_interests: "Iâ\x80\x99m interested in cybersecurity, data science, and
 topical_areas: Applied Computer Science; Artificial Intelligence and Intelligent Systems;
   Computer Science; Informatics, Analytics and Information Science; Other Computer
   and Information Sciences; Training; Organization
+motivation: "I want to participate in this internship to challenge myself and gain
+  real world experience in computer science. Iâ\x80\x99m excited to learn new things,
+  explore areas I havenâ\x80\x99t tried before, and grow both personally and professionally.
+  I also hope to connect with others who share similar interests and can inspire me
+  to keep learning. Since I donâ\x80\x99t have much hands-on experience yet, I see
+  this internship as a great opportunity to build confidence, develop my skills, and
+  take the next step toward a career in Information Technology or Cybersecurity."
 image: "/assets/images/pictures/taylor_garcia.jpg"
 ---
 

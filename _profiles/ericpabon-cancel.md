@@ -53,6 +53,20 @@ academic_interests: My interests currently lie in dynamical systems, data-driven
 topical_areas: Applied Mathematics; Artificial Intelligence and Intelligent Systems;
   Atmospheric Sciences; Informatics, Analytics and Information Science; Other Computer
   and Information Sciences
+motivation: I want to participate in the Sustainable Horizons Institute-Sustainable
+  Research Pathways program because it will help me connect with laboratory research
+  scientists, professors, and students interested in my areas of research. I am currently
+  in my fifth semester of the graduate program in Mathematics at Purdue University,
+  where I have taken the core courses, such as Abstract Algebra and Measure Theory,
+  as well as courses in applied math, like Dynamical Systems and Mathematical Modeling.
+  For the Fall 2025 semester, I will take courses in Probability and Numerical Ordinary
+  Differential Equations, since they overlap with my interests in Machine Learning
+  and Dynamical Systems. These courses will prepare me to obtain knowledge that can
+  be applied to research that is of interest to the National Artificial Intelligence
+  Research Resource Pilot program. Through the program, I hope to learn about other
+  areas of research that might be of interest as well. My overall goal once I finish
+  my graduate studies is to become a mathematical research scientist and work as a
+  researcher in a laboratory, solving problems that are of national interest.
 ---
 
 ## Academic Interests

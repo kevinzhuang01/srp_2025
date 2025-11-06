@@ -77,6 +77,25 @@ topical_areas: Applied Computer Science; Artificial Intelligence and Intelligent
   Engineering; Informatics, Analytics and Information Science; Materials Engineering;
   Mechanical Engineering; Performance Evaluation and Benchmarking; Statistics and
   Probability; Visualization and Human-Computer Systems
+motivation: "I want to participate in this program because it aligns closely with
+  both my academic journey and long-term goals. As someone who was part of SRP 2023,
+  I experienced firsthand how the program creates meaningful collaborations and mentorship
+  opportunities. Returning now as a PhD student, I am eager to deepen that experience
+  and contribute more strongly to the community. My current research focuses on using
+  artificial intelligence and computer vision for real-time quality control in additive
+  manufacturing. Through this work, I have developed deep learning pipelines and digital
+  twin systems using machine learning models like YOLO, CNNs, with publications in
+  FAIM 2025 and an accepted lecture at IEEE Sensors 2025. I also gained experience
+  at Lawrence Berkeley Lab, where I built large-scale data pipelines using NLP that
+  improved efficiency at NERSC by 15%. I believe these skills prepare me to contribute
+  to NAIRR-supported projects that advance AI for science and engineering. Through
+  SRPâ\x80\x93NAIRR, I hope to expand my technical expertise by working with projects
+  that use NAIRR resources to address real-world challenges. Just as important, I
+  want to be part of a community where I can both learn from mentors and peers and
+  also share my own perspective as someone committed to applying AI for sustainability,
+  trustworthy automation, and equitable access to technology. I see this fellowship
+  as a pathway not only to strengthen my research but also to prepare me to mentor
+  others and to build long-term collaborations that extend beyond my PhD."
 image: "/assets/images/pictures/martha_asare.jpg"
 ---
 

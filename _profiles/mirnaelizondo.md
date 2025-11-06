@@ -55,6 +55,14 @@ academic_interests: My research and academic interests focus on the intersection
   about unbiased and fair AI, ensuring that predictive insights are actionable and
   equitable.
 topical_areas: Computer Science
+motivation: "I want to participate in the Sustainable Research Pathways program because
+  it aligns perfectly with my passion for applying data science and AI to real-world
+  problems while engaging with a diverse community. I am excited by the opportunity
+  to work on NSF NAIRR projects and contributing my own experience in healthcare analytics
+  and machine learning. I hope to explore new approaches to creating fair and interpretable
+  models. Beyond the technical experience, I value the programâ\x80\x99s emphasis
+  on mentorship and community building. Ultimately, I hope this program will strengthen
+  my ability to conduct impactful, inclusive research."
 image: "/assets/images/pictures/mirna_elizondo.jpg"
 ---
 

@@ -74,6 +74,26 @@ academic_interests: "My academic and research interests lie at the intersection 
 topical_areas: Applied Computer Science; Applied Mathematics; Artificial Intelligence
   and Intelligent Systems; Biochemistry and Molecular Biology; Biophysics; Computer
   Science; Medical Engineering; Other Biological Sciences; Statistics and Probability
+motivation: "I want to participate in the Sustainable Research Pathways program because
+  it unites my research interests with my commitment to inclusive science. My academic
+  path has been defined by bridging disciplines: biochemistry, molecular biology,
+  and data science, to tackle complex problems. In Dr. Summer Gibbsâ\x80\x99 lab,
+  I synthesized a novel near-infrared imaging probe for cancer diagnostics and developed
+  Python workflows to analyze imaging data. This experience showed me how computational
+  tools can transform experimental results into actionable insights, and I am eager
+  to expand this integration through NAIRR-supported projects. Just as important,
+  I am drawn to the programâ\x80\x99s community. As a first-generation Filipina student,
+  I have witnessed how mentorship and collaborative networks can open doors that once
+  seemed out of reach. SRPâ\x80\x99s mission to build inclusive research ecosystems
+  resonates deeply with me, and I want to contribute to a space where diverse voices
+  shape innovative science. Through this program, I hope to grow in two key ways:
+  by advancing my technical expertise through a challenging, interdisciplinary research
+  project, and by strengthening my ability to collaborate across fields and backgrounds.
+  I am especially excited about the chance to present research at professional conferences,
+  to connect with faculty and peers from across the country, and to bring my own skills
+  in chemistry, biology, and data science to a team setting. SRP is a rare opportunity
+  to grow as both a scientist and a community member, and I am ready to contribute
+  fully to both."
 ---
 
 ## Academic Interests

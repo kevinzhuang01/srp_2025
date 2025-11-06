@@ -70,6 +70,28 @@ topical_areas: Applied Computer Science; Applied Mathematics; Astronomy and Plan
   and Solid Earth Sciences; Materials Engineering; Other Computer and Information
   Sciences; Other Earth and Environmental Sciences; Other Engineering and Technologies;
   Statistics and Probability
+motivation: "Since my undergraduate years as a physics major, I have always been drawn
+  to pursuing problems that spark curiosity and push me to learn more. Early on, I
+  was fascinated by condensed matter physics, solid-state systems, and computational
+  approaches to physical problems. My journey led me into sustainable energy research
+  and, over time, into computational materials science â\x80\x93 exploring Martian
+  planetary materials, and quantum information science. Each new direction revealed
+  a broader landscape of possibilities that I never imagined when I first began. As
+  I gained experience, I became deeply interested in the power of deep learning and
+  machine learning to accelerate scientific discovery. I have been fortunate to work
+  on challenging projects and to learn from advanced courses and research experiences
+  that strengthened both my theoretical and computational skills. More importantly,
+  I have been incredibly fortunate to work with mentors whose guidance, encouragement,
+  and generosity have shaped my growth as a rising scientist. Their influence has
+  instilled in me not only a desire to pursue knowledge for its own sake, but also
+  a responsibility to contribute to a thriving and supportive scientific community.
+  If given the opportunity, I hope to continue this collaborative spirit by contributing
+  my skills to meaningful scientific problems, from developing innovative AI-driven
+  workflows to addressing pressing challenges in current scientific research. Through
+  this experience, I hope to be able to inspire the next generation of researchers
+  â\x80\x93 especially first-generation college students and those from underrepresented
+  backgrounds â\x80\x93 by fostering a more inclusive and supportive scientific community
+  where all voices are heard, valued, and empowered to thrive."
 image: "/assets/images/pictures/abdullah_maruf.jpg"
 ---
 

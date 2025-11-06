@@ -37,6 +37,24 @@ academic_interests: My research interests lie at the intersection of data scienc
   in the years to come.
 topical_areas: Informatics, Analytics and Information Science; Particle and High-Energy
   Physics; Visualization and Human-Computer Systems
+motivation: "I am a Ph.D. candidate in Nuclear Physics at the University of Kansas,
+  focusing my research on forward physics measurements utilizing the CMS Zero Degree
+  Calorimeter at the CERN Large Hadron Collider. This study integrates detector calibration,
+  extensive data processing, and physics interpretation to investigate neutron production
+  and nuclear halting in heavy-ion collisions. These endeavors have highlighted the
+  essential role of improved computational techniques in the future of nuclear physics.
+  My motivation to engage in the Sustainable Research Pathways - NAIRR Program arises
+  from a desire to enhance my proficiency in data science, machine learning, and artificial
+  intelligence, and to utilize these tools to address difficulties in nuclear instrumentation
+  and detector technologies. I perceive AI-driven methodologies as revolutionary for
+  the analysis of extensive datasets produced in high-energy physics experiments and
+  for enhancing detector efficacy. Engaging with NAIRR resources and collaborating
+  across disciplines would enable me to expand my work beyond physics, contributing
+  to collective experimental and computational frameworks that benefit the wider scientific
+  community. My objective is to establish a research career that integrates nuclear
+  science with AI-driven data science, and I contend that SRPâ\x80\x93NAIRR offers
+  the optimal platform to gain new competencies, forge enduring collaborations, and
+  make significant contributions to the advancement of national research infrastructure."
 image: "/assets/images/pictures/michael_chukwuka.jpg"
 ---
 

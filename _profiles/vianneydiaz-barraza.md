@@ -52,6 +52,28 @@ academic_interests: I have strong interest in AI/machine learning and software d
 topical_areas: Applied Computer Science; Artificial Intelligence and Intelligent Systems;
   Computer Science; Electrical, Electronic, and Information Engineering; Fluid and
   Plasma Physics; Other Computer and Information Sciences
+motivation: This program is a unique opportunity for me to grow and develop academically
+  and professionally. I want to explore more areas of research in my field and for
+  my interest, and if possible, to learn how to implement software development and
+  AI/Machine learning in different fields. Since I entered college, I have been seeking
+  places where I can combine my technical skills in programming and my interest in
+  science and math in an applicable and innovative project. I'm a physics enthusiast.
+  Since I entered my mechanics class, I have been fascinated, and with the recent
+  experience in nuclear physics I had, my interest in particles and nuclear physics
+  has just grown with time, but my interest in innovating and creating tools is what
+  motivates me to keep looking for challenges and surpass myself in every step I take.
+  I'm motivated by the possibility of working on National Artificial Intelligence
+  Research Resource (NAIRR) projects. I want to contribute and create a real impact
+  in my community and, in the future, become a great engineer and learn more about
+  the topics I'm passionate about. Something that I found very attractive is the fact
+  that I want to be part of a community that listens to students, professors, and
+  professionals. I think the contribution should be part of every member, and having
+  a diversity of opinions, thoughts, and points of view is important to enrich science
+  and create a safe and proactive community. Personally, I love talking, and connecting
+  with other people who are passionate about the same topics as me is very important.
+  I expect not just to gain technical and research knowledge, but to create lifelong
+  connections with my peers and mentors, share my own experiences and opinions, and
+  receive mentorship to continue my path in research.
 ---
 
 ## Academic Interests

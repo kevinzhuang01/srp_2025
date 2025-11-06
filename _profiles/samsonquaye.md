@@ -56,6 +56,18 @@ topical_areas: Applied Computer Science; Applied Mathematics; Artificial Intelli
   Science; Other Computer and Information Sciences; Other Engineering and Technologies;
   Performance Evaluation and Benchmarking; Statistics and Probability; Visualization
   and Human-Computer Systems
+motivation: I want to participate in the Sustainable Research Pathways program because
+  of the nature of the program, primarily mentoring you to grow in research. I believe
+  this program will give me the chance to grow as a researcher by working closely
+  with mentors and collaborators who share an interest in solving real-world problems
+  with scientific approaches. It would help deepen my understanding in conducting
+  scientific research and collaborating with scholars from different background. I
+  hope to contribute my skills in mathematics and AI while also learning from others
+  whose perspectives and experiences are different from mine. From this experience,
+  I want to gain not only technical growth but also the professional development and
+  connections that can guide me as I move forward in my academic and research career.
+  My goal is to come out of the program with stronger research skills, a clearer sense
+  of direction in the domain area I get the chance to work in.
 ---
 
 ## Academic Interests

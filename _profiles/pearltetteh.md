@@ -35,6 +35,14 @@ academic_interests: I am interested in fluid mechanics, more specifically comput
   the Ansys Fluent software to model 2D and 3D laminar flows. I would like to work
   on and learn more about uncertainty quantification in CFD.
 topical_areas: Civil Engineering
+motivation: I believe working in a non-academic research institute in addition to
+  my experience from an academic institution would give me a broader perspective of
+  current research ideas that are being pursued by the industry ,and would equip me
+  with certain skills that I might be limited in. Also, this internship gives me an
+  opporunity to get mentored by experts who have built legacies and contributed to
+  ground breaking projects. Lastly, I am positive that a community of like-minded
+  people in this program would foster growth diversely and aid create some lasting
+  relationships.
 image: "/assets/images/pictures/pearl_tetteh.jpg"
 ---
 

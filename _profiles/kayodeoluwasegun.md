@@ -72,6 +72,44 @@ academic_interests: My research interest lies in the development and analysis of
   AI and computing resources.
 topical_areas: Applied Mathematics; Artificial Intelligence and Intelligent Systems;
   Climate and Global Dynamics; Ecology; Statistics and Probability
+motivation: "I remember completing the post-conference survey for the BE program at
+  SIAM CSE25 and answering the question, â\x80\x9CWhat other SHI projects are you
+  interested in, or have you attended any other programs before?â\x80\x9D Part of
+  my response included, â\x80\x9CI would appreciate a program that specifically provides
+  a connection between students in my category and prospective employers such as national
+  laboratories and industries, allowing us to gain experience working outside the
+  school setting. I know the Sustainable Research Pathways Program provides such an
+  opportunity, and I am interested in that if it is still running.â\x80\x9D It gladdens
+  my heart to see this program opening at this time. Having been submerged in rigorous
+  research activities through my ongoing PhD journey at Drexel University, I see the
+  Sustainable Research Pathways (SRP) program as a platform to find hands-on expression
+  for all my training and a unique opportunity to make a real-world impact. While
+  I am grateful for my academic preparations so far, I know that beyond that is the
+  need to engage with projects that define the realities of our time. The SRP-NAIRR
+  partnership provides the opportunity to expand my understanding and usage of advanced
+  computational methods, data, and AI-driven techniques to advance research that is
+  beneficial for science and society. My research thus far has prepared me for modeling
+  real-life problems, including the spread of invasive species by framing them as
+  a free boundary problem and analyzing oceanic wave phenomena using advanced nonlinear
+  Schrodinger systems, among many others. These experiences on their own have given
+  me a strong mathematical background; however, beyond that is my desire to use the
+  human and infrastructural resources the SRP-NAIRR program offers to build collaborations
+  across disciplines and apply mathematical modeling to broader, societal-relevant
+  spaces. The benefits that have been highlighted for this program are just all the
+  support a student needs. As a graduate student navigating through the terrains of
+  research, career development, identity building, and potential job search, the opportunity
+  for mentoring from faculty and seasoned professionals on cutting-edge projects is
+  all I would want right now. I do not take mentoring for granted. The overall support,
+  including travel, housing, program participation, workshops, summer project experience,
+  conference support, and access, means a whole lot to me as an international student.
+  I am even more excited about how the SRP program is growing, and the new partnership
+  with the High Performance Software Foundation (HPSF) gives me an opportunity to
+  contribute to open-source high-performance computing projects that advance scientific
+  discovery. I desire to work in a space that beautifies mathematics in application,
+  and I am glad this program truly offers a pathway to AI, HPC, computational, and
+  data science careers. I know I will be challenged and more empowered to address
+  complex problems and amplify my research impact in healthcare, robotics, science
+  & engineering by being part of this program."
 image: "/assets/images/pictures/kayode_oluwasegun.jpg"
 ---
 

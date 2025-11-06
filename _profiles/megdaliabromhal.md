@@ -63,6 +63,14 @@ academic_interests: "Iâ\x80\x99m primarily interested in computer vision, robot
   and efficient vision algorithms that can be deployed in dynamic, real-world conditions."
 topical_areas: Applied Computer Science; Artificial Intelligence and Intelligent Systems;
   Computer Science
+motivation: "Iâ\x80\x99m drawn to this opportunity because it offers a chance to deepen
+  my knowledge in AI and robotics â\x80\x94 fields Iâ\x80\x99m passionate about and
+  actively working in. I see this program as a powerful step toward my mission of
+  using technology to help people. The chance to be mentored in new and exciting fields
+  of AI is incredibly meaningful to me, and Iâ\x80\x99m eager to learn as much as
+  I can and apply it to new inventions and ideas. Iâ\x80\x99m especially excited about
+  connecting what I learn through this experience to my own research as I continue
+  my Ph.D. journey."
 image: "/assets/images/pictures/megdalia_bromhal.jpg"
 ---
 

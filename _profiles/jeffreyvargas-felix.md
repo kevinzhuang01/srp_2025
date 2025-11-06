@@ -25,6 +25,13 @@ academic_interests: I'm interested in researching AI, machine learning, Cybersec
   networking and computer processing. I am very interested in making programs that
   are used to track data.
 topical_areas: Computer Science
+motivation: My motivation to join this program is my continuous strife to do better
+  in a competitive world/market of Computer Science Engineering. If I see an opportunity
+  to advance and become better in this field I would like to take it. I want to participate
+  in this community because it sounds like there will be a lot of like minded individuals
+  who will push me to be a better version of myself, I would be excited to work with
+  people who have already gone through a path similar to mine. I think this project
+  would benefit me greatly in many ways.
 ---
 
 ## Academic Interests

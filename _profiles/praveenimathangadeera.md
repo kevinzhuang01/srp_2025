@@ -71,6 +71,68 @@ academic_interests: My primary research interests are in applied and computation
   that support the understanding of climate related processes.
 topical_areas: Applied Mathematics; Climate and Global Dynamics; Fluid and Plasma
   Physics; Geology and Solid Earth Sciences; Other Earth and Environmental Sciences
+motivation: "I am a fifth year PhD student in the Department of Mathematics at Oregon
+  State University and I am working under the guidance of Professor Malgorzata Peszynska.
+  I would like to apply to the NSF National AI Research Resource (NAIRR) pilot and
+  the High Performance Software Foundation (HPSF) projects to get an opportunity to
+  extend my knowledge in computational methods, high performance computing, and modern
+  data science tools that support advanced research in applied mathematics and multiphysics
+  modeling. My primary research interests are in applied and computational mathematics
+  with a focus on numerical analysis and mathematical modeling of multiphysics phenomena.
+  I am confident that the experience and skills I gain from being involved in this
+  project will significantly enhance my ability to make meaningful contributions to
+  both my current research and future professional pursuits. My ongoing PhD research,
+  â\x80\x9CModeling and Numerical Analysis in Cryosphereâ\x80\x9D focuses on modeling
+  processes in cold regions and in the Arctic, which takes advantage of a lot of experimentally
+  collected data. This research continues from work that began as my Master's capstone
+  project. I am particularly interested in applications in climate science related
+  to the cryosphere, such as thermal conduction and fluid flow in cold regions. I
+  mainly work with finite volumes and use Matlab at an advanced level for coding purposes.
+  Additionally, I also worked and had experience with R, Maple, SPSS, Python, and
+  C. I would also like to work with computational methods and implement them in scientific
+  computing environments. Additionally, I am interested in high performance computing
+  and the simulation of large-scale, data-driven models that support the understanding
+  of climate related processes. In July 2023, I attended the Applied Mathematics Skills
+  Improvement for Graduate Studies Advancement (AMIGAs) program at IPAM, UCLA. During
+  this program, I gained experience in computational skills such as statistics, optimization,
+  and machine learning. I participated in professional development activities and
+  research talks focused on the mathematics of data science and its applications.
+  The tutorials covered skills in computer programming, mathematical modeling, and
+  data management. In particular, I completed several courses from DataCamp, including
+  Machine Learning with scikit-learn, as well as courses in Python and R. In October
+  2024, I had the privilege of attending the SIAM MDS 2024 conference, where I participated
+  in the ''Hands on HPC for MDS'' workshop and had the opportunity to get hands-on
+  experience using ORNLâ\x80\x99s exascale supercomputer, Frontier. This workshop
+  taught me how to run large-scale simulations on a supercomputer. This experience
+  has greatly improved my understanding of the strengths and challenges of working
+  with advanced HPC systems. In June 2025, I participated in the Structure-Preserving
+  Scientific Computing and Machine Learning: Summer School and Hackathon at University
+  of Washington, Seattle. The program focused on the structure-preserving numerical
+  methods and machine learning, featuring lectures and hands on tutorials led by experts
+  in computational mathematics. As part of the hackathon, I collaborated with fellow
+  students on the project ''Developing Physics-Informed Preconditioners for a Thermal
+  Radiative Transfer Model'' led by Dr. Terry Haut from Lawrence Livermore National
+  Laboratory (LLNL). This experience deepened my understanding of advanced numerical
+  methods and further strengthened my skills in teamwork, scientific computing, and
+  problem solving in a challenging research environment. As a researcher in applied
+  and computational mathematics modeling of multiphysics phenomena, my future plans
+  involve developing and simulating complex, efficient, large-scale computational
+  models, particularly in thermal conduction and fluid interactions, which handle
+  vast datasets and require high performance computing resources to solve effectively.
+  I believe that being involved in a NAIRR or HPSF project will help to improve my
+  skills and provide the knowledge I need to achieve my goals. Being involved in a
+  NAIRR or HPSF project would be a great opportunity for me in many ways. This project
+  experience would be heavily supported to enhance my ongoing PhD research and also
+  to improve me as an independent advanced researcher. Apart from contributing to
+  the project, I am looking forward to networking with other scientists and students.
+  I am happy to learn important peopleâ\x80\x99s skills so I can later volunteer and
+  help others. I would regard applying to the NSF National AI Research Resource (NAIRR)
+  pilot and the High Performance Software Foundation (HPSF) projects as a valuable
+  opportunity to learn and further develop my skills. I would like my application
+  to be considered for both NAIRR and HPSF projects, but I prefer HPSF projects more,
+  as they align more closely with my research interests. I believe that being involved
+  in NAIRR or HPSF project would help me with an ideal environment to advance as a
+  researcher in my field. Thank you very much for considering my application."
 image: "/assets/images/pictures/praveeni_mathangadeera.jpg"
 ---
 

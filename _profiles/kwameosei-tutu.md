@@ -32,6 +32,16 @@ academic_interests: "Optimizing ML models via mixed precision techniques. Curren
 topical_areas: Applied Computer Science; Applied Mathematics; Artificial Intelligence
   and Intelligent Systems; Computer Science; Performance Evaluation and Benchmarking;
   Statistics and Probability
+motivation: "From a young age, I've been fascinated with both mathematics and computersâ\x80\x94mathematics
+  because I believe it's the language of the universe, and computers because of their
+  ability to create solutions that previous generations would have marveled at. It
+  is that passion that motivates me everyday in my research to read and attempt to
+  push the boundaries of knowledge and tools at humanity's disposal. My interest in
+  the cutting edge of technology is what drives me to want to work with research labs
+  that are, even in the smallest of ways, pushing the envelope in any field at the
+  intersection of math and computing. Therefore, the summer 2026 projects that are
+  focused on AI and HPC are perfectly aligned with my interests and that's why I've
+  felt compelled to apply."
 image: "/assets/images/pictures/kwame_osei_tutu.jpg"
 ---
 

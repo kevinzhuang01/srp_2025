@@ -54,6 +54,27 @@ academic_interests: I am interested in making high-dimensional data analysis rep
   and production-level implementation.
 topical_areas: Applied Computer Science; Applied Mathematics; Clinical Medicine; Other
   Medical Sciences; Performance Evaluation and Benchmarking; Statistics and Probability
+motivation: "I'm applying to Sustainable Research Pathways because the program sits
+  exactly where I want to grow - robust, open, and collaborative research on scale.
+  My recent work in Dr. Stephanie Hicks's lab - creating reproducible spatial transcriptomics
+  pipelines, translating SpotSweeper to Python and bundling Visium HD preprocessing
+  into a pip-installable package - taught me that it is accurate assumptions, uncertainty
+  quantification, and easy-to-access software that transform analyses into common,
+  durable products. SRP's association with NAIRR projects would enable me to stress-test
+  such habits on larger, more advanced datasets and adopt community standards that
+  traverse the walls of a single lab. I will contribute as both a builder and a teammate.
+  I write clean, commented code; version data and experiments; and create publication-quality
+  figures explaining parameter choices. As lead TA for Differential Equations, I have
+  learned to elaborate briefly, scaffold to different starting points, and provide
+  templates others can easily learn from: those are techniques I could apply to research
+  onboarding and open-source documentation. In return, Iâ\x80\x99m seeking close mentorship
+  on method design and benchmarking, exposure to production-grade data and computing
+  platforms, and feedback that raises my bar for statistical rigor and software reliability.
+  Later on, I aspire to go for a PhD in biostatistics/biomedical data science. SRP's
+  multicultural community and cross-institutional collaborations are the ideal context
+  for me to develop statistically sound, computationally fast methods and tools that
+  are simple for others to deploy - so results are not just interesting, but also
+  significant and useful."
 image: "/assets/images/pictures/xingyi_chen.jpg"
 ---
 

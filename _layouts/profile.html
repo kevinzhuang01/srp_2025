@@ -14,8 +14,8 @@ layout: default
     
     <div class="profile-info">
       <h1>{{ page.name }}</h1>
-      {% if page.project_title %}
-        <h2>{{ page.project_title }}</h2>
+      {% if page.pronouns %}
+        <p class="profile-pronouns">{{ page.pronouns }}</p>
       {% endif %}
       {% if page.organization %}
         <h3>{{ page.organization }}</h3>
@@ -53,18 +53,59 @@ layout: default
   </div>
   
   <div class="profile-bio">
-    <h3>Abstract</h3>
-    {% if page.abstract and page.abstract != "" %}
-      <p>{{ page.abstract }}</p>
-    {% else %}
-      <p><em>N/A</em></p>
+    {% if page.biography and page.biography != "" %}
+      <h3>Biography</h3>
+      <p>{{ page.biography }}</p>
     {% endif %}
     
-    <h3>Project Title</h3>
-    {% if page.project_title and page.project_title != "" %}
-      <p>{{ page.project_title }}</p>
-    {% else %}
-      <p><em>N/A</em></p>
+    {% if page.academic_status and page.academic_status != "" %}
+      <h3>Academic Status</h3>
+      <p>{{ page.academic_status }}{% if page.year_in_program and page.year_in_program != "" %} - {{ page.year_in_program }}{% endif %}</p>
+    {% endif %}
+    
+    {% if page.research_area and page.research_area != "" %}
+      <h3>Research Area/Department</h3>
+      <p>{{ page.research_area }}</p>
+    {% endif %}
+    
+    {% if page.major and page.major != "" %}
+      <h3>Major/Specialty</h3>
+      <p>{{ page.major }}</p>
+    {% endif %}
+    
+    {% if page.degrees and page.degrees != "" %}
+      <h3>Degrees Earned or in Progress</h3>
+      <p>{{ page.degrees }}</p>
+    {% endif %}
+    
+    {% if page.courses and page.courses != "" %}
+      <h3>Academic Preparation</h3>
+      <p>{{ page.courses }}</p>
+    {% endif %}
+    
+    {% if page.research_experience and page.research_experience != "" %}
+      <h3>Research/Publications</h3>
+      <p>{{ page.research_experience }}</p>
+    {% endif %}
+    
+    {% if page.academic_interests and page.academic_interests != "" %}
+      <h3>Research/Academic Interests</h3>
+      <p>{{ page.academic_interests }}</p>
+    {% endif %}
+    
+    {% if page.topical_areas and page.topical_areas != "" %}
+      <h3>Computational and Data Science Areas</h3>
+      <p>{{ page.topical_areas }}</p>
+    {% endif %}
+    
+    {% if page.motivation and page.motivation != "" %}
+      <h3>Motivation</h3>
+      <p>{{ page.motivation }}</p>
+    {% endif %}
+    
+    {% if page.lightning_talk and page.lightning_talk != "" %}
+      <h3>Lightning Talk Title</h3>
+      <p>{{ page.lightning_talk }}</p>
     {% endif %}
   </div>
 

@@ -32,6 +32,18 @@ academic_interests: My research interests lie at the intersection of causal mode
   on a decision-support framework that combines causal inference and generative modeling
   to provide actionable insights for HPC system management.
 topical_areas: Artificial Intelligence and Intelligent Systems; Computer Science
+motivation: "High-performance computing (HPC) systems generate vast amounts of trace
+  and performance data that capture the intricate interactions between hardware, software,
+  and workloads. Yet, despite their richness, these datasets remain understudied in
+  terms of structure. These datasets represent complex, interdependent systems where
+  standard statistical or predictive methods often mask the true drivers of performance.
+  At the same time, causal modeling remains underutilized in HPC, even though it offers
+  the tools to disentangle dependencies, identify key bottlenecks, and ask meaningful
+  â\x80\x9Cwhat-ifâ\x80\x9D questions. This gap between the complexity of HPC data
+  and the limited application of causal approaches strongly motivates my research.
+  By integrating causal modeling with generative methods, I aim to better understand
+  these systems, uncover actionable insights, and ultimately improve performance prediction,
+  scheduling, and energy efficiency in large-scale computing environments."
 ---
 
 ## Academic Interests

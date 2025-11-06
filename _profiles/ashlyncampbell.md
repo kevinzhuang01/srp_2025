@@ -58,6 +58,15 @@ academic_interests: 'My research interests lie in broadening access to AI by cre
 topical_areas: Applied Computer Science; Artificial Intelligence and Intelligent Systems;
   Computer Science; Educational Sciences; Informatics, Analytics and Information Science;
   Other Computer and Information Sciences; Visualization and Human-Computer Systems
+motivation: 'My motivation to participate in this program is two-fold: 1) the mission
+  of the NAIRR Pilot strongly aligns with my personal values, and 2) the research
+  of the partnering organizations and institutions embodies my research drive. My
+  research is centered on providing resources to students, and joining this community
+  would be a great step in building lifelong connections. Nonetheless, the capacity
+  and community-building research introduced strongly aligns with my background and
+  interests. I have long been interested in the work done by the Computing Research
+  Association, as well as in collaborating with additional minority-serving institutions,
+  and I believe this work will have a lasting impact.'
 image: "/assets/images/pictures/ashlyn_campbell.jpg"
 ---
 

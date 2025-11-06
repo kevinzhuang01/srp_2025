@@ -36,6 +36,16 @@ academic_interests: AI and data science applied to high-performance computing, l
 topical_areas: Applied Computer Science; Artificial Intelligence and Intelligent Systems;
   Computer Science; Informatics, Analytics and Information Science; Statistics and
   Probability; Training; Visualization and Human-Computer Systems
+motivation: "I want to participate in SRP because Iâ\x80\x99m motivated by applied,
+  hands-on research that connects computational methods with real-world data. Over
+  the past year and a half, my entry into research has been challenging, but Iâ\x80\x99ve
+  loved being in an environment where I can keep learning while working on problems
+  that havenâ\x80\x99t been solved before. Projects like training Transformer models
+  for multilingual research at CLEF, building a FHIR-compliant data pipeline in my
+  VIP project, and processing radar simulation data during my GTRI internship have
+  shown me how much I enjoy turning complex data into actionable insights. Through
+  SRP, I hope to continue developing my skills, tackle new applied challenges, and
+  collaborate with mentors and peers who inspire me to keep growing as a researcher."
 image: "/assets/images/pictures/dionne_bang.jpg"
 ---
 

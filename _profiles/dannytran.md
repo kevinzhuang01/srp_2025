@@ -33,6 +33,19 @@ topical_areas: Applied Computer Science; Artificial Intelligence and Intelligent
   Climate and Global Dynamics; Computer Science; Ecology; Informatics, Analytics and
   Information Science; Other Computer and Information Sciences; Other Earth and Environmental
   Sciences; Statistics and Probability; Visualization and Human-Computer Systems
+motivation: I want to participate in this program because I want to build upon my
+  existing skills while also developing new skills in a more applied and professional
+  setting. I am very interested in how computer/data science and AI/ML can be used
+  in my prospective field and so I am really hoping to join and learn lots about it
+  through this program. I believe that many others feel the same way and so I am excited
+  to meet like-minded people who are environmentally conscious through this community.
+  In a diverse group of like-minded people, I will surely learn a lot and consider
+  problems from many perspectives which I have yet to consider/think deeply about.
+  Through this experience, I am hoping to learn a lot and also build upon my technical
+  skills. A lot of my coursework has been theoretical (with the occasional projects)
+  with no significant impact on the real world besides my own learning. Coming out
+  of this program, I am hoping to have developed something important and impactful
+  to the world--even if it is the smallest thing.
 ---
 
 ## Academic Interests

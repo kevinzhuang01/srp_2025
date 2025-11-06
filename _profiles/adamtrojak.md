@@ -55,6 +55,22 @@ topical_areas: Applied Computer Science; Applied Mathematics; Artificial Intelli
   Other Computer and Information Sciences; Other Engineering and Technologies; Performance
   Evaluation and Benchmarking; Statistics and Probability; Training; Visualization
   and Human-Computer Systems
+motivation: I would like to participate in this program because it would connect me
+  with scientific researchers utilizing HPC to advance Artificial Intelligence and
+  Sustainability research, and that is a goal that I wish to be a part of. I know
+  that I am capable of contributing to any and all NAIRR projects, and I would love
+  to use my skills to progress innovation and science. I would like to join the SRP
+  community because we share common goals, and I have already met many wonderful students
+  and faculty during my time at the Intro to HPC Bootcamp, and it would be invaluable
+  to me if I was able to reconnect with them as well as foster new connections in
+  the SRP community. I am looking for a mentor to guide me through the world of HPC
+  and AI for scientific research, and SRP has the most talented and open mentors.
+  I hope to get hands on experience advancing AI research during this program, as
+  well as make strong connection with the scientific community at SRP. It is my dream
+  to work at a National Laboratory, and this experience with SRP would be a great
+  step towards this goal. Overall, I would like to participate in this program to
+  build a lasting connection with scientists and researchers in the fields that interest
+  me most, accelerate my career goals, and to contribute to valuable research.
 image: "/assets/images/pictures/adam_trojak.jpg"
 ---
 

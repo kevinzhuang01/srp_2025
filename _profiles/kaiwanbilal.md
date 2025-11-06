@@ -52,6 +52,31 @@ academic_interests: I am relatively flexible in my research areas with heightene
 topical_areas: Applied Computer Science; Applied Mathematics; Chemical Engineering;
   Computer Science; Condensed Matter Physics; Fluid and Plasma Physics; Materials
   Engineering; Particle and High-Energy Physics
+motivation: "The fields of physics and chemistry have always resonated with me, causing
+  my life to naturally assume a gearing for Engineering Physics, Chemistry, and Nanomaterials.
+  Through my studies, I hope to help address systemic divides centered around sustainable
+  accessibility. Fundamentally, SHI equips students with first-hand exposure to various
+  working systems. The ability to see modern labs and professional institutions frames
+  a studentâ\x80\x99s vision of how engineers tackle civil issues. This applicatory
+  facet supplements guided in-house laboratory experience, streamlining studentsâ\x80\x99
+  ideas into practical civil designs. Students like me would become uniquely aware
+  of the inner workings of community development; we would be able to develop and
+  communicate critical solutions to prolonged issues in modern America. Moreover,
+  SRP's consolidated student size produces a particularly intimate learning atmosphere,
+  enabling deeper conversations with experienced researchers. Ambitious students could
+  further assist in developing novel solutions to presently arising concerns, pioneering
+  steps toward the advancement of an accessible future for all. Through such mentorships,
+  SRP's faculty can afford an in-depth interest in each studentâ\x80\x99s endeavors,
+  providing students with a seasoned perspective on the prevalence of potentially
+  overlooked nuances in modern research. Sustainable Horizons Institute also sustains
+  a culture of innovation, offering various opportunities for students to actively
+  engage themselves in the dynamic worlds around them. This SRP program generates
+  a uniquely dual-sided drive between faculty and students, keeping themselves aware
+  of systemic issues within their communities while leading scientific developments
+  on the national level. SHI's tangible focus on advancement and progress pushes me
+  to pursue an education that not only involves my engagement with SHI's labs, research
+  opportunities, and faculty, but one that concurrently engages me in surrounding
+  civil dynamics."
 ---
 
 ## Academic Interests

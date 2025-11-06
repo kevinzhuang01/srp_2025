@@ -74,7 +74,8 @@ def csv_to_profiles
     "academic_interests" => row["Please describe your research/academic interests."],
     "topical_areas" => row["Please select all the topical areas that apply to your field of study:"],
     "motivation" => row["Motivation"],
-    "image" => image_path 
+    "lightning_talk" => row["Lightning Talk Title"],
+    "image" => image_path
 }
     
     # Remove empty fields

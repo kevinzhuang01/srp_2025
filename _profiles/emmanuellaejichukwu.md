@@ -67,6 +67,33 @@ academic_interests: My research interests focus on the application of artificial
 topical_areas: Artificial Intelligence and Intelligent Systems; Educational Sciences;
   Other Engineering and Technologies; Statistics and Probability; Visualization and
   Human-Computer Systems
+motivation: As a PhD student in Industrial and Systems Engineering, I am eager to
+  expand my research experience and build meaningful collaborations that broaden my
+  expertise. I want to join the Sustainable Research Pathways program because it aligns
+  closely with my interests in artificial intelligence, data science, and sustainable
+  systems. I look forward to learning from and working alongside faculty whose research
+  integrates computation, sustainability, and societal impact. I am particularly drawn
+  to research that uses computation and data analysis to promote sustainability and
+  equity. My curiosity about how AI systems improve human life has evolved into a
+  deeper interest in how these systems can be designed to be fair, transparent, and
+  sustainable. In my course projects, I have applied AI and machine learning to analyze
+  complex datasets in education and healthcare, developing algorithms that support
+  decision-making and systems optimization. I have also earned professional certifications
+  in AI to strengthen my technical foundation and prepare for interdisciplinary collaboration.
+  Beyond coursework, I actively engage with professional communities. I have presented
+  my research at the Institute of Industrial and Systems Engineers (IISE) conference
+  in the Data Analytics track and continue to attend workshops on sustainability and
+  AI to stay connected to emerging research. These experiences have expanded my network
+  and deepened my commitment to bridging technical innovation with real-world relevance.
+  Through the Sustainable Research Pathways program, I hope to apply my skills to
+  projects that explore the intersection of technology, equity, and resilience. I
+  am especially interested in how AI and high-performance computing can advance sustainable
+  manufacturing, energy efficiency, and equitable technology adoption. Collaborating
+  with researchers at national laboratories will help me strengthen my ability to
+  scale AI models for large, data-intensive problems and contribute to solutions that
+  create lasting social and environmental impact. Finally, I see SRP as an opportunity
+  to learn, contribute, and grow as a scholar who advances sustainability through
+  innovative, inclusive, and human-centered applications of AI.
 image: "/assets/images/pictures/emmanuella_ejichukwu.jpg"
 ---
 

@@ -55,6 +55,24 @@ topical_areas: Applied Computer Science; Applied Mathematics; Artificial Intelli
   and Intelligent Systems; Computer Science; Electrical, Electronic, and Information
   Engineering; Environmental Engineering; Informatics, Analytics and Information Science;
   Statistics and Probability; Visualization and Human-Computer Systems
+motivation: "Iâ\x80\x99m applying to Sustainable Research Pathways because it seems
+  to give what I care about most: rigorous AI research and a community that works
+  for betterment of people. As a Ph.D. student in Computer Science at the University
+  of Arkansas, my work centers on efficient, real-time perception for autonomous systems
+  (e.g., TinyBEV, sensor fusion, GPU/distributed training). Iâ\x80\x99ve seen how
+  inclusive teams produce better scientific solutions - whether mentoring 12 undergraduates
+  in a cybersecurity testbed and AI integration or supporting courses as a Teaching
+  Assistant - and I want to keep continue building in that spirit. Through SRP-NAIRR,
+  I hope to contribute practical strengths - model compression and optimization, robust
+  ML pipelines, and reproducible workflows - to a project where compute and data access
+  matter the most. Equally important, I want to learn from researchers beyond my circle,
+  strengthen my mentorship and collaboration skills, and practice communicating complex
+  ideas and research intuitions clearly to diverse audiences. What I am excited to
+  take away is more than a summer result: a reusable codebase or dataset contribution,
+  a conference-ready presentation, and a network of colleagues I can continue working
+  with after the program. Most of all, I want to help create a welcoming, high-trust
+  environment where everyone is heard, everyone learns, and the science we produce
+  is stronger because of it."
 image: "/assets/images/pictures/reeshad_khan.jpg"
 ---
 

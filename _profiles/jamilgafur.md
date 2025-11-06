@@ -70,6 +70,29 @@ topical_areas: Applied Computer Science; Applied Mathematics; Artificial Intelli
   and Intelligent Systems; Computer Science; Informatics, Analytics and Information
   Science; Other Computer and Information Sciences; Performance Evaluation and Benchmarking;
   Statistics and Probability; Training
+motivation: "Over the last few months, I have had the privilege of working closely
+  with the SHI to plan the student program for the US-RSE conference. During this
+  time, I have witnessed the care and dedication SHI puts into building meaningful
+  connections and fostering a community of collaboration. As someone who has worked
+  across both academic settings and various national labs, I deeply value the importance
+  of creating a welcoming research environment. I have always tried to create an environment
+  I wish I had when I was starting my own research journey. My doctoral research focuses
+  on machine learning, explainable AI, and energy-efficient network architecture design.
+  I have pursued this work even before the recent AI boom because I believe in developing
+  solutions that directly impact safety, equity, and environmental sustainability.
+  This aligns with my passion for conducting research that bridges theory with practical,
+  societal benefits. Through this program, I hope to further hone my research skills
+  and gain exposure to more advanced and diverse techniques within AI, especially
+  as they relate to the NSF National Artificial Intelligence Research Resource (NAIRR)
+  projects. In particular, I look forward to learning how to apply these techniques
+  in more impactful, real-world contexts, particularly around energy-efficient AI
+  systems. The combination of hands-on project work and community development activities
+  will be an invaluable opportunity for me to expand my research capabilities while
+  building meaningful relationships with mentors and peers who share similar values.
+  Ultimately, my goal is to contribute to the development of sustainable and equitable
+  AI solutions while continuing to grow in an environment that prioritizes inclusion
+  and collaboration. Iâ\x80\x99m excited for the opportunity to learn, mentor, and
+  build lasting connections through the Sustainable Research Pathways program."
 image: "/assets/images/pictures/jamil_gafur.jpg"
 ---
 

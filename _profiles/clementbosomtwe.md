@@ -58,6 +58,18 @@ topical_areas: Applied Computer Science; Artificial Intelligence and Intelligent
   Computer Science; Electrical, Electronic, and Information Engineering; Informatics,
   Analytics and Information Science; Performance Evaluation and Benchmarking; Statistics
   and Probability; Visualization and Human-Computer Systems
+motivation: I am eager to participate in the Sustainable Research Pathways program
+  to engage with the NSF NAIRR projects, aligning with Sustainable Horizons Institute's
+  mission to foster inclusive science and technology ecosystems that value diverse
+  voices. As a Ghanaian student in the U.S., I have witnessed how unreliable digital
+  systems hinder progress in developing regions, motivating me to build sustainable
+  connections through this program. I hope to gain hands-on experience in AI research
+  during the summer project, develop career skills through community activities, and
+  expand my network with mentors and peers from varied backgrounds. This will enhance
+  my ability to contribute to innovative, robust solutions in cybersecurity and software
+  engineering, while inspiring underrepresented communities in STEM. Ultimately, I
+  seek to thrive in an environment where everyone is welcome, driving technological
+  advancements that benefit global societies.
 image: "/assets/images/pictures/clement_bosomtwe.jpg"
 ---
 

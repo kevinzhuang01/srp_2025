@@ -70,6 +70,25 @@ academic_interests: My current research involves 2D to 3D reconstruction using N
   with a deterministic component like a PINN.
 topical_areas: Applied Mathematics; Artificial Intelligence and Intelligent Systems;
   Computer Science; Statistics and Probability
+motivation: My motivation to participate in the SRP program stems from my passion
+  for mathematics, computer science, and becoming a capable researcher. The SRP program
+  provides a pathway for aspiring researchers like me to hone their research-related
+  skills that are not taught through a formal classroom setting. In addition, it would
+  provide me with a platform to discuss mathematical and scientific topics and ideas
+  with peers and mentors. It creates an outlet to refine my research interests and
+  goals, and perhaps even develop new ones. If I were to be afforded this opportunity,
+  this program would not only allow me to gain invaluable skills to finish my Ph.D.
+  and become an accomplished researcher, but it would also give me a platform to help
+  others make a contribution to the world of math and science. I believe that my passion
+  for mathematics and computer science makes me a strong candidate for this program.
+  This is exemplified from my less-than-orthodox academic path and my continued research
+  initiatives. When I initially pursued my undergraduate degree, I thought that a
+  career in supply chain, an area that was the intersection of business and mathematics,
+  was what I wanted, but I quickly realized my passion was for mathematics and computer
+  science. Over the last decade, I have put in a tremendous amount of effort to deepen
+  my understanding in those concepts and swap career paths. Now I am working to push
+  even further to master these realms of knowledge, and I believe that the SRP Program
+  is the perfect opportunity to do so.
 image: "/assets/images/pictures/pierce_secola.jpg"
 ---
 

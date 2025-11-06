@@ -33,6 +33,14 @@ academic_interests: My main research interests focus on dynamical systems, real 
   I am motivated to contribute to collaborative research projects and foster interdisciplinary
   connections.
 topical_areas: Applied Mathematics; Computer Science
+motivation: "I want to participate in this program because I am excited about the
+  opportunity to work with a diverse community of students, faculty, and mentors,
+  and I am motivated by the idea of contributing to projects that advance mathematical
+  research, particularly in dynamical systems. Through this experience, I hope to
+  develop my research skills, apply mathematical concepts to challenging problems,
+  and contribute my knowledge and enthusiasm to the programâ\x80\x99s projects and
+  community activities, while learning from others and continuing to grow both academically
+  and personally"
 image: "/assets/images/pictures/tania_carolina_riano_martinez.jpg"
 ---
 

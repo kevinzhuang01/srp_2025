@@ -48,6 +48,13 @@ academic_interests: My research interest focuses on Computational Mathematics. I
   assess and compare the accuracy of computational results.
 topical_areas: Applied Mathematics; Artificial Intelligence and Intelligent Systems;
   Fluid and Plasma Physics
+motivation: Sustainable Research Pathways is an outstanding program that allows me
+  to collaborate with distinguished researchers and advance both my mathematical and
+  computational skills. This program closely aligns with my research goals, offering
+  opportunities to engage with ongoing research projects and acquire practical experience.
+  Presenting research at conferences helps me expand my network and offers valuable
+  feedback on my work. Overall, this program provides me with a unique opportunity
+  to learn, implement innovative ideas, and strengthen my career.
 ---
 
 ## Academic Interests

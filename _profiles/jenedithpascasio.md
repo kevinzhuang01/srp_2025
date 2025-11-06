@@ -48,6 +48,19 @@ academic_interests: I'm interested in computational and theoretical chemistry, w
   that benefit both communities and the world.
 topical_areas: Applied Computer Science; Applied Mathematics; Artificial Intelligence
   and Intelligent Systems; Computer Science
+motivation: I wish to join this program because it aligns with my goal of pursuing
+  a Ph.D. in Theoretical Chemistry. My current research has shown me firsthand how
+  powerful artificial intelligence can be in advancing sustainable technology, and
+  I am eager to expand my knowledge in this area. Participating in this program will
+  provide me with the skills and experience necessary to prepare for graduate level
+  research. Ultimately, my motivation is deeply personal. As a Latina immigrant, a
+  career in science often felt out of reach. Programs like UCSD STARS and Bridges
+  to the Baccalaureate changed my perspective and made me feel like I belonged. I
+  want to participate in programs like SRP not only to expand the tools I need for
+  my own research but also to pave the way for other Latina women, ensuring they feel
+  represented and know that science is within their reach. Lastly I want to honor
+  my parents sacrifices and inspire others, just as I've been inspired by the scientists
+  I've met along my journey.
 image: "/assets/images/pictures/jenedith_pascasio.jpg"
 ---
 

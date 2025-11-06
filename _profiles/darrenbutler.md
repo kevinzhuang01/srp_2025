@@ -81,6 +81,47 @@ topical_areas: Artificial Intelligence and Intelligent Systems; Computer Science
   Educational Sciences; Informatics, Analytics and Information Science; Other Computer
   and Information Sciences; Psychology Sociology; Visualization and Human-Computer
   Systems; Organization
+motivation: "I want to participate in the Sustainable Research Pathways to: 1) kick
+  off my career as a professional researcher beyond my graduate studies; 2) translate
+  my computational and human-centered computing skills into insights and tools that
+  support large-scale, collaborative software development. Iâ\x80\x99m a Ph.D. student
+  in Humanâ\x80\x93Computer Interaction at Carnegie Mellon, building SAFER-AI, a research
+  agenda contributing insights, frameworks, tools, and practices to help software
+  teams turn messy communication about high-stakes AI into better software. Generative
+  AI is unpredictably impacting software engineering and user experiences, requiring
+  software practitioners (developers, designers, and data scientists) to negotiate
+  risks when discussing software design. Without psychological safety â\x80\x93 the
+  belief that critique is welcomed â\x80\x93 teams neglect risks and software quality
+  suffers. I have witnessed software practitioners â\x80\x93 novice and experienced
+  â\x80\x93 deny help and withhold knowledge when they feel unsafe due to power differences
+  and knowledge gaps. As a minoritized scholar with experience in computing research,
+  education, and practice, Iâ\x80\x99m motivated to make psychologically safe collaboration
+  an everyday engineering practice so teams can strive for software development processes
+  and artifacts that are reliable and respectful to developers and end users. I bring
+  concrete experience delivering both insights and artifacts, combining interviews
+  with social-network and discourse analyses of communications from student engineering
+  teams to diagnose collaboration bottlenecks and prototype automated communication
+  support; and conducting regression and classification analyses on over 10k+ learner
+  records to link behavior to learning outcomes in digital learning platforms and
+  translating those insights into dashboards to support teacher decision-making. Iâ\x80\x99ve
+  also built full-stack tools that help NGO staff and teacher-training teams coordinate
+  knowledge sharing with AI agents. These projects reflect my work process: co-design
+  with practitioners and measure what matters. Iâ\x80\x99ll contribute practical deliverables:
+  a conference paper, well-documented code, reports, and checklists for auditing software
+  and team processes that improve software and research outcomes. Through Sustainable
+  Research Pathways, I want to pair human-centered methods with computational competencies
+  to support NAIRR or HPSF projects doing large-scale collaborative software development.
+  I wish to explore projects that offer me new experiences in science and engineering:
+  understanding the needs of scientists and software engineers, and addressing those
+  needs with better tools and practices. From SRP, Iâ\x80\x99m seeking mentorship
+  and partnership: guidance from lab leads and research software engineers on integrating
+  sociotechnical measures into AI operations and evaluation workflows; exposure to
+  NAIRRâ\x80\x99s or HPSFâ\x80\x99s large-scale collaborative software development,
+  compute, and datasets; and a community committed to sustaining inclusive, rigorous
+  science. SRP would be an effective bridge between my PhD and a professional career
+  in scientific research and development. I hope to increase the quality of research
+  and research software through sociotechnical tools for responsible, inclusive collaboration,
+  and join a national lab or company partner after graduation."
 image: "/assets/images/pictures/darren_butler.jpg"
 ---
 

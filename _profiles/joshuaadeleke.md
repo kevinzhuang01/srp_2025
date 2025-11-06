@@ -41,6 +41,22 @@ academic_interests: My research centers on analysis and partial differential equ
   in fluid and kinetic models.
 topical_areas: Applied Mathematics; Electrical, Electronic, and Information Engineering;
   Fluid and Plasma Physics; Materials Engineering; Statistics and Probability
+motivation: "I am thrilled to engage in the Sustainable Research Pathways (SRP) initiative
+  because it is closely aligned with my research priorities as well as my values as
+  a scholar committed to inclusive science. As a fourth-year Ph.D. candidate in Applied
+  Mathematics at Illinois Institute of Technology, I am involved in the analysis of
+  partial differential equations, Lie symmetry methods, and high-dimensional tensor
+  algorithms, with applications from quantum materials. I view SRP as the most suitable
+  opportunity to extend this work into the NSF National Artificial Intelligence Research
+  Resource (NAIRR) community. The opportunity to work with scientists and engineers
+  from all backgrounds will expand my perspective on how AI and advanced mathematics
+  can be harnessed together to solve challenging problems in broad research sectors
+  such as materials science, energy, and climate. Equally significant, SRPâ\x80\x99s
+  focus on mentorship and belonging resonates with my own mentoring of undergraduate
+  students as well as outreach to younger students. I hope to develop not just new
+  technical skills and interdisciplinary collaborations, but also meaningful professional
+  connections that embody this programâ\x80\x99s vision of a science and technology
+  ecosystem where everyone belongs, everyone flourishes, and everyone benefits."
 image: "/assets/images/pictures/joshua_adeleke.jpg"
 ---
 

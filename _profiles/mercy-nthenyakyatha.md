@@ -63,6 +63,29 @@ academic_interests: 'My research and academic interests are at the intersection 
   settings.'
 topical_areas: Applied Computer Science; Computer Science; Electrical, Electronic,
   and Information Engineering; Infrastructure and Instrumentation
+motivation: "Iâ\x80\x99m drawn to Sustainable Research Pathways for its inclusive,
+  cross-disciplinary mentorship and its dedication to building lasting professional
+  networks that extend well beyond a single summer. As a first-generation PhD student
+  at UMass Amherst working at the intersection of environmental sensing, urban mobility,
+  and machine learning, Iâ\x80\x99ve benefited enormously from mentors who champion
+  diverse perspectives, though I am yet to collaborate deeply with peers and leaders
+  across mathematics, engineering, and computer science. Iâ\x80\x99m eager to both
+  learn from and contribute to a community that values every voice and transforms
+  individual research into shared platforms for impact. During the summer project,
+  I am excited to work alongside leading experts to master new methodologies, enhance
+  my skills in data pipelines and vision modeling, and understand how my contributions
+  fit into larger NSF-supported initiatives. I am a fast learner, capable of quickly
+  adapting to new tools and techniques. Additionally, I have developed strong time-management
+  skills, which allow me to contribute meaningfully to any project. I am particularly
+  eager to see how scalable, cloud-enabled workflows are designed and deployed, and
+  to gain insight into the career paths of professionals whose expertise aligns with
+  my own. Over the year-long program, I look forward to grant-writing workshops, panel
+  discussions, and networking events that will accelerate my professional growth and
+  foster enduring collaborations. In return, I will mentor undergraduates interested
+  in research, co-lead hackathons, and organize outreach seminars, helping to cultivate
+  the supportive ecosystem that has fueled my development. My goal is that, together,
+  weâ\x80\x99ll create resilient, data-driven solutions that benefit communities and
+  ensure every voice can thrive."
 ---
 
 ## Academic Interests

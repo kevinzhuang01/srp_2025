@@ -66,6 +66,32 @@ academic_interests: My research interests include developing equitable and trust
   healthcare settings, particularly in resource-constrained environments.
 topical_areas: Applied Computer Science; Artificial Intelligence and Intelligent Systems;
   Computer Science; Health Sciences
+motivation: "Growing up in Africa, I witnessed firsthand how malnutrition and limited
+  access to healthcare created cascading health problems. Many children suffered from
+  kwashiorkor and rickets, while adults developed diabetes that often went undiagnosed
+  until it led to strokes. I vividly remember my grandfatherâ\x80\x99s stroke, which
+  ultimately claimed his life, and as a child, I became determined to find ways to
+  prevent such tragedies. Although I could not see myself in a traditional clinical
+  role because the sight of blood made me queasy, I was drawn to computers and their
+  possibilities. After high school, I enrolled in a three-month software course that
+  ignited an unexpected passion for technology. Though my journey through college
+  was challenging, I persevered and went on to complete both my bachelorâ\x80\x99s
+  and masterâ\x80\x99s degrees. At one point, I questioned whether I could fulfill
+  my passion for addressing the health and nutrition concerns I had witnessed in my
+  childhood through computer science. Still, I held on to the hope that I could one
+  day reconnect my technical training with my early interest in health. Fortunately,
+  the rise of AI in healthcare offered a way to unite these two paths, enabling me
+  to tackle health challenges by developing intelligent systems that improve outcomes
+  and promote equity, especially for populations that existing technologies often
+  fail to serve adequately. Pressure injury detection particularly caught my attention
+  because malnutrition is a key risk factor, and early detection remains especially
+  difficult in patients with darker skin tones. Motivated by these challenges, I began
+  investigating the feasibility of using thermography, combined with deep learning,
+  to identify early tissue damage that precedes pressure ulcers. I am deeply inspired
+  by the transformative potential of AI-driven approaches to advance health equity,
+  and I see this fellowship as an ideal opportunity to refine my research through
+  mentorship and collaboration, ultimately contributing to AI tools that ensure equitable
+  healthcare for all populations."
 ---
 
 ## Academic Interests

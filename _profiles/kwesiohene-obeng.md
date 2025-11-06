@@ -43,6 +43,22 @@ academic_interests: My research interests lie at the intersection of functional 
 topical_areas: Applied Mathematics; Artificial Intelligence and Intelligent Systems;
   Condensed Matter Physics; Health Sciences; Informatics, Analytics and Information
   Science; Statistics and Probability
+motivation: I once had the privilege of participating in the Sustainable Research
+  Pathways (SRP) program, which led me to an internship at Sandia National Laboratories.
+  That experience was transformative. At Sandia, I worked alongside a diverse group
+  of scientists and engineers who not only mentored me in advanced methods but also
+  broadened my perspective on how inclusive, collaborative research communities can
+  thrive. The projects I was exposed to during that time directly inspired my current
+  dissertation topic, which builds on functional data analysis and uncertainty quantification
+  in physics-based modeling. What excites me about this program is the opportunity
+  to extend that foundation. I know firsthand how powerful SRP can be in creating
+  sustainable connections, between students, faculty, and professionals and it continues
+  to shape careers long after the summer ends. This time, I hope to both contribute
+  more meaningfully to NSF NAIRR projects and to deepen my role within the community,
+  learning from and working with others who bring diverse backgrounds and perspectives.
+  For me, participating again means more than just technical growth. It is a chance
+  to give back, to strengthen the inclusive network that helped me, and to continue
+  building science that is innovative, collaborative, and impactful.
 image: "/assets/images/pictures/kwesi_ohene_obeng.jpg"
 ---
 
