@@ -65,6 +65,11 @@ motivation: I'm interested in participating in this program and joining this com
   Through this experience, I hope to continue to develop my skills in leadership,
   communication, and scientific collaboration by taking advantage of the invaluable
   mentorship and networking opportunities.
+lightning_talk: Supervisor Architecture for Semantic & Statistical Drift in AI/ML
+  Systems
+keywords: hallucination; interpretability; drift; supervision; embeddings; centroids;
+  modularity; architecture; LLMs; robustness; anomaly; detection; pipelines; infrastructure;
+  reproducibility; reasoning; signals; alignment; safety; narratives
 image: "/assets/images/pictures/hattie_lyons.jpg"
 ---
 

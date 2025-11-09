@@ -43,6 +43,9 @@ motivation: I believe working in a non-academic research institute in addition t
   ground breaking projects. Lastly, I am positive that a community of like-minded
   people in this program would foster growth diversely and aid create some lasting
   relationships.
+lightning_talk: Fluid and Particle Transport Study - Experiments and Modeling.
+keywords: Microcapsule Transport; Micropolar Theory; Experiments; Modeling; Parametrize
+  Model; Computational Fluid Dynamics; Discretization; Uncertainty Quantification.
 image: "/assets/images/pictures/pearl_tetteh.jpg"
 ---
 

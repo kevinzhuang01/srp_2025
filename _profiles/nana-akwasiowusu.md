@@ -53,6 +53,9 @@ motivation: I'm Nana Akwasi Owusu Addai, a Computer Science sophomore at Grambli
   I want to use the skills I have acquired and the relationships I have built through
   SRP to develop technology that is just, environmentally friendly, and which addresses
   the real needs of the local community.
+lightning_talk: 'AI for Social Good: Building Smarter, Fairer Systems'
+keywords: Artificial Intelligence; Machine Learning; Data Science; Sustainability;
+  Human-Centered Computing; Software Engineering; Predictive Modeling; Ethical AI
 image: "/assets/images/pictures/nana_akwasi_owusu.jpg"
 ---
 

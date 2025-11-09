@@ -35,21 +35,21 @@ research_experience: "Yelena: A Low-Cost AI-Based Autonomous Crawler 2023-2025 w
   Dr. Yang Song at the University of North Carolina Wilmington Trained a Raspberry
   Pi-powered robot to detect and avoid obstacles using machine learning, follow color-coded
   markers to simulate maze solving with a Depth-First Search algorithm, and respond
-  to hand gesture commands using real-time computer vision. ? Utilized OpenCV, custom
-  ML models, Googleâ\x80\x99s MediaPipe, and GPIO-based hardware control ? Integrated
-  with Raspberry Pi 4B & 5 using SunFounder Robot HAT ? Presented at: Computing Showcase
-  & CSURF Spring Showcase (April 2024) ? Awards/Grants: CSURF Fall Supplies Grant
-  (2023), SURCA Research Grant (Spring & Summer 2024) Pointing Underwater Isnâ\x80\x99t
-  That Simple â\x80\x93 Improving Diver & Robot Interactions in a 3D Underwater Environment
-  (2023) with Dr. Junaed Sattar at the University of Minnesota Twin Cities, IRV Lab
-  Compared different computer vision libraries in their performance of estimating
-  the pose of a diver underwater, particularly where the diver is pointing. ? Used
-  Googleâ\x80\x99s MediaPipe, OpenCV, and NumPy for depth-estimation ? Publication:
-  â\x80\x9CDiver Interest via Pointing in Three Dimensions: 3D Pointing Reconstruction
-  for Diver-AUV Communicationâ\x80\x9D, Under Review International Conference of Robotics
-  and Automation 2024 ? Awards/Grants: NSF/REU Undergraduate Research Internship ?
-  Presented at: UMN Twin Citiesâ\x80\x99 REU Symposium (UMN Twin Cities in Minneapolis,
-  MN) (2023)"
+  to hand gesture commands using real-time computer vision. â\x97\x8F Utilized OpenCV,
+  custom ML models, Googleâ\x80\x99s MediaPipe, and GPIO-based hardware control â\x97\x8F
+  Integrated with Raspberry Pi 4B & 5 using SunFounder Robot HAT â\x97\x8F Presented
+  at: Computing Showcase & CSURF Spring Showcase (April 2024) â\x97\x8F Awards/Grants:
+  CSURF Fall Supplies Grant (2023), SURCA Research Grant (Spring & Summer 2024) Pointing
+  Underwater Isnâ\x80\x99t That Simple â\x80\x93 Improving Diver & Robot Interactions
+  in a 3D Underwater Environment (2023) with Dr. Junaed Sattar at the University of
+  Minnesota Twin Cities, IRV Lab Compared different computer vision libraries in their
+  performance of estimating the pose of a diver underwater, particularly where the
+  diver is pointing. â\x97\x8F Used Googleâ\x80\x99s MediaPipe, OpenCV, and NumPy
+  for depth-estimation â\x97\x8F Publication: â\x80\x9CDiver Interest via Pointing
+  in Three Dimensions: 3D Pointing Reconstruction for Diver-AUV Communicationâ\x80\x9D,
+  Under Review International Conference of Robotics and Automation 2024 â\x97\x8F
+  Awards/Grants: NSF/REU Undergraduate Research Internship â\x97\x8F Presented at:
+  UMN Twin Citiesâ\x80\x99 REU Symposium (UMN Twin Cities in Minneapolis, MN) (2023)"
 academic_interests: "Iâ\x80\x99m primarily interested in computer vision, robotics,
   and machine learning, particularly the intersection of perception and control with
   the goal of helping humans in their own research. I'm excited by problems that involve
@@ -71,6 +71,9 @@ motivation: "Iâ\x80\x99m drawn to this opportunity because it offers a chance t
   I can and apply it to new inventions and ideas. Iâ\x80\x99m especially excited about
   connecting what I learn through this experience to my own research as I continue
   my Ph.D. journey."
+lightning_talk: 'Megdalia Bromhal: Applied AI & CV'
+keywords: Computer vision; Artificial intelligence; edge devices & embedded systems;
+  security; full-stack software engineering; robotics
 image: "/assets/images/pictures/megdalia_bromhal.jpg"
 ---
 

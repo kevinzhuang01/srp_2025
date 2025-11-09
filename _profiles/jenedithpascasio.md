@@ -61,6 +61,10 @@ motivation: I wish to join this program because it aligns with my goal of pursui
   represented and know that science is within their reach. Lastly I want to honor
   my parents sacrifices and inspire others, just as I've been inspired by the scientists
   I've met along my journey.
+lightning_talk: Accelerating Quantum Materials Discovery with AI
+keywords: Theoretical Chemistry; Density Functional Theory; Applied Mathematics; Quantum
+  Materials; Fusion Technologies; Machine Learning; Computational Modeling; VASP;
+  HPC; Chemistry; Radiation; Materials
 image: "/assets/images/pictures/jenedith_pascasio.jpg"
 ---
 

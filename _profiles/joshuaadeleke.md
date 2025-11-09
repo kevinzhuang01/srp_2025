@@ -57,6 +57,11 @@ motivation: "I am thrilled to engage in the Sustainable Research Pathways (SRP) 
   technical skills and interdisciplinary collaborations, but also meaningful professional
   connections that embody this programâ\x80\x99s vision of a science and technology
   ecosystem where everyone belongs, everyone flourishes, and everyone benefits."
+lightning_talk: "Unidirectional Eulerâ\x80\x93Alignment: Entropy, Disintegration,
+  Stability"
+keywords: "Nonlocal Partial Differential Equations; Entropy and Weak Solutions; Measure
+  Disintegration; Collective Dynamics; Eulerâ\x80\x93Alignment Systems; Scientific
+  Machine Learning; Mathematical Physics."
 image: "/assets/images/pictures/joshua_adeleke.jpg"
 ---
 

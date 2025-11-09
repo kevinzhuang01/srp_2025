@@ -55,6 +55,10 @@ motivation: "The Sustainable Research Pathway feels like the perfect opportunity
   the long term, Iâ\x80\x99m interested in possibly creating a startup, and I believe
   experiences like this, working on real projects with teams will help me understand
   how to build technology thatâ\x80\x99s both impactful and sustainable."
+lightning_talk: How AI Can Guide Sustainable Technology Adoption
+keywords: AI decision support; sustainable technology; user adoption; product strategy;
+  rollout planning; system integration; data analysis; optimization; cybersecurity
+  compliance; user behavior
 ---
 
 ## Academic Interests

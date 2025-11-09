@@ -42,7 +42,7 @@ research_experience: 'I am currently a PhD student at UMass Amherst, focusing on
   city-scale study combines satellite-derived building archetypes with dynamic thermal
   simulations to model residential cooling demand and assess its effects on transformer
   loading.'
-academic_interests: 'My research and academic interests are at the intersection of
+academic_interests: "My research and academic interests are at the intersection of
   sensing technologies, data-driven modeling, and machine learning, with a particular
   focus on urban sustainability and mobility: Computer Vision for Public Transportation
   I develop end-to-end pipelines and models to detect, track, and re-identify passengers
@@ -56,11 +56,11 @@ academic_interests: 'My research and academic interests are at the intersection 
   how increased air-conditioning demand stresses distribution transformers and integrate
   occupancy and market-adoption data to predict future grid impacts. Environmental
   Sensing & Air Quality Designing low-cost, dual-mode sensor networks (solar-powered
-  at stops, vehicle-powered on buses) to monitor PM?.? exposure in real time. Focused
-  on sensor calibration, over-the-air updates, and turning pollution data into actionable
-  insights for transit agencies. Creating end-to-end IoT solutions for off-grid deployments,
-  ensuring autonomous operation, cloud sync, and efficient power management in resource-limited
-  settings.'
+  at stops, vehicle-powered on buses) to monitor PMâ\x82\x82.â\x82\N exposure in real
+  time. Focused on sensor calibration, over-the-air updates, and turning pollution
+  data into actionable insights for transit agencies. Creating end-to-end IoT solutions
+  for off-grid deployments, ensuring autonomous operation, cloud sync, and efficient
+  power management in resource-limited settings."
 topical_areas: Applied Computer Science; Computer Science; Electrical, Electronic,
   and Information Engineering; Infrastructure and Instrumentation
 motivation: "Iâ\x80\x99m drawn to Sustainable Research Pathways for its inclusive,
@@ -86,9 +86,12 @@ motivation: "Iâ\x80\x99m drawn to Sustainable Research Pathways for its inclusi
   the supportive ecosystem that has fueled my development. My goal is that, together,
   weâ\x80\x99ll create resilient, data-driven solutions that benefit communities and
   ensure every voice can thrive."
+lightning_talk: Computer Vision, Load Forecasting for Urban Mobility and Grid Planning
+keywords: Computer Vision; Edge AI; Embedded IoT; Air Quality Monitoring; Energy Modelling;
+  Cooling Load Forecasting; Load Analysis; Sustainable Urban Mobility
 ---
 
 ## Academic Interests
 
-My research and academic interests are at the intersection of sensing technologies, data-driven modeling, and machine learning, with a particular focus on urban sustainability and mobility: Computer Vision for Public Transportation I develop end-to-end pipelines and models to detect, track, and re-identify passengers using on-board and curbside cameras. My work focuses on using appearance, temporal logic, and geomatics fusion for accurate boarding and alighting counts, considering bus occupancy and demographic profiles. Additionally, I create models that analyze driver behavior through camera footage and geomatics data to understand how driving patterns relate to accidents or incidents. Energy Systems & Demand Forecasting Modeling residential cooling loads under changing climate conditions by combining satellite-derived building archetypes with dynamic thermal simulations (EnergyPlus, JEPlus). I study how increased air-conditioning demand stresses distribution transformers and integrate occupancy and market-adoption data to predict future grid impacts. Environmental Sensing & Air Quality Designing low-cost, dual-mode sensor networks (solar-powered at stops, vehicle-powered on buses) to monitor PM?.? exposure in real time. Focused on sensor calibration, over-the-air updates, and turning pollution data into actionable insights for transit agencies. Creating end-to-end IoT solutions for off-grid deployments, ensuring autonomous operation, cloud sync, and efficient power management in resource-limited settings.
+My research and academic interests are at the intersection of sensing technologies, data-driven modeling, and machine learning, with a particular focus on urban sustainability and mobility: Computer Vision for Public Transportation I develop end-to-end pipelines and models to detect, track, and re-identify passengers using on-board and curbside cameras. My work focuses on using appearance, temporal logic, and geomatics fusion for accurate boarding and alighting counts, considering bus occupancy and demographic profiles. Additionally, I create models that analyze driver behavior through camera footage and geomatics data to understand how driving patterns relate to accidents or incidents. Energy Systems & Demand Forecasting Modeling residential cooling loads under changing climate conditions by combining satellite-derived building archetypes with dynamic thermal simulations (EnergyPlus, JEPlus). I study how increased air-conditioning demand stresses distribution transformers and integrate occupancy and market-adoption data to predict future grid impacts. Environmental Sensing & Air Quality Designing low-cost, dual-mode sensor networks (solar-powered at stops, vehicle-powered on buses) to monitor PMâ.â exposure in real time. Focused on sensor calibration, over-the-air updates, and turning pollution data into actionable insights for transit agencies. Creating end-to-end IoT solutions for off-grid deployments, ensuring autonomous operation, cloud sync, and efficient power management in resource-limited settings.
 

@@ -63,6 +63,10 @@ motivation: I believe that humans can do great things when we collaborate and ha
   and also nurture the connections I will form within the team to which I am assigned
   and the Sustainable Horizon Institute communities. My goal is to become a software
   engineer and eventually a machine learning engineer.
+lightning_talk: Using Computer Science to tackle Plastic and Electronic Waste
+keywords: software; machine learning; deep learning; reinforce learning; artificial
+  intelligence; computer vision; math; education; biochemistry; genetic; materials;
+  environmental; economics; mechanical; electrical
 image: "/assets/images/pictures/ngoc_chau_nguyen.jpg"
 ---
 

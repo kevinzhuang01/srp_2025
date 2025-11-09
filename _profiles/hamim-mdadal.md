@@ -107,6 +107,10 @@ motivation: Last year, in June 2024, I was on vacation with my wife in San Franc
   Foundation and National Artificial Intelligence Research Resource (NAIRR) projects.
   I am confident that the opportunity to participate in this program will give shape
   to my career to become a more accomplished researcher in the future.
+lightning_talk: AI's Resilience to Stay Smart in a Noisy World
+keywords: Machine Learning; Computational Modeling; Artificial Intelligence; Supervised
+  Learning; Simulation; Reinforcement Learning; Neural Network; Deep Learning; High
+  Performance Computing; Mathematical Modeling
 ---
 
 ## Academic Interests

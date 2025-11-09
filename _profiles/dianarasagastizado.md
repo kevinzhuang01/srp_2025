@@ -60,6 +60,8 @@ motivation: "During my first year, I attended a conference for SACNAS: the Socie
   for life sciences and data literacy to become a more engaged scientist. I look forward
   to applying my background as a molecular biologist, data scientist, and a researcher
   of color to extract insight from mentors during this internship experience."
+lightning_talk: Interconnection of life through molecular biology & data science
+keywords: Molecular biology; data science; bioinformatics
 ---
 
 ## Academic Interests

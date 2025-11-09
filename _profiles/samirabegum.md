@@ -111,6 +111,10 @@ motivation: "I had the opportunity to attend the Sustainable Horizons Institute 
   NSF websites are issues that align with my interests and skillset. Attending and
   mentoring for the HPC bootcamps certainly reinforced my desire to work alongside
   the kinds of people I met!"
+lightning_talk: Data Science for Social Welfare
+keywords: social policy; welfare; econometrics; poverty; housing; environmental law;
+  data science; AI infrastructure; ML; energy optimization; climate; hpc education;
+  ecology; information-science
 image: "/assets/images/pictures/samira_begum.jpg"
 ---
 

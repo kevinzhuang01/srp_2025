@@ -92,6 +92,9 @@ motivation: "Growing up in Africa, I witnessed firsthand how malnutrition and li
   and I see this fellowship as an ideal opportunity to refine my research through
   mentorship and collaboration, ultimately contributing to AI tools that ensure equitable
   healthcare for all populations."
+lightning_talk: 'EQUITY AND TRUSTWORTHINESS: RESPONSIBLE AI IN HEALTHCARE'
+keywords: Equitable AI; Trustworthy AI; Algorithmic Fairness ; AI Governance and Policy
+  ; Auditing AI Systems; Healthcare Applications
 ---
 
 ## Academic Interests

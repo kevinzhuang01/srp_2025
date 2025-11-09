@@ -94,6 +94,11 @@ motivation: As a PhD student in Industrial and Systems Engineering, I am eager t
   create lasting social and environmental impact. Finally, I see SRP as an opportunity
   to learn, contribute, and grow as a scholar who advances sustainability through
   innovative, inclusive, and human-centered applications of AI.
+lightning_talk: Human-Centered Design, AI, and Data Science for Sustainable Engineering
+  Systems
+keywords: Artificial Intelligence Machine Learning Natural Language Processing Human-Centered
+  Design Sustainability Data Analytics Data Science Learning Analytics Cognitive Modelling
+  Engineering Education
 image: "/assets/images/pictures/emmanuella_ejichukwu.jpg"
 ---
 

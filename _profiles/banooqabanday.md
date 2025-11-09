@@ -44,6 +44,9 @@ motivation: "High-performance computing (HPC) systems generate vast amounts of t
   By integrating causal modeling with generative methods, I aim to better understand
   these systems, uncover actionable insights, and ultimately improve performance prediction,
   scheduling, and energy efficiency in large-scale computing environments."
+lightning_talk: Causality-Aware AI Makes Complex Decisions Explainable and Trustworthy
+keywords: Causal Analysis; causal inference; mediation analysis; scheduling; representation
+  learning; augmentation; transfer learning;
 ---
 
 ## Academic Interests

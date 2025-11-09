@@ -93,6 +93,8 @@ motivation: "Over the last few months, I have had the privilege of working close
   AI solutions while continuing to grow in an environment that prioritizes inclusion
   and collaboration. Iâ\x80\x99m excited for the opportunity to learn, mentor, and
   build lasting connections through the Sustainable Research Pathways program."
+lightning_talk: Resource Efficient and Safe AI for Deployed models
+keywords: Resource Efficient AI; Adversarial Attack; Machine Learning; RSE
 image: "/assets/images/pictures/jamil_gafur.jpg"
 ---
 

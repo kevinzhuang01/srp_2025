@@ -57,6 +57,11 @@ motivation: "I want to join the Sustainable Research Pathways program because I 
   and community drive innovation. I see this experience as a step toward becoming
   not only a better researcher but also someone who helps open doors for others the
   way this program does."
+lightning_talk: Sustainable High-Performance Computing with GPU Acceleration and Parallel
+  Algorithms
+keywords: GPU Computing; CUDA Programming; Parallel Algorithms; High-Performance Computing;
+  Supercomputing; Energy Efficiency; Workflow Optimization; Sustainable Computing;
+  Scientific Simulations; AI Systems
 ---
 
 ## Academic Interests

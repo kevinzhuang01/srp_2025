@@ -50,6 +50,8 @@ motivation: "I want to participate in this internship to challenge myself and ga
   to keep learning. Since I donâ\x80\x99t have much hands-on experience yet, I see
   this internship as a great opportunity to build confidence, develop my skills, and
   take the next step toward a career in Information Technology or Cybersecurity."
+lightning_talk: Arduino-Based Motion Detection
+keywords: Arduino; Sensors; Motion Detection; Automation; Security; Embedded systems
 image: "/assets/images/pictures/taylor_garcia.jpg"
 ---
 

@@ -42,6 +42,10 @@ motivation: "I am eager to participate in Sustainable Research Pathways because 
   in impactful ways. Ultimately, I want to leverage this experience to advance research
   that not only pushes scientific boundaries but also ensures accessibility, representation,
   and benefit for all communities."
+lightning_talk: Training Intelligent Neural Networks for Real-World Vision Applications
+keywords: Artificial Intelligence; Computer Vision; Deep Learning; Machine Learning;
+  Convolutional Neural Networks; AI for Cybersecurity;Intelligent Systems; Robotics;
+  Trustworthy AI
 image: "/assets/images/pictures/samuel_ajuwon.jpg"
 ---
 

@@ -48,6 +48,9 @@ motivation: Applying for college, the only thing I had in mind was becoming an e
   opportunities outside to grow. I really hope that this program will not only be
   something strict to a summer experience but really pushes to help dedicated and
   outstanding people to get the AI careers which is a very competitive field.
+lightning_talk: AI-Driven Approaches for Simulation and Scientific Modeling
+keywords: Artificial Intelligence; High-Performance Computing; Machine Learning; Applied
+  Mathematics; Frontier AI; Modeling and Simulation; Computational Methods;
 image: "/assets/images/pictures/zaire_meachem.jpg"
 ---
 

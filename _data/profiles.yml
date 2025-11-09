@@ -1,5 +1,5 @@
 ---
-- ï»¿Submission: srps101s1
+- Submission: srps101s1
   Status (This Stage): Accept Wave 2 (Confirmed)
   First/Given Names (first): Kaiwan
   Last/Family Name (first): Bilal
@@ -30,6 +30,7 @@
     Undergrad Research Discrete Math Elementary Programming Concepts High school:
     Quantum & Optics Lab Electrodynamics and Quantum Mechanics Multivariable Calculus
     Linear Algebra Intro to Organic Chemistry Design & Tech'
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'Yes'
   ? Where has your research been published or where have you conducted research/technical
     projects? Please include a few references, if available.
   : "During the summer before my senior year of high school, I participated in Florida
@@ -85,7 +86,118 @@
     SHI's tangible focus on advancement and progress pushes me to pursue an education
     that not only involves my engagement with SHI's labs, research opportunities,
     and faculty, but one that concurrently engages me in surrounding civil dynamics."
-- ï»¿Submission: srps109s1
+  Lightning Talk Title (Maximum 10 words): 'Modern Physics: Real-world Applications
+    and Computational Models'
+  Keywords (Maximum 20 words): Quantum mechanics; Plasmas; Nuclear; Particle physics;
+    Electromagnetism; Energy; Materials; Superconductor; Semiconductors; Photovoltaic
+    cells; Optoelectronic nanostructures; Quantum modeling; Variational Quantum Eigensolvers
+- Submission: srps107s1
+  Status (This Stage): Accept Wave 3 (Unconfirmed)
+  First/Given Names (first): Benjamin
+  Last/Family Name (first): Atawiah
+  Email (first): batawiah001@gmail.com
+  Institution: The University of Alabama
+  Department: Department of Mathematics
+  Short Biography (Maximum 200 words): "I am a fourth-year Ph.D. candidate in the
+    Department of Mathematics at the University of Alabama. My research focuses on
+    numerical analysis, particularly discontinuous Galerkin finite element methods
+    for time-dependent PDEs. I use Fourier and energy analysis to study the stability
+    and accuracy of DG methods applied to convection-dominated, convection-diffusion,
+    and dispersion problems. I am also interested in time integration methods such
+    as strong stability preserving Rungeâ\x80\x93Kutta schemes. My current work involves
+    improving CFL conditions through Fourier analysis of DG methods applied to the
+    transport and heat equations."
+  Upload a photograph of this person (JPEG/GIF/PNG/TIFF): srps107s1-yaml6_upload.jpg
+  Academic Status: PhD Student
+  Year in program: 4th
+  Research Area/Department (check as many as appropriate): Applied Mathematics
+  Major/Specialty: Applied Mathematics; Numerical Analysis with a focus on the discontinuous
+    Galerkin Finite Element Method.
+  Degrees Earned or in Progress (Degree/Field/Year): MSc. Mathematical Sciences (Earned)
+    M.A. Mathematics (Earned) Ph.D. Mathematics (in Progress)
+  ? What courses or academic preparation have you completed to prepare for a summer
+    internship experience (we recommend at least two science or computer science classes)?
+  : 'Partial Differential Equations (PDEs) Intro. Scientific Computing Iterative Methods
+    Linear Systems Boundary Value Problems Numerical PDEs Numerical Analysis Real
+    Analysis Linear Algebra Numerical Linear Algebra Functional Analysis Theory: Differential
+    Equations Intro Complex Variables'
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'No'
+  Please describe your research/academic interests.: "I am a fourth-year Ph.D. candidate
+    in the Department of Mathematics at the University of Alabama. My research lies
+    in the field of numerical analysis, with a focus on discontinuous Galerkin (DG)
+    finite element methods for solving time-dependent partial differential equations
+    (PDEs). Specifically, I am interested in the stability, accuracy, and efficiency
+    of DG schemes when applied to convection-dominated, convection-diffusion, and
+    convection-dispersion problems. A core component of my work involves the use of
+    Fourier analysis and energy methods to rigorously assess the stability properties
+    and convergence behavior of semi-discrete DG formulations. Given the semi-discrete
+    nature of DG methods for time-dependent problems, I also explore time integration
+    strategies that preserve desirable properties of the spatial discretization. In
+    particular, I study strong stability preserving (SSP) Rungeâ\x80\x93Kutta methods,
+    total variation diminishing (TVD) schemes, and general Rungeâ\x80\x93Kutta methods
+    represented through Butcher tableaus. My current research focuses on improving
+    the allowable Courantâ\x80\x93Friedrichsâ\x80\x93Lewy (CFL) number through a detailed
+    Fourier analysis of DG methods applied to the one-dimensional transport and heat
+    equations. By examining the spectral behavior of these schemes, I aim to design
+    or recommend modifications that extend stability regions and enhance computational
+    efficiency without sacrificing accuracy."
+  'Please select all the topical areas that apply to your field of study:': Applied
+    Mathematics
+  Motivation: "I hereby apply to be part of the Student Track of the Sustainable Research
+    Program, where I hope to contribute to and grow through interdisciplinary research
+    grounded in applied mathematics. As a Ph.D. candidate in Applied Mathematics at
+    The University of Alabama, expected to graduate in May 2027, my research focuses
+    on high-order numerical methods, particularly the discontinuous Galerkin (DG)
+    method for solving hyperbolic partial differential equations (PDEs). These methods
+    offer high-order accuracy, stability, and flexibilityâ\x80\x94making them ideal
+    for addressing complex, real-world challenges. I am currently exploring DG applications
+    to conservation laws, with emphasis on stability, order of accuracy, and error
+    control. The things I enjoy most in my scientific life are math research with
+    proofs and theorems, analyzing more techniques to solve PDEs, the practical application
+    of PDEs to real-world problems, and contact with engineering. In the next five
+    years, I aim to be a math researcher in an academic institution, national laboratory,
+    or industry, helping to create or improve upon methodologies for solving PDEs
+    efficiently for the advancement of science. The Student Research Program (SRP)
+    presents an opportunity for me to expand my research work, apply it to real-world
+    challenges, and collaborate in a research environment such as the Lawrence Livermore
+    National Lab, the Oak Ridge National Lab, the Argonne National Lab, and many other
+    academic institutions whose faculty members are affiliated with the SRP. I am
+    interested in mentorship, working among a team of world-class researchers, and
+    collaborating on projects with faculty or students whose research interests align
+    with mine. My interest in SRP began after learning from colleagues in the 2023
+    cohort, whose impactful projects and conference presentations demonstrated the
+    academic rigor and professional value of the program and the affiliated institutions
+    and faculties they were connected to. One of my colleagues received the Best Paper
+    Award twice in two different conference presentations. Although I could not apply
+    at the time due to qualifying exams, I remained committed to joining a future
+    cohort. I am especially eager to be mentored by researchers at national laboratories,
+    universities, and industry research centers whose expertise aligns closely with
+    my research interests. Academically, I have built a strong foundation through
+    graduate coursework in Partial Differential Equations, Numerical Analysis, Scientific
+    Computing, Numerical Linear Algebra, Real Analysis, and Functional Analysis. These
+    courses have equipped me with the necessary tools and expertise to model, analyze,
+    and implement numerical solutions to complex problems. I am conversant with the
+    use of Python and MATLAB for computational modeling, numerical experiments, and
+    data visualization. I am also looking forward to being introduced to more advanced
+    programming languages, becoming proficient in computer programming, understanding
+    the usage and meaning of certain PDEs, and facing more complex challenges in applied
+    mathematics that will build me into a refined mathematician and researcher. Beyond
+    technical growth, I am drawn to SRPâ\x80\x99s emphasis on professional development
+    and career readiness. The opportunity to present research findings at conferences
+    will help refine my communication skills and expand my academic network. Working
+    alongside experienced scientists, engineers, and interdisciplinary teams will
+    provide real-world, hands-on experience and help me build a strong rÃ©sumÃ© for
+    a future in research. Exposure to cutting-edge projects will enhance my ability
+    to apply theory in practice and prepare me for challenges in both academic and
+    industry settings. I am eager to contribute my background in numerical methods,
+    strengthen my collaborative research skills, and gain experience in high-impact
+    environments such as Lawrence Livermore, Oak Ridge, Los Alamos National Lab, or
+    any other scientific industries and institutions. I am confident that acceptance
+    into the SRP and being paired with a faculty member and a team of researchers
+    will prepare me to become a more capable, adaptable, and career-ready researcher,
+    equipped to contribute meaningfully to the scientific community. Thank you for
+    your time and consideration."
+- Submission: srps109s1
   Status (This Stage): Accept Wave 1 (Confirmed)
   First/Given Names (first): Mercy Nthenya
   Last/Family Name (first): Kyatha
@@ -118,6 +230,7 @@
   : Computer Vision, Machine Learning, Neural Networks, Artificial Intelligence, Distributed
     and Operating Systems, Algorithms, Networked Embedded Systems Design, Statistical
     Methods
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'Yes'
   ? Where has your research been published or where have you conducted research/technical
     projects? Please include a few references, if available.
   : 'I am currently a PhD student at UMass Amherst, focusing on research in urban
@@ -133,7 +246,7 @@
     city-scale study combines satellite-derived building archetypes with dynamic thermal
     simulations to model residential cooling demand and assess its effects on transformer
     loading.'
-  Please describe your research/academic interests.: 'My research and academic interests
+  Please describe your research/academic interests.: "My research and academic interests
     are at the intersection of sensing technologies, data-driven modeling, and machine
     learning, with a particular focus on urban sustainability and mobility: Computer
     Vision for Public Transportation I develop end-to-end pipelines and models to
@@ -148,11 +261,11 @@
     increased air-conditioning demand stresses distribution transformers and integrate
     occupancy and market-adoption data to predict future grid impacts. Environmental
     Sensing & Air Quality Designing low-cost, dual-mode sensor networks (solar-powered
-    at stops, vehicle-powered on buses) to monitor PM?.? exposure in real time. Focused
-    on sensor calibration, over-the-air updates, and turning pollution data into actionable
-    insights for transit agencies. Creating end-to-end IoT solutions for off-grid
-    deployments, ensuring autonomous operation, cloud sync, and efficient power management
-    in resource-limited settings.'
+    at stops, vehicle-powered on buses) to monitor PMâ\x82\x82.â\x82\N exposure in
+    real time. Focused on sensor calibration, over-the-air updates, and turning pollution
+    data into actionable insights for transit agencies. Creating end-to-end IoT solutions
+    for off-grid deployments, ensuring autonomous operation, cloud sync, and efficient
+    power management in resource-limited settings."
   'Please select all the topical areas that apply to your field of study:': Applied
     Computer Science; Computer Science; Electrical, Electronic, and Information Engineering;
     Infrastructure and Instrumentation
@@ -179,7 +292,12 @@
     to cultivate the supportive ecosystem that has fueled my development. My goal
     is that, together, weâ\x80\x99ll create resilient, data-driven solutions that
     benefit communities and ensure every voice can thrive."
-- ï»¿Submission: srps111s1
+  Lightning Talk Title (Maximum 10 words): Computer Vision, Load Forecasting for Urban
+    Mobility and Grid Planning
+  Keywords (Maximum 20 words): Computer Vision; Edge AI; Embedded IoT; Air Quality
+    Monitoring; Energy Modelling; Cooling Load Forecasting; Load Analysis; Sustainable
+    Urban Mobility
+- Submission: srps111s1
   Status (This Stage): Accept Wave 1 (Confirmed)
   First/Given Names (first): Kwame
   Last/Family Name (first): Osei-Tutu
@@ -207,6 +325,7 @@
     in quantitative topics. In terms of computer science experience, I recently took
     a course in Optimization and currently completing a machine learning course where
     I'm learning the concepts that are pervasive in modern machine learning.
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'No'
   Please describe your research/academic interests.: "Optimizing ML models via mixed
     precision techniques. Currently improving parameter estimation and prediction
     in Gaussian processes, with plans to extend these optimizations to other ML architectures.
@@ -228,7 +347,11 @@
     at the intersection of math and computing. Therefore, the summer 2026 projects
     that are focused on AI and HPC are perfectly aligned with my interests and that's
     why I've felt compelled to apply."
-- ï»¿Submission: srps117s1
+  Lightning Talk Title (Maximum 10 words): Accelerating Machine Learning with Mixed
+    Precision
+  Keywords (Maximum 20 words): Gaussian processes; mixed precision; parallel computing;
+    python; R
+- Submission: srps117s1
   Status (This Stage): Accept Wave 1 (Confirmed)
   First/Given Names (first): Abdullah
   Last/Family Name (first): Maruf
@@ -274,6 +397,7 @@
     Math MATH315: Linear Algebra MATH316: Adv. Linear Algebra MATH321: Differential
     Equations MATH374: Scientific Computing STAT453: Bayesian Statistics STAT445:
     Nonparametric Statistics'
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'Yes'
   ? Where has your research been published or where have you conducted research/technical
     projects? Please include a few references, if available.
   : "Co-Author â\x80\x93 Generalized Mixup Model (submitted at a conference): https://github.com/Maruf001/generalized_mixup_model/blob/main/From%20Confusion%20to%20Clarity%20%E2%80%93%20Generalized%20Mixup.pdf
@@ -329,7 +453,11 @@
     â\x80\x93 especially first-generation college students and those from underrepresented
     backgrounds â\x80\x93 by fostering a more inclusive and supportive scientific
     community where all voices are heard, valued, and empowered to thrive."
-- ï»¿Submission: srps118s1
+  Lightning Talk Title (Maximum 10 words): Scientific AI-Agent Development on HPC
+  Keywords (Maximum 20 words): LLM-agents, surrogate-model, multi-agent-orchestration,
+    scientific-software, FNO, PINN, HPC, CUDA, MeshGraphNet, GNN, LangGraph, Docker/Podman,
+    SLURM/Kubernetes, PyTorch/FSDP, evals
+- Submission: srps118s1
   Status (This Stage): Accept Wave 1 (Confirmed)
   First/Given Names (first): Reeshad
   Last/Family Name (first): Khan
@@ -370,6 +498,7 @@
   : Advanced Artificial Intelligence Machine Learning Deep Learning Computer Vision
     Image processing Data Mining Optimization and Algorithms Probability and Statistics
     Operating Systems Software Engineering Data Structures Algorithms
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'Yes'
   ? Where has your research been published or where have you conducted research/technical
     projects? Please include a few references, if available.
   : "1. ICCV WDFM Workshop 2025 â\x80\x93 TinyBEV: Cross-Modal Knowledge Distillation
@@ -411,7 +540,7 @@
     and a network of colleagues I can continue working with after the program. Most
     of all, I want to help create a welcoming, high-trust environment where everyone
     is heard, everyone learns, and the science we produce is stronger because of it."
-- ï»¿Submission: srps122s1
+- Submission: srps122s1
   Status (This Stage): Accept Wave 1 (Confirmed)
   First/Given Names (first): Jeffrey
   Last/Family Name (first): Vargas Felix
@@ -437,6 +566,7 @@
   ? What courses or academic preparation have you completed to prepare for a summer
     internship experience (we recommend at least two science or computer science classes)?
   : I have taken 4 computer Science classes CSC 110, 205, 120 230
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'No'
   Please describe your research/academic interests.: I'm interested in researching
     AI, machine learning, Cybersecurity, networking and computer processing. I am
     very interested in making programs that are used to track data.
@@ -449,7 +579,10 @@
     minded individuals who will push me to be a better version of myself, I would
     be excited to work with people who have already gone through a path similar to
     mine. I think this project would benefit me greatly in many ways.
-- ï»¿Submission: srps123s1
+  Lightning Talk Title (Maximum 10 words): Exploring AI, Cloud, and Reproducible Computing
+  Keywords (Maximum 20 words): AI;Coding;LLM;RAG;RSE;HPC;GenAI;reproduciblity;Cloud
+    Computing;Open Source;
+- Submission: srps123s1
   Status (This Stage): Accept Wave 2 (Confirmed)
   First/Given Names (first): Eric
   Last/Family Name (first): Pabon Cancel
@@ -484,6 +617,7 @@
   : MA54300 - Dynamical Systems and Ordinary Differential Equations MA59500OT - Computational
     Optimal Transport and Deep Generative Models MA59500MM - Intro. to Mathematical
     Modeling MA54600 - Intro. to Functional Analysis
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'Yes'
   ? Where has your research been published or where have you conducted research/technical
     projects? Please include a few references, if available.
   : I have participated in summer programs, which have given me the opportunity to
@@ -528,7 +662,11 @@
     My overall goal once I finish my graduate studies is to become a mathematical
     research scientist and work as a researcher in a laboratory, solving problems
     that are of national interest.
-- ï»¿Submission: srps125s1
+  Lightning Talk Title (Maximum 10 words): 'Dynamics and Machine Learning: Best of
+    Two Worlds'
+  Keywords (Maximum 20 words): Dynamical Systems; Machine Learning; Mathematical Modeling;
+    Applied Mathematics
+- Submission: srps125s1
   Status (This Stage): Accept Wave 1 (Confirmed)
   First/Given Names (first): Pearl
   Last/Family Name (first): Tetteh
@@ -557,6 +695,7 @@
   ? What courses or academic preparation have you completed to prepare for a summer
     internship experience (we recommend at least two science or computer science classes)?
   : 1. Computational Fluid Dynamics 2. Boundary Layers
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'Yes'
   ? Where has your research been published or where have you conducted research/technical
     projects? Please include a few references, if available.
   : 'I have conducted research for 3 years in the Geomechanics Laboratory at University
@@ -579,7 +718,12 @@
     to ground breaking projects. Lastly, I am positive that a community of like-minded
     people in this program would foster growth diversely and aid create some lasting
     relationships.
-- ï»¿Submission: srps129s1
+  Lightning Talk Title (Maximum 10 words): Fluid and Particle Transport Study - Experiments
+    and Modeling.
+  Keywords (Maximum 20 words): Microcapsule Transport; Micropolar Theory; Experiments;
+    Modeling; Parametrize Model; Computational Fluid Dynamics; Discretization; Uncertainty
+    Quantification.
+- Submission: srps129s1
   Status (This Stage): Accept Wave 1 (Confirmed)
   First/Given Names (first): Danny
   Last/Family Name (first): Tran
@@ -607,6 +751,7 @@
     Numerical Methods Math Courses: Discrete Math, Probability and Statistics, Linear
     Algebra, Multivariable Calculus General Science Courses: Plants & Climate (Ecology),
     Intro Biology, Intro Chemistry, Mechanics, Thermodynamics, and Engineering Systems'
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'No'
   Please describe your research/academic interests.: I am interested in how AI/ML
     can be leveraged to help model climate problems and how it can be used to help
     mitigate/solve many climate issues. I believe that it can also help make sustainability
@@ -629,7 +774,11 @@
     occasional projects) with no significant impact on the real world besides my own
     learning. Coming out of this program, I am hoping to have developed something
     important and impactful to the world--even if it is the smallest thing.
-- ï»¿Submission: srps131s1
+  Lightning Talk Title (Maximum 10 words): The Intersection of Sustainability and
+    Accessibility in Computing
+  Keywords (Maximum 20 words): machine learning; accessibility; sustainability; remote
+    sensing; data science; computer vision
+- Submission: srps131s1
   Status (This Stage): Accept Wave 1 (Confirmed)
   First/Given Names (first): Ophelia
   Last/Family Name (first): Frimpong
@@ -668,6 +817,7 @@
     Mining Advance Scientific Computing Introduction to Computational Science Linear
     Algebra Mathematical Statistics Principles of Analysis Mathematical and Computational
     Modeling
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'Yes'
   ? Where has your research been published or where have you conducted research/technical
     projects? Please include a few references, if available.
   : I worked on a group project on Mutation-selection-diffusion using SBP-SAT methods
@@ -706,7 +856,13 @@
     program will enable me to be innovative in my research of interest since this
     is something I really want to commit to and excel in order to support clinical
     research for the current and next generation.
-- ï»¿Submission: srps136s1
+  Lightning Talk Title (Maximum 10 words): AI-Driven Gated Fusion for Multimodal Medical
+    Diagnosis
+  Keywords (Maximum 20 words): Artificial Intelligence; Machine Learning; Explainable
+    Artificial Intelligence; Multimodal;Gated fusion;Shapley Additive explanations;
+    Medical imaging; Gradient-weighted Class Activation Mapping; Multilayer Perceptron;
+    Convolutional-Neural-Network
+- Submission: srps136s1
   Status (This Stage): Accept Wave 1 (Confirmed)
   First/Given Names (first): Derrick
   Last/Family Name (first): Agyekum
@@ -748,6 +904,7 @@
     and Software Engineering (Git). Applied prep: Professorial Assistant research
     building ML pipelines (Python/SQL/TensorFlow) and shipped app/features in personal
     and internship projects."
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'No'
   Please describe your research/academic interests.: "Iâ\x80\x99m interested in applied
     AI/ML that moves from research to real-world impact. My focus areas include NLP
     and large language models (especially retrieval-augmented generation and agentic
@@ -780,7 +937,13 @@
     offer energy, humility, and a builderâ\x80\x99s mindset, ready to prototype, analyze,
     write, and present. Iâ\x80\x99m excited to help SRPâ\x80\x99s community connect
     rigorous AI research to real-world problems where it can improve lives."
-- ï»¿Submission: srps137s1
+  Lightning Talk Title (Maximum 10 words): 'Data-to-Deployment: Shipping Small LLMs
+    With Measurable Impact'
+  Keywords (Maximum 20 words): LLMs; RAG; Agents; Prompting; Alignment; Guardrails;
+    Retrieval; Tokenization; LoRA; LLMOps; Deployment; Evaluation; Time-series; Causal-inference;
+    Content-Based-Filtering; Feature-engineering; Distillation; Transfer-learning;
+    Vector-databases; SQL/ETL
+- Submission: srps137s1
   Status (This Stage): Accept Wave 1 (Confirmed)
   First/Given Names (first): Kayode
   Last/Family Name (first): Oluwasegun
@@ -821,6 +984,7 @@
     Equations I & II 4) Methods of Optimization 5) LaunchCode Full Stack Web Development
     Program 6) IMSI Data Science Training Bootcamp 7) INMAS Python and Machine Learning
     Training
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'Yes'
   ? Where has your research been published or where have you conducted research/technical
     projects? Please include a few references, if available.
   : "1. Kayode Oluwasegun, Samuel Ajibola, Udoh Akpan, Lanre Akinyemi, Mehmet Senol,
@@ -899,7 +1063,12 @@
     I know I will be challenged and more empowered to address complex problems and
     amplify my research impact in healthcare, robotics, science & engineering by being
     part of this program."
-- ï»¿Submission: srps139s1
+  Lightning Talk Title (Maximum 10 words): 'Modeling Complex Systems: Applied PDEs
+    and Computational Modeling'
+  Keywords (Maximum 20 words): Applied Partial Differential Equations; Mathematical
+    Modeling; Mathematical Biology; Free-Boundary Problems; Nonlinear Dynamics; Wave
+    Propagation; Ocean Engineering; Scientific Computing; Computational Modeling
+- Submission: srps139s1
   Status (This Stage): Accept Wave 1 (Unconfirmed)
   First/Given Names (first): Kingsley
   Last/Family Name (first): Okparaugo
@@ -924,6 +1093,7 @@
   ? What courses or academic preparation have you completed to prepare for a summer
     internship experience (we recommend at least two science or computer science classes)?
   : Programming Language Data Structure Software Engineering
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'No'
   Please describe your research/academic interests.: "Iâ\x80\x99m interested in math,
     computer science and data science, these topics peak my interest the most."
   'Please select all the topical areas that apply to your field of study:': Applied
@@ -934,7 +1104,12 @@
     a different country shaped the way I think that I have to work hard for equal
     opportunity so anytime I feel discouraged I remember where Iâ\x80\x99m coming
     from and that fuels me to keep going"
-- ï»¿Submission: srps140s1
+  Lightning Talk Title (Maximum 10 words): "AI for Social Impact â\x80\x93 Using Data
+    to Drive Change"
+  Keywords (Maximum 20 words): AI; Machine Learning; Data Analysis; Social Impact;
+    Python Programming; Super Computing; Technology for Good; Automation; Computer
+    Science Research; HPC
+- Submission: srps140s1
   Status (This Stage): Accept Wave 2 (Confirmed)
   First/Given Names (first): Taylor
   Last/Family Name (first): Garcia
@@ -972,6 +1147,7 @@
     Cyber Intelligence, Microprocessor Systems, and Discrete Mathematics. I am currently
     taking Computer Networks, Computer Architecture and Design, Software Engineering
     2, and Data Mining.
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'No'
   Please describe your research/academic interests.: "Iâ\x80\x99m interested in cybersecurity,
     data science, and hardware systems. I really enjoy learning how computers work,
     both on the software and hardware side, and how they can be made more secure and
@@ -989,7 +1165,10 @@
     me to keep learning. Since I donâ\x80\x99t have much hands-on experience yet,
     I see this internship as a great opportunity to build confidence, develop my skills,
     and take the next step toward a career in Information Technology or Cybersecurity."
-- ï»¿Submission: srps141s1
+  Lightning Talk Title (Maximum 10 words): Arduino-Based Motion Detection
+  Keywords (Maximum 20 words): Arduino; Sensors; Motion Detection; Automation; Security;
+    Embedded systems
+- Submission: srps141s1
   Status (This Stage): Accept Wave 1 (Confirmed)
   First/Given Names (first): Patrick
   Last/Family Name (first): Tabiri
@@ -1024,6 +1203,7 @@
     internship experience (we recommend at least two science or computer science classes)?
   : Machine Learning, Advanced Scientific Computing, Deep Learning for Partial differential
     Equations, Mathematical Modelling, Numerical Analysis
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'No'
   Please describe your research/academic interests.: My research interests include
     machine learning, high-performance computing, and cloud infrastructure management,
     with a focus on optimizing GPU-accelerated workloads and scalable systems for
@@ -1049,7 +1229,12 @@
     Chapter, I contribute to fostering collaboration and technical growth. Ultimately,
     I am driven by a commitment to harness computation to push the boundaries of scientific
     discovery."
-- ï»¿Submission: srps146s1
+  Lightning Talk Title (Maximum 10 words): Physics-Informed Machine Learning for High
+    Performance Computing
+  Keywords (Maximum 20 words): Scientific Computing; Machine Learning; Deep Learning;
+    Computational Mechanics; High Performance Computing; Phase Field Crystal; Microstructure
+    Evolution; Additive Manufacturing
+- Submission: srps146s1
   Status (This Stage): Accept Wave 2 (Confirmed)
   First/Given Names (first): Stephen
   Last/Family Name (first): Naboth
@@ -1093,6 +1278,7 @@
     and Machine Learning with Graphs at Rice University. In addition, I studied numerical
     partial differential equations and numerical linear algebra during my masterâ\x80\x99s
     program."
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'No'
   Please describe your research/academic interests.: My research interests focus on
     mixed-integer linear programming (MILP) and optimization methods for operations
     research, particularly for symbolic regression and large-scale decision problems.
@@ -1170,7 +1356,12 @@
     for mathematics in the next generation of mathematicians, especially those from
     underrepresented minority groups. I will share this research, as well as my enthusiasm
     for mathematics, by presenting at research conferences."
-- ï»¿Submission: srps147s1
+  Lightning Talk Title (Maximum 10 words): Efficient Symbolic Regression Through Optimization
+    and Machine Learning
+  Keywords (Maximum 20 words): Optimization; Mixed-Integer Linear Programming (MILP);
+    Symbolic Regression; Scientific Machine Learning; Operations Research; Kernel
+    Methods; Scientific Computing; HPC
+- Submission: srps147s1
   Status (This Stage): Accept Wave 1 (Confirmed)
   First/Given Names (first): Samuel
   Last/Family Name (first): Ajuwon
@@ -1198,6 +1389,7 @@
     internship experience (we recommend at least two science or computer science classes)?
   : I have taken courses in Computer Vision, Artificial Intelligence and Machine Learning,
     Machine Learning Applications
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'Yes'
   ? Where has your research been published or where have you conducted research/technical
     projects? Please include a few references, if available.
   : 'Listed below are my research publications Towards an Optimal Wind Energy Harvest
@@ -1222,7 +1414,12 @@
     and explore applications of AI in impactful ways. Ultimately, I want to leverage
     this experience to advance research that not only pushes scientific boundaries
     but also ensures accessibility, representation, and benefit for all communities."
-- ï»¿Submission: srps151s1
+  Lightning Talk Title (Maximum 10 words): Training Intelligent Neural Networks for
+    Real-World Vision Applications
+  Keywords (Maximum 20 words): Artificial Intelligence; Computer Vision; Deep Learning;
+    Machine Learning; Convolutional Neural Networks; AI for Cybersecurity;Intelligent
+    Systems; Robotics; Trustworthy AI
+- Submission: srps151s1
   Status (This Stage): Accept Wave 1 (Confirmed)
   First/Given Names (first): Banooqa
   Last/Family Name (first): Banday
@@ -1242,6 +1439,7 @@
   : Advanced Machine Learning and Pattern Recognition, Human-Centric Deep Learning,
     Scalable Systems for Supercomputing, High Performance Computing, Seminar on Quantitative
     Analysis
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'Yes'
   ? Where has your research been published or where have you conducted research/technical
     projects? Please include a few references, if available.
   : My research so far has been published in ICASSP 25, IEEE Compsac 24 and I have
@@ -1274,7 +1472,11 @@
     better understand these systems, uncover actionable insights, and ultimately improve
     performance prediction, scheduling, and energy efficiency in large-scale computing
     environments."
-- ï»¿Submission: srps153s1
+  Lightning Talk Title (Maximum 10 words): Causality-Aware AI Makes Complex Decisions
+    Explainable and Trustworthy
+  Keywords (Maximum 20 words): Causal Analysis; causal inference; mediation analysis;
+    scheduling; representation learning; augmentation; transfer learning;
+- Submission: srps153s1
   Status (This Stage): Accept Wave 1 (Confirmed)
   First/Given Names (first): Lily
   Last/Family Name (first): Zhu
@@ -1302,6 +1504,7 @@
     internship experience (we recommend at least two science or computer science classes)?
   : Physics I for Physical Sciences Linear Algebra Beginner Python Calc II General
     Chemistry Organic Chemistry I (Fall 2025) Calc III (Fall 2025)
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'Yes'
   ? Where has your research been published or where have you conducted research/technical
     projects? Please include a few references, if available.
   : Phil Sojka (Johns Hopkins Medicine, Assistant Professor of Psychiatry and Behavioral
@@ -1337,7 +1540,10 @@
     expertise is limited. In my goal of becoming an effective practitioner of medicine,
     I want to learn how I can use AI in medicine, to provide timely diagnosis, and
     how I can use AI to make quality care to more accessible.
-- ï»¿Submission: srps156s1
+  Lightning Talk Title (Maximum 10 words): At the Intersection of Health & Data
+  Keywords (Maximum 20 words): Public Health; Medicine; Bioinformatics; Protein Prediction;
+    Biostatistics; Python; R; Machine Learning; SPSS; Wet-Lab; Modeling
+- Submission: srps156s1
   Status (This Stage): Accept Wave 1 (Confirmed)
   First/Given Names (first): Martha
   Last/Family Name (first): Asare
@@ -1366,7 +1572,11 @@
   Year in program: 2nd
   Research Area/Department (check as many as appropriate): Applied Mathematics; Computer
     Science; Data Science; Engineering; Machine Learning/AI
-  Major/Specialty: "#NAME?"
+  Major/Specialty: "- Computer Science (PhD) â\x80\x93 Specialization in Computer
+    Vision, Artificial Intelligence, and Additive Manufacturing. - Applied Statistics
+    and Data Science (Masterâ\x80\x99s) â\x80\x93 Specialization in Machine Learning,
+    Big Data Analytics, and Predictive Modeling. - Statistics (Bachelorâ\x80\x99s)
+    â\x80\x93 Focus on Biostatistics, Probability Theory, and Statistical Modeling."
   Degrees Earned or in Progress (Degree/Field/Year): "â\x80¢ PhD in Computer Science
     (Interdisciplinary Applications) â\x80\x93 University of Texas Rio Grande Valley,
     Aug 2024 â\x80\x93 Present (in progress) â\x80¢ MS in Applied Statistics and Data
@@ -1384,6 +1594,7 @@
     Lawrence Berkeley Lab and ongoing PhD research in additive manufacturing anomaly
     detection, these courses provide me with strong computational, analytical, and
     applied research skills."
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'Yes'
   ? Where has your research been published or where have you conducted research/technical
     projects? Please include a few references, if available.
   : "â\x80¢ FAIM 2025 (Springer LNME) â\x80\x93 â\x80\x9CAI-Enhanced Real-Time Additive
@@ -1442,7 +1653,12 @@
     to technology. I see this fellowship as a pathway not only to strengthen my research
     but also to prepare me to mentor others and to build long-term collaborations
     that extend beyond my PhD."
-- ï»¿Submission: srps158s1
+  Lightning Talk Title (Maximum 10 words): AI-Driven Computer Vision for Smart Manufacturing
+    Systems
+  Keywords (Maximum 20 words): Artificial Intelligence; Machine Learning; Computer
+    Vision; Additive Manufacturing; Deep Learning; Defect Detection; 3D Reconstruction;
+    Robotics; Smart Manufacturing; Digital Twin
+- Submission: srps158s1
   Status (This Stage): Accept Wave 2 (Confirmed)
   First/Given Names (first): Vianney
   Last/Family Name (first): Diaz-Barraza
@@ -1477,6 +1693,7 @@
     Electr/Comp Engineering - ECE 1300 Electric Circuits 1 - ECE 2301 Introductory
     Electromagnetism - PHYS 2321 Calculus 3 - MATH 2313 Differential Equations - MATH
     2326
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'Yes'
   ? Where has your research been published or where have you conducted research/technical
     projects? Please include a few references, if available.
   : I was selected to participate in the Nuclear Science in Texas to Enhance and Advance
@@ -1525,7 +1742,12 @@
     is very important. I expect not just to gain technical and research knowledge,
     but to create lifelong connections with my peers and mentors, share my own experiences
     and opinions, and receive mentorship to continue my path in research.
-- ï»¿Submission: srps163s1
+  Lightning Talk Title (Maximum 10 words): High-Throughput Validation of Nuclear Matter
+    Equations of State
+  Keywords (Maximum 20 words): High-Performance Computing; Machine Learning; Signal
+    Processing; Telecommunications; Data Analysis; Computational Physics; Numerical
+    Methods; Artificial Intelligence
+- Submission: srps163s1
   Status (This Stage): Accept Wave 2 (Confirmed)
   First/Given Names (first): Samson
   Last/Family Name (first): Quaye
@@ -1571,6 +1793,7 @@
     algorithms. Combinatorics and Cryptography (2021): Explored block cipher design
     and cryptographic security methods. Optimization II (2021): Advanced techniques
     in deterministic and stochastic optimization for real-world problem solving."
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'Yes'
   ? Where has your research been published or where have you conducted research/technical
     projects? Please include a few references, if available.
   : "Zero-Knowledge Proofs for Responsible AI Auditing (Manuscript Submitted) â\x80\x93
@@ -1603,7 +1826,11 @@
     and connections that can guide me as I move forward in my academic and research
     career. My goal is to come out of the program with stronger research skills, a
     clearer sense of direction in the domain area I get the chance to work in.
-- ï»¿Submission: srps165s1
+  Lightning Talk Title (Maximum 10 words): Applied Maths, AI, Cybersecurity, and LLMs
+  Keywords (Maximum 20 words): Artificial Intelligence; Cybersecurity; Large Language
+    Models; Cryptography; Applied Statistics; Edge Computing; Internet of Things;
+    Malware Detection; Parallel Computing; Applied Mathematics
+- Submission: srps165s1
   Status (This Stage): Accept Wave 1 (Confirmed)
   First/Given Names (first): Kwesi
   Last/Family Name (first): Ohene-Obeng
@@ -1635,6 +1862,7 @@
   ? What courses or academic preparation have you completed to prepare for a summer
     internship experience (we recommend at least two science or computer science classes)?
   : Data Mining Statistical Inference Advanced Algorithm R/Python programming
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'Yes'
   ? Where has your research been published or where have you conducted research/technical
     projects? Please include a few references, if available.
   : "K. A. Ohene-Obeng and K. Maupin, Scientific Machine Learning for Surrogate Modeling,
@@ -1670,7 +1898,11 @@
     technical growth. It is a chance to give back, to strengthen the inclusive network
     that helped me, and to continue building science that is innovative, collaborative,
     and impactful.
-- ï»¿Submission: srps167s1
+  Lightning Talk Title (Maximum 10 words): Functional Data Analysis for Uncertainty
+    Quantification and Model Calibration
+  Keywords (Maximum 20 words): Machine Learning; Deep Learning; Uncertainty Quantification;
+    Functional Data Analysis; Bayesian Inference;
+- Submission: srps167s1
   Status (This Stage): Accept Wave 2 (Confirmed)
   First/Given Names (first): Mirna
   Last/Family Name (first): Elizondo
@@ -1717,6 +1949,7 @@
     features, run analyses, and uncover disparities. These experiences taught me not
     only technical skills but also how to work on a team and connect data science
     to real-world impact."
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'Yes'
   ? Where has your research been published or where have you conducted research/technical
     projects? Please include a few references, if available.
   : 'My work has been published in peer-reviewed venues, including a study on predicting
@@ -1743,7 +1976,11 @@
     the programâ\x80\x99s emphasis on mentorship and community building. Ultimately,
     I hope this program will strengthen my ability to conduct impactful, inclusive
     research."
-- ï»¿Submission: srps168s1
+  Lightning Talk Title (Maximum 10 words): AI & Data Science for Health and Learning
+  Keywords (Maximum 20 words): machine learning, AI, data science, healthcare analytics,
+    prediction models, graph clustering, topic modeling, chronic conditions, clinical
+    data, big data
+- Submission: srps168s1
   Status (This Stage): Accept Wave 1 (Confirmed)
   First/Given Names (first): Temitope
   Last/Family Name (first): Oyedeji
@@ -1782,6 +2019,7 @@
     Complex Analysis, Ordinary differential equations, Classical methods of Partial
     Differential Equations. I also use math tools like MATLAB and programming tools
     like python and Julia
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'Yes'
   ? Where has your research been published or where have you conducted research/technical
     projects? Please include a few references, if available.
   : "I conducted technical projects during my PhD program. I worked on the following
@@ -1840,7 +2078,12 @@
     while strengthening my readiness for future collaborations with DOE labs. I look
     forward to the chance to bring my enthusiasm, technical expertise, and collaborative
     mindset to SRP and to grow through meaningful engagement with its research community."
-- ï»¿Submission: srps170s1
+  Lightning Talk Title (Maximum 10 words): Numerical Methods and Machine Learning
+    for Complex PDE Systems
+  Keywords (Maximum 20 words): Numerical Analysis; Partial Differential Equations;
+    Optimization; Machine Learning; Scientific Computing; Applied Mathematics; Computational
+    Modeling; High-Performance Computing; Stability Analysis; Convergence
+- Submission: srps170s1
   Status (This Stage): Accept Wave 2 (Confirmed)
   First/Given Names (first): Ahmed Senior
   Last/Family Name (first): Ismail
@@ -1878,6 +2121,7 @@
   : Reinforcement Learning Advanced Machine Learning Mathematical Optimization Numerical
     Linear Algebra Numerical Partial Differential Equation Partial Differential Equation
     Applied Functional Analysis
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'Yes'
   ? Where has your research been published or where have you conducted research/technical
     projects? Please include a few references, if available.
   : 'Media Article: Ahmed Senior Ismail, (SoHPC2022_final_reports). Optimization of
@@ -1911,7 +2155,11 @@
     researchers and share experiences with peers. Most importantly, I hope to build
     lasting professional relationships and a collaborative network that extends beyond
     the program. Thank you."
-- ï»¿Submission: srps171s1
+  Lightning Talk Title (Maximum 10 words): Risk-Sensitive Reinforcement Learning and
+    Optimization for Decision-Making
+  Keywords (Maximum 20 words): Reinforcement Learning; Risk-Sensitive; Decision Making;
+    Optimization; Value-at-Risk (VaR).
+- Submission: srps171s1
   Status (This Stage): Accept Wave 1 (Confirmed)
   First/Given Names (first): Zaire
   Last/Family Name (first): Meachem
@@ -1938,6 +2186,7 @@
     relevant courses I have taken in preparation. I took a variety of self-study courses
     in regard to AI like Large-Langue models, recommendation systems, and neural networks
     to give myself a deepen expertise.
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'Yes'
   ? Where has your research been published or where have you conducted research/technical
     projects? Please include a few references, if available.
   : I have conducted one research initiative with a professor located in Texas A&M
@@ -1966,7 +2215,12 @@
     not only be something strict to a summer experience but really pushes to help
     dedicated and outstanding people to get the AI careers which is a very competitive
     field.
-- ï»¿Submission: srps173s1
+  Lightning Talk Title (Maximum 10 words): AI-Driven Approaches for Simulation and
+    Scientific Modeling
+  Keywords (Maximum 20 words): Artificial Intelligence; High-Performance Computing;
+    Machine Learning; Applied Mathematics; Frontier AI; Modeling and Simulation; Computational
+    Methods;
+- Submission: srps173s1
   Status (This Stage): Accept Wave 1 (Confirmed)
   First/Given Names (first): Clement
   Last/Family Name (first): Bosomtwe
@@ -2013,6 +2267,7 @@
     These experiences, combined with my 2nd place in the National HBCU C2 App Design
     Competition (2024-2025), developing an AI platform, have equipped me with practical
     skills in coding, problem-solving, and collaborative project work.
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'No'
   Please describe your research/academic interests.: My academic and research interests
     are rooted in my experiences in Ghana and my current studies in the United States,
     focusing on artificial intelligence, cybersecurity, and software engineering to
@@ -2041,131 +2296,11 @@
     and software engineering, while inspiring underrepresented communities in STEM.
     Ultimately, I seek to thrive in an environment where everyone is welcome, driving
     technological advancements that benefit global societies.
-- ï»¿Submission: srps174s1
-  Status (This Stage): Accept Wave 1 (Declined)
-  First/Given Names (first): Amanda
-  Last/Family Name (first): Lee
-  Email (first): anlee@sdsu.edu
-  Institution: San Diego State University and University of California, Irvine
-  Department: Computational Science Research Center
-  Pronouns: she/hers
-  Short Biography (Maximum 200 words): "Amandaâ\x80\x99s academic research focuses
-    on developing AI-driven solutions for healthcare, with an emphasis on cardiothoracic
-    disease detection and treatment. Her graduate work centers on chronic obstructive
-    pulmonary disease (COPD), the third leading cause of death worldwide. Traditional
-    AI models for COPD staging require both inspiratory and expiratory CT scans, though
-    the latter is not clinically standard and increases radiation exposure. Amanda
-    demonstrated that a single CT acquisition is sufficient for accurate staging,
-    enabling safer and more accessible diagnosis without sacrificing performance.
-    Amanda is also developing self-supervised AI methods that leverage chest radiographs
-    to learn low-dimensional, clinically meaningful feature representations. These
-    techniques accelerate tasks such as pathology classification, biomarker discovery,
-    and abnormality localization while reducing computational burden. Amanda has also
-    gained experience in defense as a Machine Learning R&D Intern at Design West Technologies,
-    Inc., where she designs deep learning algorithms in Python for Department of Defense
-    research applications. She contributes to data ingestion, visualization, and autonomous
-    system simulation using Microsoft AirSim, reinforcement learning, and other AI/ML
-    approaches. Additionally, she supports proposal development and strategic planning,
-    integrating technical expertise with confidentiality and compliance requirements.
-    Her long-term goal is to solve problems in high-impact environments and apply
-    cutting-edge research to benefit society."
-  Upload a photograph of this person (JPEG/GIF/PNG/TIFF): srps174s1-yaml6_upload.jpg
-  Academic Status: PhD Student
-  Year in program: 5th
-  Research Area/Department (check as many as appropriate): Applied Mathematics; Computer
-    Science; Data Science; Engineering; Machine Learning/AI; Mathematics
-  Major/Specialty: Computational Science/Artificial Intelligence
-  Degrees Earned or in Progress (Degree/Field/Year): Bachelor of Science/Applied Mathematics/2021
-    Minor/Honors Interdisciplinary Studies/2021
-  ? What courses or academic preparation have you completed to prepare for a summer
-    internship experience (we recommend at least two science or computer science classes)?
-  : 'I have had the pleasure of taking many courses relevant to a summer internship
-    experience in AI. Below is a list of my relevant coursework: 2025 Fellowship Writing
-    2023 Merging Models and Data Statistical Methods for Data Analysis III Statistical
-    Methods for Data Analysis II 2022 Introduction to Artificial Intelligence Principles
-    of Scientific Computing Statistical Methods for Data Analysis I Advanced Computational
-    PDE''s Computational Database Fundamentals Scientific Computing 2021 Advanced
-    Computational Optimization Computational Methods for Scientists Mathematical Modeling
-    Advanced Calculus II Linear Algebra R Programming and Data Science Scientific
-    Writing 2020 Abstract Algebra Advanced Calculus I Intermediate Computer Programming
-    Introduction to Linear Algebra Programming in Mathematics Statistical Methods
-    A Statistical Methods B 2019 Discrete Mathematics Elementary Business Statistics
-    Introductory Computer Programming Mathematical Physiology'
-  ? Where has your research been published or where have you conducted research/technical
-    projects? Please include a few references, if available.
-  : 'My research has been published in scientific journals such as Radiology: Cardiothoracic
-    Imaging and Applied Sciences and conference proceedings books. Below are references
-    for these publications: Lee AN, Hsiao A, Hasenstab KA. Evaluating the Cumulative
-    Benefit of Inspiratory CT, Expiratory CT, and Clinical Data for COPD Diagnosis
-    and Staging through Deep Learning. Radiology Cardiothoracic Imaging. 2024;6(6):e240005.
-    doi:10.1148/ryct.240005 (Co-First Author) Schwartz AV, Lee AN, Theilmann RJ, George
-    UZ. Spatial heterogeneity of excess lung fluid in cystic fibrosis: generalized,
-    localized diffuse, and localized presentations. Applied Sciences. 2022; 12(20):10647.
-    https://doi.org/10.3390/app122010647  Lee AN, Schwartz AV, Theilmann RJ, George
-    UZ. Characterization of mucus in digital image analysis of cystic fibrosis lungs.
-    SB3C 2020 Summer Biomechanics, Bioengineering and Biotransport Conference Proceedings
-    Book.'
-  Please describe your research/academic interests.: My research interests lie at
-    the intersection of artificial intelligence (AI) and medical imaging. I focus
-    on developing self-supervised and data-efficient learning methods that leverage
-    clinical imaging and genetic data for disease diagnosis, prognosis, and staging.
-    While much of my work emphasizes lung disease, particularly COPD, the approaches
-    I develop are broadly applicable to precision medicine. Beyond my doctoral research,
-    I am currently interning with a Department of Defense contractor. Although this
-    work differs from my healthcare-focused studies, it has strengthened core research
-    skills such as data cleaning, image preprocessing, and statistical analysis, while
-    also exposing me to new domains of machine learning, including reinforcement learning.
-    This experience has broadened my perspective and sparked my interest in defense-related
-    applications alongside healthcare. My long-term goal is to solve problems in high-impact
-    environments by advancing cutting-edge research and developing innovative AI tools
-    that benefit both science and society.
-  'Please select all the topical areas that apply to your field of study:': Applied
-    Computer Science; Applied Mathematics; Artificial Intelligence and Intelligent
-    Systems; Clinical Medicine; Computer Science; Informatics, Analytics and Information
-    Science; Other Computer and Information Sciences; Other Engineering and Technologies;
-    Other Medical Sciences; Statistics and Probability; Visualization and Human-Computer
-    Systems
-  Motivation: "I was first selected to be a Sustainable Research Pathways (SRP) intern
-    in 2022, an opportunity that validated my growth as a researcher and strengthened
-    my commitment to advancing science and medicine through artificial intelligence.
-    My internships with SRP have played a crucial role in supporting both my personal
-    and professional growth. Both summers, I worked with Dr. Shinjae Yoo at Brookhaven
-    National Laboratory (BNL). Under Dr. Yooâ\x80\x99s supervision, I developed a
-    Transformers-based machine learning model to study gene regulatory code using
-    PyTorch and high-performance computing (HPC) systems including NERSC Perlmutter
-    and BNLâ\x80\x99s HPC cluster. Following the internship, Dr. Yoo invited me to
-    participate in the BNL GPU Hackathon, where I learned to accelerate the training
-    algorithm for the model I developed across multiple GPUs with Python Distributed
-    Data Parallel. I also had the opportunity to attend several SRP events, including
-    the BNL Summer Internship Symposium and the 2023 Exascale Computing Project Annual
-    Meeting, where I presented my work. These events allowed me to connect with other
-    scholars and learn from the incredible SRP mentors, whose dedication to supporting
-    science is truly inspiring. In a time when scientific research is increasingly
-    vulnerable to political polarization and funding cuts, being part of a community
-    so deeply committed to the advancement of science feels especially meaningful
-    and hopeful. I especially valued the opportunity to engage in a setting where
-    scholars and mentors could share their experiences, exchange ideas, and support
-    one another through the many challenges of graduate school and beyond. I would
-    be extremely grateful to participate in the 2026 SRP-NAIRR program, as it offers
-    a unique opportunity to engage with a diverse and collaborative research community
-    while contributing to impactful work at the intersection of artificial intelligence
-    and applied science. My research focuses on developing data-efficient and self-supervised
-    AI methods for healthcare applications, particularly in medical imaging, while
-    also exploring how these approaches can extend to other high-impact domains. This
-    program offers an opportunity to deepen my technical expertise by collaborating
-    with domain experts and utilizing advanced computing resources, both of which
-    were experiences I greatly valued during my previous SRP participation. In addition,
-    I am just as motivated by the chance to engage with the inclusive, mentorship-driven
-    research community at SRP. Looking ahead, my goal is to work in the biotechnology
-    industry or at a national laboratory, where I can conduct high-impact research,
-    collaborate with academia, and mentor students of diverse backgrounds. My experiences
-    as an SRP intern have brought me closer to that vision, reinforcing both my technical
-    growth and my commitment to inclusive mentorship. I would be grateful for the
-    opportunity to return as an SRP intern, continuing to build on this foundation
-    while contributing to the community. My hope is to build a career where I will
-    be able to help students achieve their goals just as the SRP program has helped
-    and supported me."
-- ï»¿Submission: srps177s1
+  Lightning Talk Title (Maximum 10 words): Using Technology to Protect, Connect, and
+    Empower Communities
+  Keywords (Maximum 20 words): Artificial Intelligence Cybersecurity Python Sustainable
+    Technology Trustworthy AI Data Science for Development
+- Submission: srps177s1
   Status (This Stage): Accept Wave 2 (Confirmed)
   First/Given Names (first): Valerie
   Last/Family Name (first): Liang
@@ -2205,6 +2340,7 @@
     Professional Writing and Communication, Computer Systems Fundamentals, Honors
     Probability, Mathematical Statistics, Mathematical Image Analysis, Algorithms,
     Artificial Intelligence, Computer Vision, Optimization
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'Yes'
   ? Where has your research been published or where have you conducted research/technical
     projects? Please include a few references, if available.
   : "Machine Learning Research Intern during a National Science Foundation-sponsored
@@ -2299,7 +2435,12 @@
     problems is exactly the kind of experience I am seeking. I am eager to contribute
     to a team while gaining a practical understanding of how to build a meaningful
     career at the intersection of AI and public impact."
-- ï»¿Submission: srps188s1
+  Lightning Talk Title (Maximum 10 words): 'AI That Works: Interpretable Models for
+    Complex Systems'
+  Keywords (Maximum 20 words): AI; machine learning; multi-agent systems; computer
+    vision; robotics; reinforcement learning; dynamic environments; feature extraction;
+    practical AI; AI architectures; interpretable AI
+- Submission: srps188s1
   Status (This Stage): Accept Wave 1 (Confirmed)
   First/Given Names (first): Samira
   Last/Family Name (first): Begum
@@ -2338,6 +2479,7 @@
     the college information technology department, which granted me the opportunity
     to apply my academic knowledge of computer systems. I've also worked in library
     sciences at an institutional archive doing data management, cleaning, and development."
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'No'
   Please describe your research/academic interests.: "I'm interested in building AI
     systems to aid in economic and environmental analysis. A particular project I'm
     intrigued by is the research on heat islands and the effects of climate change
@@ -2417,7 +2559,11 @@
     are issues that align with my interests and skillset. Attending and mentoring
     for the HPC bootcamps certainly reinforced my desire to work alongside the kinds
     of people I met!"
-- ï»¿Submission: srps190s1
+  Lightning Talk Title (Maximum 10 words): Data Science for Social Welfare
+  Keywords (Maximum 20 words): social policy; welfare; econometrics; poverty; housing;
+    environmental law; data science; AI infrastructure; ML; energy optimization; climate;
+    hpc education; ecology; information-science
+- Submission: srps190s1
   Status (This Stage): Accept Wave 2 (Confirmed)
   First/Given Names (first): Joshua
   Last/Family Name (first): Adeleke
@@ -2457,6 +2603,7 @@
     Computing and Numerical Methods, Machine Learning, and High-Performance Computing
     seminars, where I gained experience with Python, MATLAB, and numerical linear
     algebra for large-scale simulations.
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'No'
   Please describe your research/academic interests.: My research centers on analysis
     and partial differential equations, with a focus on measure-theoretic scalar balance
     laws and Lie symmetry methods for nonlinear PDEs. I am particularly interested
@@ -2482,7 +2629,12 @@
     but also meaningful professional connections that embody this programâ\x80\x99s
     vision of a science and technology ecosystem where everyone belongs, everyone
     flourishes, and everyone benefits."
-- ï»¿Submission: srps195s1
+  Lightning Talk Title (Maximum 10 words): "Unidirectional Eulerâ\x80\x93Alignment:
+    Entropy, Disintegration, Stability"
+  Keywords (Maximum 20 words): "Nonlocal Partial Differential Equations; Entropy and
+    Weak Solutions; Measure Disintegration; Collective Dynamics; Eulerâ\x80\x93Alignment
+    Systems; Scientific Machine Learning; Mathematical Physics."
+- Submission: srps195s1
   Status (This Stage): Accept Wave 1 (Confirmed)
   First/Given Names (first): Alexis Marie
   Last/Family Name (first): Rana
@@ -2525,6 +2677,7 @@
     (with lab) Biochemistry (with lab) Biophysics (with lab) Analytical Chemistry
     (with lab) Computational & Quantitative: Data Science Computer Science II Statistics
     II Statistical Biology Columbia+ Certificate: Learning AI Through Visualization'
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'Yes'
   ? Where has your research been published or where have you conducted research/technical
     projects? Please include a few references, if available.
   : "I have conducted research as a Murdock Undergraduate Research Scholar in Dr.
@@ -2586,7 +2739,12 @@
     the country, and to bring my own skills in chemistry, biology, and data science
     to a team setting. SRP is a rare opportunity to grow as both a scientist and a
     community member, and I am ready to contribute fully to both."
-- ï»¿Submission: srps198s1
+  Lightning Talk Title (Maximum 10 words): 'AI for Discovery: Bridging Molecular Experiments,
+    Computation, and Society'
+  Keywords (Maximum 20 words): Molecular Biology; Chemistry; Data Science; Machine
+    Learning; Artificial Intelligence; Computational Modeling; Biomedical Imaging;
+    Translational Research; Bioinformatics; Quantitative Analysis
+- Submission: srps198s1
   Status (This Stage): Accept Wave 2 (Confirmed)
   First/Given Names (first): Dianara
   Last/Family Name (first): Sagastizado
@@ -2625,6 +2783,7 @@
     chronic diseases. I am currently an assistant to the head of Data Initiatives
     at Lewis and Clarkâ\x80\x99s Watzek Library, where I have created an interactive
     website on creating data visualizations in R."
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'No'
   Please describe your research/academic interests.: Science is a tool we develop
     out of necessity and we use data science to make sense of what those tools tell
     us about life around us. Graphs and statistics are used to draw meaning from niche
@@ -2652,7 +2811,10 @@
     scientist. I look forward to applying my background as a molecular biologist,
     data scientist, and a researcher of color to extract insight from mentors during
     this internship experience."
-- ï»¿Submission: srps203s1
+  Lightning Talk Title (Maximum 10 words): Interconnection of life through molecular
+    biology & data science
+  Keywords (Maximum 20 words): Molecular biology; data science; bioinformatics
+- Submission: srps203s1
   Status (This Stage): Accept Wave 1 (Confirmed)
   First/Given Names (first): Michael
   Last/Family Name (first): Chukwuka
@@ -2679,6 +2841,7 @@
   ? What courses or academic preparation have you completed to prepare for a summer
     internship experience (we recommend at least two science or computer science classes)?
   : computational Physics advanced data science computer vision Machine learning
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'Yes'
   ? Where has your research been published or where have you conducted research/technical
     projects? Please include a few references, if available.
   : i currently work with the CMS collaboration at CERN. i currently work on understanding
@@ -2714,7 +2877,11 @@
     data science, and I contend that SRPâ\x80\x93NAIRR offers the optimal platform
     to gain new competencies, forge enduring collaborations, and make significant
     contributions to the advancement of national research infrastructure."
-- ï»¿Submission: srps210s1
+  Lightning Talk Title (Maximum 10 words): Advancing Heavy-Ion Physics with AI-Driven
+    ZDC Analysis at CMS
+  Keywords (Maximum 20 words): 'Data Science: AI: Machine Learning: Nuclear Science:
+    High performance computing'
+- Submission: srps210s1
   Status (This Stage): Accept Wave 1 (Confirmed)
   First/Given Names (first): dionne
   Last/Family Name (first): bang
@@ -2745,6 +2912,7 @@
     Machine Learning for Sensor-Based Human Activity Recognition Seminar BS in CS
     (Oregon State): Data Structures, Algorithms, Databases, Networks, OS, Parallel
     Programming'
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'Yes'
   ? Where has your research been published or where have you conducted research/technical
     projects? Please include a few references, if available.
   : 'CLEF 2025 - CheckThat! lab for Task 1 Paper title: Detecting Subjectivity via
@@ -2767,7 +2935,11 @@
     have shown me how much I enjoy turning complex data into actionable insights.
     Through SRP, I hope to continue developing my skills, tackle new applied challenges,
     and collaborate with mentors and peers who inspire me to keep growing as a researcher."
-- ï»¿Submission: srps213s1
+  Lightning Talk Title (Maximum 10 words): From Data Infrastructure to Applied AI
+  Keywords (Maximum 20 words): Data Infrastructure; Applied Machine Learning; Data
+    Pipelines; Transformer Models; NLP; High-Performance Computing; FHIR; Radar Data
+    Processing; Reproducible AI; Data Validation
+- Submission: srps213s1
   Status (This Stage): Accept Wave 1 (Confirmed)
   First/Given Names (first): Jenedith
   Last/Family Name (first): Pascasio
@@ -2807,6 +2979,7 @@
     and General Physics II. My current research has provided a strong foundation in
     high-performance computing (HPC) skills like Python programming, Linux environments,
     and data management, which I am now applying to real world research.
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'Yes'
   ? Where has your research been published or where have you conducted research/technical
     projects? Please include a few references, if available.
   : I am a research intern at the University of California, San Diego, in the Department
@@ -2836,7 +3009,12 @@
     they feel represented and know that science is within their reach. Lastly I want
     to honor my parents sacrifices and inspire others, just as I've been inspired
     by the scientists I've met along my journey.
-- ï»¿Submission: srps216s1
+  Lightning Talk Title (Maximum 10 words): Accelerating Quantum Materials Discovery
+    with AI
+  Keywords (Maximum 20 words): Theoretical Chemistry; Density Functional Theory; Applied
+    Mathematics; Quantum Materials; Fusion Technologies; Machine Learning; Computational
+    Modeling; VASP; HPC; Chemistry; Radiation; Materials
+- Submission: srps216s1
   Status (This Stage): Accept Wave 2 (Confirmed)
   First/Given Names (first): Adam
   Last/Family Name (first): Trojak
@@ -2879,6 +3057,7 @@
     am also taking part in Advanced Topics in AI for Science: A Student Training Series
     through Argonne Leadership Computing Facility this October to November, which
     will refresh my HPC skills and introduce new topics in AI for science for me.'
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'Yes'
   ? Where has your research been published or where have you conducted research/technical
     projects? Please include a few references, if available.
   : 'I worked with the researchers at the Robotics and Motion Laboratory at the University
@@ -2915,7 +3094,12 @@
     in this program to build a lasting connection with scientists and researchers
     in the fields that interest me most, accelerate my career goals, and to contribute
     to valuable research.
-- ï»¿Submission: srps218s1
+  Lightning Talk Title (Maximum 10 words): Adam Trojak- Transformative Experiences,
+    Academic Excellence, and Exploring New Frontiers
+  Keywords (Maximum 20 words): "High Performance Computing; AI; Software Development;
+    Cybersecurity; Robotics; Research; Machine Learning; Super computing; â\x80\x8BSoftware;
+    Optimization; HPC; Programming; Coding; Artificial Intelligence"
+- Submission: srps218s1
   Status (This Stage): Accept Wave 1 (Confirmed)
   First/Given Names (first): Jamil
   Last/Family Name (first): Gafur
@@ -2967,6 +3151,7 @@
     domains, including simulation and modeling. CS:5630 â\x80\x93 Cloud Computing
     Technology Introduced modern cloud platforms, containerization (Docker, Kubernetes),
     and scalable system design."
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'Yes'
   ? Where has your research been published or where have you conducted research/technical
     projects? Please include a few references, if available.
   : "Conference - PEARC24 (2024) â\x80\x93 â\x80\x9CAdversarial Robustness and Explainability
@@ -3019,7 +3204,11 @@
     in an environment that prioritizes inclusion and collaboration. Iâ\x80\x99m excited
     for the opportunity to learn, mentor, and build lasting connections through the
     Sustainable Research Pathways program."
-- ï»¿Submission: srps219s1
+  Lightning Talk Title (Maximum 10 words): Resource Efficient and Safe AI for Deployed
+    models
+  Keywords (Maximum 20 words): Resource Efficient AI; Adversarial Attack; Machine
+    Learning; RSE
+- Submission: srps219s1
   Status (This Stage): Accept Wave 2 (Confirmed)
   First/Given Names (first): Aditya
   Last/Family Name (first): Mittal
@@ -3069,6 +3258,7 @@
     Generative Models and Reinforcement Learning before summer 2026. My coursework
     provides a strong foundation for advanced research. I also have previous research
     experience, discussed in the next question.'
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'Yes'
   ? Where has your research been published or where have you conducted research/technical
     projects? Please include a few references, if available.
   : "My previous research was done at UC Davis during my undergraduate studies. I
@@ -3147,7 +3337,11 @@
     hope the NAIRR projects will help clarify my future research directions, and that
     the summer project will also produce some publishable results! Thank you for considering
     my application.'
-- ï»¿Submission: srps222s1
+  Lightning Talk Title (Maximum 10 words): Deep Learning for Fairness and Interpretability
+  Keywords (Maximum 20 words): Machine learning fairness; reinforcement learning;
+    natural language processing; deep generative models; applied machine learning;
+    causal inference; data science; optimization.
+- Submission: srps222s1
   Status (This Stage): Accept Wave 1 (Confirmed)
   First/Given Names (first): Emmanuella
   Last/Family Name (first): Ejichukwu
@@ -3187,6 +3381,7 @@
     internship experience (we recommend at least two science or computer science classes)?
   : Big Data Analytics and Visualization Multivariate Statistics Machine Learning
     Cloud Infrastructure and Generative artificial Intelligence
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'Yes'
   ? Where has your research been published or where have you conducted research/technical
     projects? Please include a few references, if available.
   : Under review
@@ -3252,7 +3447,12 @@
     SRP as an opportunity to learn, contribute, and grow as a scholar who advances
     sustainability through innovative, inclusive, and human-centered applications
     of AI.
-- ï»¿Submission: srps223s1
+  Lightning Talk Title (Maximum 10 words): Human-Centered Design, AI, and Data Science
+    for Sustainable Engineering Systems
+  Keywords (Maximum 20 words): Artificial Intelligence Machine Learning Natural Language
+    Processing Human-Centered Design Sustainability Data Analytics Data Science Learning
+    Analytics Cognitive Modelling Engineering Education
+- Submission: srps223s1
   Status (This Stage): Accept Wave 1 (Confirmed)
   First/Given Names (first): Praveeni
   Last/Family Name (first): Mathangadeera
@@ -3299,6 +3499,7 @@
     Numerical Linear Algebra, MTH 581: Applied ODEs, MTH 659: Computational Wave Propagation,
     MTH 659: Computational Harmonic Analysis, MTH 563-565: Probability I, II and III,
     ST 511: Methods of Data Analysis.'
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'Yes'
   ? Where has your research been published or where have you conducted research/technical
     projects? Please include a few references, if available.
   : 'Publications: 1. M. Peszynska, P. Mathangadeera, M. Phelps, F. Felsch and N.
@@ -3396,7 +3597,11 @@
     with my research interests. I believe that being involved in NAIRR or HPSF project
     would help me with an ideal environment to advance as a researcher in my field.
     Thank you very much for considering my application."
-- ï»¿Submission: srps225s1
+  Lightning Talk Title (Maximum 10 words): Coupled snow-soil model
+  Keywords (Maximum 20 words): 'Surface energy balance; Permafrost; Snow; Radiation;
+    Modeling: Alaskan Arctic; Finite volume methods; Domain Decomposition; ML/NN regression
+    model; Sobol sensitivity analysis.'
+- Submission: srps225s1
   Status (This Stage): Accept Wave 1 (Confirmed)
   First/Given Names (first): Xingyi
   Last/Family Name (first): Chen
@@ -3437,6 +3642,7 @@
     Monte Carlo Methods; Causal Inference. Computing: Intermediate Programming (C/C++);
     Genomic Data Visualization (R); Foundations of Computational Biology & Bioinformatics
     (Python/R); Computational Medicine (Python).'
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'Yes'
   ? Where has your research been published or where have you conducted research/technical
     projects? Please include a few references, if available.
   : 'Hicks Lab (Biostatistics, JHU): spatial transcriptomics workflows; Visium HD
@@ -3479,7 +3685,12 @@
     statistically sound, computationally fast methods and tools that are simple for
     others to deploy - so results are not just interesting, but also significant and
     useful."
-- ï»¿Submission: srps230s1
+  Lightning Talk Title (Maximum 10 words): Building Trustworthy Analytics for Biomedical
+    Data
+  Keywords (Maximum 20 words): Biomedical Data Science; Biostatistics; Statistical
+    Genomics; Machine Learning; Applied Statistics; Data Visualization; Spatial Transcriptomics;
+    Reproducible Workflows
+- Submission: srps230s1
   Status (This Stage): Accept Wave 1 (Confirmed)
   First/Given Names (first): Darren
   Last/Family Name (first): Butler
@@ -3519,6 +3730,7 @@
     internship experience (we recommend at least two science or computer science classes)?
   : Interactive Data Science; Data Science for Psych/Neuroscience; Augmenting Intelligence;
     Experimental Design & Analysis; Education Technology Design; Physics 1 & 2
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'Yes'
   ? Where has your research been published or where have you conducted research/technical
     projects? Please include a few references, if available.
   : "Darren Butler. 2025. Fostering Psychological Safety for Learning in Neurodiverse
@@ -3608,7 +3820,11 @@
     in scientific research and development. I hope to increase the quality of research
     and research software through sociotechnical tools for responsible, inclusive
     collaboration, and join a national lab or company partner after graduation."
-- ï»¿Submission: srps233s1
+  Lightning Talk Title (Maximum 10 words): Developing AI Assistants for Psychologically
+    Safe, Neurodiverse, Collaborative Software Development
+  Keywords (Maximum 20 words): Human-Centered Computing; Software Engineering; Human-AI
+    Interaction; Accessibility; Education; Responsible AI; Analytics
+- Submission: srps233s1
   Status (This Stage): Accept Wave 1 (Confirmed)
   First/Given Names (first): Miriam
   Last/Family Name (first): Asare-Baiden
@@ -3647,6 +3863,7 @@
     and Informatics From LinkedIn learning: - PyTorch Essential Training: Deep Learning
     - Hands-On PyTorch Machine Learning - Deep Learning with Python: Convolutional
     Neural Networks - Data Visualization with Matplotlib and Seaborn'
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'Yes'
   ? Where has your research been published or where have you conducted research/technical
     projects? Please include a few references, if available.
   : 'First-Author Publications: M. Asare-Baiden, SE Sonenblum, K Jordan, A Chung,
@@ -3708,7 +3925,11 @@
     health equity, and I see this fellowship as an ideal opportunity to refine my
     research through mentorship and collaboration, ultimately contributing to AI tools
     that ensure equitable healthcare for all populations."
-- ï»¿Submission: srps234s1
+  Lightning Talk Title (Maximum 10 words): 'EQUITY AND TRUSTWORTHINESS: RESPONSIBLE
+    AI IN HEALTHCARE'
+  Keywords (Maximum 20 words): Equitable AI; Trustworthy AI; Algorithmic Fairness
+    ; AI Governance and Policy ; Auditing AI Systems; Healthcare Applications
+- Submission: srps234s1
   Status (This Stage): Accept Wave 2 (Confirmed)
   First/Given Names (first): Ashlyn
   Last/Family Name (first): Campbell
@@ -3746,6 +3967,7 @@
     Learning - Social Statistics - Big Data for Public Good - Social Research Methods
     2. PhD Level Coursework - Human-Computer Interaction Research Seminar - How People
     Learn - Doctoral Foundations Seminar Additional coursework is pending
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'Yes'
   ? Where has your research been published or where have you conducted research/technical
     projects? Please include a few references, if available.
   : "Ashlyn Campbell, Anu G. Bourgeois, and Nannette P. Napier. 2025. RISE Stars:
@@ -3784,7 +4006,12 @@
     and interests. I have long been interested in the work done by the Computing Research
     Association, as well as in collaborating with additional minority-serving institutions,
     and I believe this work will have a lasting impact.'
-- ï»¿Submission: srps235s1
+  Lightning Talk Title (Maximum 10 words): 'Opening the Black Box: Improving Access
+    to AI'
+  Keywords (Maximum 20 words): AI; Education; AI Literacy; Computer Science Education;
+    Computing; Access; Curriculum; Undergraduate Research; Ethics; Responsible AI;
+    Informal Learning;
+- Submission: srps235s1
   Status (This Stage): Accept Wave 2 (Confirmed)
   First/Given Names (first): Hamim Md
   Last/Family Name (first): Adal
@@ -3827,6 +4054,7 @@
     Methods in CS (CS 533) 7. Intro to Cybersecurity (CS 544) 8. Computer Networks
     (CS 585) 9. Theory of Computation (CS 500) 10. Advanced Computer Operating Systems
     (587)
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'Yes'
   ? Where has your research been published or where have you conducted research/technical
     projects? Please include a few references, if available.
   : "--- My research has been published in the IEEE and ACM conferences. --- I have
@@ -3901,7 +4129,12 @@
     National Artificial Intelligence Research Resource (NAIRR) projects. I am confident
     that the opportunity to participate in this program will give shape to my career
     to become a more accomplished researcher in the future.
-- ï»¿Submission: srps236s1
+  Lightning Talk Title (Maximum 10 words): AI's Resilience to Stay Smart in a Noisy
+    World
+  Keywords (Maximum 20 words): Machine Learning; Computational Modeling; Artificial
+    Intelligence; Supervised Learning; Simulation; Reinforcement Learning; Neural
+    Network; Deep Learning; High Performance Computing; Mathematical Modeling
+- Submission: srps236s1
   Status (This Stage): Accept Wave 2 (Confirmed)
   First/Given Names (first): Abdulmumeed
   Last/Family Name (first): Rashidi
@@ -3929,10 +4162,10 @@
   Research Area/Department (check as many as appropriate): Computer Science; Data
     Science; Engineering; Machine Learning/AI
   Major/Specialty: Computer Science
-  Degrees Earned or in Progress (Degree/Field/Year): N/A
   ? What courses or academic preparation have you completed to prepare for a summer
     internship experience (we recommend at least two science or computer science classes)?
   : CSC 110 CSC 205 Math 151 Math 187 ECE 102 (Engineering Analysis and Tools)
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'No'
   Please describe your research/academic interests.: I am pursing an associates degree
     in computer science at Phoenix College. After this, I am going to pursue a bachelors
     degree at ASU, and I will take courses in data science and artificial intelligence.
@@ -3955,7 +4188,11 @@
     I want to use this experience to give back to others with limited opportunities
     and resources by sharing what I learn and encouraging students in my community
     to pursue science and technology.
-- ï»¿Submission: srps238s1
+  Lightning Talk Title (Maximum 10 words): Artificial Intelligence for Health and
+    Genetic Research
+  Keywords (Maximum 20 words): Artificial intelligence; Data Science; Machine learning;
+    Genetics and Biological Systems; Artificial Intelligence for Medical Diagnosis
+- Submission: srps238s1
   Status (This Stage): Accept Wave 2 (Unconfirmed)
   First/Given Names (first): Tania Carolina
   Last/Family Name (first): Riano Martinez
@@ -3988,6 +4225,7 @@
     internship experience (we recommend at least two science or computer science classes)?
   : Functional Analysis. Complex Variables . Complex Analysis. Dynamical Systems.
     Real and Complex Analysis.
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'No'
   Please describe your research/academic interests.: My main research interests focus
     on dynamical systems, real and complex analysis, and applying mathematics to solve
     theoretical and practical problems. I am motivated to contribute to collaborative
@@ -4002,7 +4240,7 @@
     and contribute my knowledge and enthusiasm to the programâ\x80\x99s projects and
     community activities, while learning from others and continuing to grow both academically
     and personally"
-- ï»¿Submission: srps242s1
+- Submission: srps242s1
   Status (This Stage): Accept Wave 2 (Confirmed)
   First/Given Names (first): Mansi Sanjay
   Last/Family Name (first): Mahajan
@@ -4037,6 +4275,7 @@
     PDEs. I'm in progress of finishing the Machine Learning and Probabilistic Graphical
     Model course. In winter term, I will be taking the Deep Learning and Reinforsement
     Learning classes.
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'Yes'
   ? Where has your research been published or where have you conducted research/technical
     projects? Please include a few references, if available.
   : My current research is being conducted at Oregon State University as a part of
@@ -4066,7 +4305,12 @@
     experience. Presenting research at conferences helps me expand my network and
     offers valuable feedback on my work. Overall, this program provides me with a
     unique opportunity to learn, implement innovative ideas, and strengthen my career.
-- ï»¿Submission: srps243s1
+  Lightning Talk Title (Maximum 10 words): Numerical Modeling and Simulation of Wave
+    Phenomena in Complex Systems
+  Keywords (Maximum 20 words): FEM; Numerical Modeling; Neural Network; Deep Learning;
+    Wave Phenomena; Python; MATLAB; Multiscale Materials; High-Order Methods; Simulation;
+    Implementation; Finite Difference
+- Submission: srps243s1
   Status (This Stage): Accept Wave 2 (Confirmed)
   First/Given Names (first): Pierce
   Last/Family Name (first): Secola
@@ -4118,6 +4362,7 @@
     of deep learning to understand the dynamic, short-term interactions between brain
     regions for individuals with PTSD. Currently, I work with Dr. Edgar Lobaton at
     NC State researching 2D to 3D reconstruction, as described in the next section.
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'No'
   Please describe your research/academic interests.: My current research involves
     2D to 3D reconstruction using NeRF models. My team and I are attempting to accurately
     reconstruct the interior of seashell-like creatures called foraminifera (foram).
@@ -4162,7 +4407,12 @@
     swap career paths. Now I am working to push even further to master these realms
     of knowledge, and I believe that the SRP Program is the perfect opportunity to
     do so.
-- ï»¿Submission: srps246s1
+  Lightning Talk Title (Maximum 10 words): "Pixels and Perception â\x80\x93 My Journey
+    into Computer Vision"
+  Keywords (Maximum 20 words): 'Academic Background: Stochastic Processes; Numerical
+    Analysis; Non-Linear/Linear Programming; Neural Network Current Research/Research
+    Interests: Computer Vision; Inventory Control NNs; BP Modeling'
+- Submission: srps246s1
   Status (This Stage): Accept Wave 2 (Confirmed)
   First/Given Names (first): Megdalia
   Last/Family Name (first): Bromhal
@@ -4197,27 +4447,28 @@
     Mathematics: Differential Equations, Probability & Statistics, Calculus/Analytical
     Geometry I and II, Discrete Math Structures, Multivariate Calculus, Linear Algebra
     & Matrices'
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'Yes'
   ? Where has your research been published or where have you conducted research/technical
     projects? Please include a few references, if available.
   : "Yelena: A Low-Cost AI-Based Autonomous Crawler 2023-2025 with Dr. Yang Song at
     the University of North Carolina Wilmington Trained a Raspberry Pi-powered robot
     to detect and avoid obstacles using machine learning, follow color-coded markers
     to simulate maze solving with a Depth-First Search algorithm, and respond to hand
-    gesture commands using real-time computer vision. ? Utilized OpenCV, custom ML
-    models, Googleâ\x80\x99s MediaPipe, and GPIO-based hardware control ? Integrated
-    with Raspberry Pi 4B & 5 using SunFounder Robot HAT ? Presented at: Computing
-    Showcase & CSURF Spring Showcase (April 2024) ? Awards/Grants: CSURF Fall Supplies
-    Grant (2023), SURCA Research Grant (Spring & Summer 2024) Pointing Underwater
-    Isnâ\x80\x99t That Simple â\x80\x93 Improving Diver & Robot Interactions in a
-    3D Underwater Environment (2023) with Dr. Junaed Sattar at the University of Minnesota
-    Twin Cities, IRV Lab Compared different computer vision libraries in their performance
-    of estimating the pose of a diver underwater, particularly where the diver is
-    pointing. ? Used Googleâ\x80\x99s MediaPipe, OpenCV, and NumPy for depth-estimation
-    ? Publication: â\x80\x9CDiver Interest via Pointing in Three Dimensions: 3D Pointing
-    Reconstruction for Diver-AUV Communicationâ\x80\x9D, Under Review International
-    Conference of Robotics and Automation 2024 ? Awards/Grants: NSF/REU Undergraduate
-    Research Internship ? Presented at: UMN Twin Citiesâ\x80\x99 REU Symposium (UMN
-    Twin Cities in Minneapolis, MN) (2023)"
+    gesture commands using real-time computer vision. â\x97\x8F Utilized OpenCV, custom
+    ML models, Googleâ\x80\x99s MediaPipe, and GPIO-based hardware control â\x97\x8F
+    Integrated with Raspberry Pi 4B & 5 using SunFounder Robot HAT â\x97\x8F Presented
+    at: Computing Showcase & CSURF Spring Showcase (April 2024) â\x97\x8F Awards/Grants:
+    CSURF Fall Supplies Grant (2023), SURCA Research Grant (Spring & Summer 2024)
+    Pointing Underwater Isnâ\x80\x99t That Simple â\x80\x93 Improving Diver & Robot
+    Interactions in a 3D Underwater Environment (2023) with Dr. Junaed Sattar at the
+    University of Minnesota Twin Cities, IRV Lab Compared different computer vision
+    libraries in their performance of estimating the pose of a diver underwater, particularly
+    where the diver is pointing. â\x97\x8F Used Googleâ\x80\x99s MediaPipe, OpenCV,
+    and NumPy for depth-estimation â\x97\x8F Publication: â\x80\x9CDiver Interest
+    via Pointing in Three Dimensions: 3D Pointing Reconstruction for Diver-AUV Communicationâ\x80\x9D,
+    Under Review International Conference of Robotics and Automation 2024 â\x97\x8F
+    Awards/Grants: NSF/REU Undergraduate Research Internship â\x97\x8F Presented at:
+    UMN Twin Citiesâ\x80\x99 REU Symposium (UMN Twin Cities in Minneapolis, MN) (2023)"
   Please describe your research/academic interests.: "Iâ\x80\x99m primarily interested
     in computer vision, robotics, and machine learning, particularly the intersection
     of perception and control with the goal of helping humans in their own research.
@@ -4240,7 +4491,10 @@
     learn as much as I can and apply it to new inventions and ideas. Iâ\x80\x99m especially
     excited about connecting what I learn through this experience to my own research
     as I continue my Ph.D. journey."
-- ï»¿Submission: srps248s1
+  Lightning Talk Title (Maximum 10 words): 'Megdalia Bromhal: Applied AI & CV'
+  Keywords (Maximum 20 words): Computer vision; Artificial intelligence; edge devices
+    & embedded systems; security; full-stack software engineering; robotics
+- Submission: srps248s1
   Status (This Stage): Accept Wave 1 (Unconfirmed)
   First/Given Names (first): Solomon
   Last/Family Name (first): Amoo
@@ -4275,6 +4529,7 @@
     internship experience (we recommend at least two science or computer science classes)?
   : Data Mining Statistical Data Mining Data Visualization Comp Methods of Linear
     Algebra Survival Analysis Math Modelling
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'Yes'
   ? Where has your research been published or where have you conducted research/technical
     projects? Please include a few references, if available.
   : "MDPI- Attajer, A., Mecheri, B., Hadbi, I., Amoo, S. N., & Bouchnita, A. (2025).
@@ -4321,7 +4576,7 @@
     energy, and infrastructure. Ultimately, SRP will not only strengthen my doctoral
     work but also prepare me for a career advancing sustainable, AI-driven solutions
     for industry and society."
-- ï»¿Submission: srps251s1
+- Submission: srps251s1
   Status (This Stage): Accept Wave 2 (Confirmed)
   First/Given Names (first): Dorcas
   Last/Family Name (first): Godspower
@@ -4355,6 +4610,7 @@
   : General Chemistry I & II with Laboratory Organic Chemistry I,II Analytical Chemistry
     (Quantitative Chemical Analysis) in progress Calculus I, II, and III Differential
     Equations - in progress Linear Algebra - in progress Physics I Physics II
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'No'
   Please describe your research/academic interests.: I am interested in applying my
     background in chemistry and mathematics to interdisciplinary research at the intersection
     of physical sciences, computational modeling, and applied problem-solving. My
@@ -4378,7 +4634,12 @@
     projects that benefit science and society. I also want to give back by encouraging
     other students at my university to pursue similar opportunities, helping to build
     a community where all voices are valued.
-- ï»¿Submission: srps253s1
+  Lightning Talk Title (Maximum 10 words): Modeling Energy Transfer at the Intersection
+    of Chemistry and AI
+  Keywords (Maximum 20 words): Computational Chemistry; Molecular Modeling; Kinetic
+    Monte Carlo; High-Performance Computing; Machine Learning; Energy Transfer; Sustainability;
+    Data-Driven Science
+- Submission: srps253s1
   Status (This Stage): Accept Wave 2 (Confirmed)
   First/Given Names (first): Alex
   Last/Family Name (first): Gutierrez Diaz
@@ -4414,6 +4675,7 @@
   : Quantum Computing and Quantum Cryptography - In Progress Machine Learning - In
     Progress Mathematical Cryptography - In Progress Analysis of Algorithms Mathematical
     Statistics Computer Networks Real Analysis Abstract Algebra
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'No'
   Please describe your research/academic interests.: "I am interested in designing
     and implementing a code-based, quantum-secure zero-knowledge proof (ZKP) system,
     specifically a Succinct Non-Interactive Argument of Knowledge (SNARK). As a first
@@ -4465,7 +4727,12 @@
     would not only allow me to apply these interests to real-world AI challenges,
     but also connect me with researchers and faculty who are advancing cutting-edge
     work in this space."
-- ï»¿Submission: srps257s1
+  Lightning Talk Title (Maximum 10 words): Quantum Secure ZKSNARKs - Code-Based Zero
+    Knowledge Proofs
+  Keywords (Maximum 20 words): Zero-Knowledge Proofs; Post-Quantum Cryptography; SNARKs;
+    Cryptographic Protocol Design; Rust Programming; Arkworks; Coding Theory; Lattice-Based;
+    Applied Algebra; Machine Learning for Cryptanalysis
+- Submission: srps257s1
   Status (This Stage): Accept Wave 2 (Confirmed)
   First/Given Names (first): Jayana
   Last/Family Name (first): Estacio
@@ -4501,6 +4768,7 @@
     Algorithms TCSS 555: Machine Learning TCSS 598: Research Seminar TCSS 551: Big
     Data Analytics TCSS 558: Applied Distributed Computing TCSS 598: Research Seminar
     TCSS 700: Thesis Research TCSS 588: Bioinformatics'
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'Yes'
   ? Where has your research been published or where have you conducted research/technical
     projects? Please include a few references, if available.
   : "(see resume)"
@@ -4522,7 +4790,10 @@
     gain hands-on experience with real-world datasets, and further develop the research
     skills necessary for my long-term goal of pursuing a Ph.D. and advancing AI applications
     in Women's healthcare.
-- ï»¿Submission: srps260s1
+  Lightning Talk Title (Maximum 10 words): AI for Early Pelvic Adhesion Detection
+    Sonography Imaging
+  Keywords (Maximum 20 words): Women's Infertility;Women's Health; Medical Imaging;
+- Submission: srps260s1
   Status (This Stage): Accept Wave 2 (Confirmed)
   First/Given Names (first): Danny
   Last/Family Name (first): Hoang
@@ -4569,6 +4840,7 @@
     (100% completed, Orange Belt award) Individualized Research: Kali Linux as a tool
     for Cybersecurity GIAC Foundational Cybersecurity Technologies (GFACT) [At SANS
     instutute] IBM Cybersecurity Analyst Professional Certification [From Coursera]"
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'Yes'
   ? Where has your research been published or where have you conducted research/technical
     projects? Please include a few references, if available.
   : "I have conducted a technical project at Hyrel Technologies from June 2024 all
@@ -4608,7 +4880,11 @@
     browsing if you have the correct software. By joining Sustainable Horizons, I
     hope I can help improve computing decisions, whether it involves installing Linux
     or researching specific machine learning models."
-- ï»¿Submission: srps263s1
+  Lightning Talk Title (Maximum 10 words): For a Safer Infrastructure
+  Keywords (Maximum 20 words): ai; cybersecurity; machine learning; safety; innovation;
+    software engineering; engineering; safety; infrastructure; cloud computing; aws;
+    prompt injection; alignment; control
+- Submission: srps263s1
   Status (This Stage): Accept Wave 2 (Confirmed)
   First/Given Names (first): Matiwos
   Last/Family Name (first): Birbo
@@ -4648,6 +4924,7 @@
     Engineering, Big Data Systems and Application Development, Web Security and Penetration
     Testing, Database Systems, Cloud and Enterprise Systems, Advanced Operating Systems,
     Programming Language Structures, Foundation AI
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'No'
   Please describe your research/academic interests.: My research interests are also
     deeply rooted in machine learning, artificial intelligence, software engineering,
     autonomous vehicles, cloud computing, and deep learning. My current research,
@@ -4678,7 +4955,12 @@
     to be like them and make great contributions to society. This program will help
     me in my career and future aspirations and I look forward to participating in
     it!
-- ï»¿Submission: srps266s1
+  Lightning Talk Title (Maximum 10 words): Gaslighting Large Language Models for the
+    Sack of Privacy
+  Keywords (Maximum 20 words): machine learning; artificial intelligence; software
+    engineering; autonomous vehicles; cloud computing; large language models; cybersecurity;
+    privacy-preserving AI; deep learning; social computing
+- Submission: srps266s1
   Status (This Stage): Accept Wave 1 (Confirmed)
   First/Given Names (first): Abubakar-sidiq
   Last/Family Name (first): Bolakale
@@ -4709,6 +4991,7 @@
     internship experience (we recommend at least two science or computer science classes)?
   : Operating Systems, Data Structures & Algorithms, Prob & Stats, Distributed Systems,
     Intro to Artificial Intelligence, Computer Architecture, Calculus I & II.
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'No'
   Please describe your research/academic interests.: "My research interests lie at
     the intersection of artificial intelligence, data systems, and human-centered
     computing. Iâ\x80\x99m particularly interested in how machine learning models
@@ -4741,7 +5024,12 @@
     in a space where curiosity, collaboration, and community drive innovation. I see
     this experience as a step toward becoming not only a better researcher but also
     someone who helps open doors for others the way this program does."
-- ï»¿Submission: srps267s1
+  Lightning Talk Title (Maximum 10 words): Sustainable High-Performance Computing
+    with GPU Acceleration and Parallel Algorithms
+  Keywords (Maximum 20 words): GPU Computing; CUDA Programming; Parallel Algorithms;
+    High-Performance Computing; Supercomputing; Energy Efficiency; Workflow Optimization;
+    Sustainable Computing; Scientific Simulations; AI Systems
+- Submission: srps267s1
   Status (This Stage): Accept Wave 1 (Confirmed)
   First/Given Names (first): Nana Akwasi
   Last/Family Name (first): Owusu
@@ -4774,6 +5062,7 @@
     internship experience (we recommend at least two science or computer science classes)?
   : I have completed Intro to Computer Science I and II, Data Structures and Algorithms
     and Operation Systems.
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'No'
   Please describe your research/academic interests.: "Iâ\x80\x99m interested in artificial
     intelligence, data science, and high-performance computing, especially how they
     can be applied to sustainability, automation, and real-world problem solving.
@@ -4800,7 +5089,12 @@
     Eventually, I want to use the skills I have acquired and the relationships I have
     built through SRP to develop technology that is just, environmentally friendly,
     and which addresses the real needs of the local community.
-- ï»¿Submission: srps268s1
+  Lightning Talk Title (Maximum 10 words): 'AI for Social Good: Building Smarter,
+    Fairer Systems'
+  Keywords (Maximum 20 words): Artificial Intelligence; Machine Learning; Data Science;
+    Sustainability; Human-Centered Computing; Software Engineering; Predictive Modeling;
+    Ethical AI
+- Submission: srps268s1
   Status (This Stage): Accept Wave 1 (Confirmed)
   First/Given Names (first): NAGA VENKATA SAI RAMA KRISHNA ROHAN
   Last/Family Name (first): AVIREDDY
@@ -4843,6 +5137,7 @@
     and Compiler Design ( UG) 8. Operating Systems (UG) 9. Computer Networks (UG)
     10. Cloud Computing (MS) 11. Advanced Machine Learning (MS) 12. Capstone Project
     (UG + MS)
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'Yes'
   ? Where has your research been published or where have you conducted research/technical
     projects? Please include a few references, if available.
   : 'Undergraduate Research in Natural Language Processing: 1. Hate Speech Detection
@@ -4932,7 +5227,14 @@
     I hope to learn from mentors who have built long-term careers in this space, contribute
     to their projects in whatever way I can, and grow into a researcher who can connect
     AI methods to scientific problems in a useful way."
-- ï»¿Submission: srps270s1
+  Lightning Talk Title (Maximum 10 words): Multimodal AI for Mechanistic Insight in
+    Spatial Biology
+  Keywords (Maximum 20 words): Multimodal learning;Graph neural networks;Spatial graphs;Causal
+    modeling;Representation learning;Biological mechanisms;Interpretable AI;Scientific
+    reasoning;Agentic AI;Foundation models;Tissue imaging;Spatial transcriptomics;Spatial
+    proteomics;Microenvironment modeling;Cell-cell communication;Molecular phenotyping;AI
+    for discovery;
+- Submission: srps270s1
   Status (This Stage): Accept Wave 1 (Confirmed)
   First/Given Names (first): Frank
   Last/Family Name (first): Nambeh
@@ -4965,6 +5267,7 @@
   : Completed coursework in Computer Architecture, Calculus I, Data Structures and
     Algorithms, Discrete Structures, Software Systems, Foundations of Cybersecurity,
     Information Threats and Attacks, and Computer Science I & II.
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'No'
   Please describe your research/academic interests.: I am interested in research at
     the intersection of artificial intelligence and software engineering, particularly
     in developing systems that improve the reliability and transparency of AI-generated
@@ -5038,7 +5341,12 @@
     It will help me achieve what my parents never had the opportunity to accomplish.
     Along the way, I hope to serve as a mentor and resource for others, especially
     for students who lack support in pursuing their educational and research goals."
-- ï»¿Submission: srps271s1
+  Lightning Talk Title (Maximum 10 words): Building Trustworthy and Scalable AI Systems
+    for Global Impact
+  Keywords (Maximum 20 words): Artificial intelligence; machine learning; trustworthy
+    AI; data engineering; large language models; federated learning; AI for social
+    good; automation; reinforcement learning
+- Submission: srps271s1
   Status (This Stage): Accept Wave 1 (Confirmed)
   First/Given Names (first): Khuaja Sohrabuddin
   Last/Family Name (first): Sediqi
@@ -5088,6 +5396,7 @@
     visualization and analysis, as well as C++ for algorithmic problem solving. These
     combined experiences have prepared me to conduct data-driven, interdisciplinary
     research that bridges technology with impactful real-world applications."
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'Yes'
   ? Where has your research been published or where have you conducted research/technical
     projects? Please include a few references, if available.
   : "University of Illinois Urbana-Champaign (UIUC) â\x80\x93 As a REU REMAT Research
@@ -5127,7 +5436,11 @@
     my career path. Programs like SRP give students like me the chance to keep learning
     by doing, while also connecting with mentors and other researchers who share the
     same goals. I want to contribute, learn, and grow as part of that community.
-- ï»¿Submission: srps272s1
+  Lightning Talk Title (Maximum 10 words): Advancing Scientific Discovery Through
+    Data Science, AI, and HPC Simulations
+  Keywords (Maximum 20 words): Data Science; AI; Machine Learning; HPC; Scientific
+    Simulations; Computational Modeling; Predictive Analytics.
+- Submission: srps272s1
   Status (This Stage): Accept Wave 2 (Confirmed)
   First/Given Names (first): Saheed
   Last/Family Name (first): Ganiyu
@@ -5159,6 +5472,7 @@
     Big Data Model & Algorithms, Theory of Probability , Linear Algebra, Theory of
     Statistics, Quantum Mechanics & Computing, Data Analytics & Data Mining, Computational
     Mathematics, Advanced Regression Analysis, etc.
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'Yes'
   ? Where has your research been published or where have you conducted research/technical
     projects? Please include a few references, if available.
   : 'Ibrahim, A. A., Ridwan, R. L., Muhammed, M. M., Abdulaziz, R. O., & Saheed, G.
@@ -5211,7 +5525,12 @@
     learning) from their mentorship in interdisciplinary teamwork. I hope to strengthen
     my research independence and also aim to contribute meaningfully to the SRP-NAIRR
     community mission."
-- ï»¿Submission: srps275s1
+  Lightning Talk Title (Maximum 10 words): Theoretical Analysis of Negative Transfer
+    and Generalization in Multitask Learning.
+  Keywords (Maximum 20 words): Multitask Learning; Negative Transfer Learning; Transfer
+    Learning; Optimization; Generalization; Deep Networks; Adaptive Regularization;
+    Artificial Neural Network; Machine Learning; Data Science.
+- Submission: srps275s1
   Status (This Stage): Accept Wave 1 (Confirmed)
   First/Given Names (first): Augustine
   Last/Family Name (first): Manu-Frimpong
@@ -5224,19 +5543,20 @@
     Engineering, Mathematics, Machine Learning, and Artificial Intelligence. He is
     particularly interested in combining mathematical modeling and AI to design interpretable,
     efficient, and scalable systems. During his NSF REU at Louisiana Tech University,
-    Augustine developed an ?? trend filtering model for financial time series, achieving
-    improved accuracy over the Hodrickâ\x80\x93Prescott filter in detecting structural
-    breaks. He is currently conducting research on packet-level anomaly detection,
-    exploring methods such as autoencoders, ensemble learning, and transformer-based
-    architectures for network security applications. Beyond research, Augustine has
-    interned as a Software Engineer at Afterquery, a Y Combinatorâ\x80\x93backed startup,
-    where he contributed to building scalable data infrastructure tools. He also served
-    as a Software Engineering Fellow at eBay, gaining experience in backend systems
-    and collaborative software development. He has presented his NSF poster work at
-    the US Research Software Engineer Conference (USRSE 2025) and the University of
-    Louisiana System AI in Education Summit (2025), sharing insights on computational
-    modeling and AI adoption in education. Augustine aims to pursue graduate study
-    at the intersection of software engineering, mathematics, and intelligent systems."
+    Augustine developed an â\x84\x93â\x82\x81 trend filtering model for financial
+    time series, achieving improved accuracy over the Hodrickâ\x80\x93Prescott filter
+    in detecting structural breaks. He is currently conducting research on packet-level
+    anomaly detection, exploring methods such as autoencoders, ensemble learning,
+    and transformer-based architectures for network security applications. Beyond
+    research, Augustine has interned as a Software Engineer at Afterquery, a Y Combinatorâ\x80\x93backed
+    startup, where he contributed to building scalable data infrastructure tools.
+    He also served as a Software Engineering Fellow at eBay, gaining experience in
+    backend systems and collaborative software development. He has presented his NSF
+    poster work at the US Research Software Engineer Conference (USRSE 2025) and the
+    University of Louisiana System AI in Education Summit (2025), sharing insights
+    on computational modeling and AI adoption in education. Augustine aims to pursue
+    graduate study at the intersection of software engineering, mathematics, and intelligent
+    systems."
   Upload a photograph of this person (JPEG/GIF/PNG/TIFF): srps275s1-yaml6_upload.jpg
   Academic Status: Undergraduate Student
   Year in program: 3rd
@@ -5251,23 +5571,24 @@
     Programming Machine Learning Deep Learning Database Systems System Design/ Distributed
     Systems Linear Algebra Numerical Methods Abstract Algebra Probability and Statistics
     Discrete Mathematics Chemistry Physics
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'Yes'
   ? Where has your research been published or where have you conducted research/technical
     projects? Please include a few references, if available.
   : "I conducted research through the NSF Research Experiences for Undergraduates
     (REU) program at Louisiana Tech University, where I developed and analyzed an
-    ?? trend filtering model to detect structural breaks in S&P 500 data, comparing
-    its performance to the Hodrickâ\x80\x93Prescott filter. The results are being
-    prepared for publication. I am also engaged in an ongoing research project at
-    Grambling State University, focusing on packet-level anomaly detection using autoencoders,
-    ensemble methods, and transformer-based architectures for network security applications.
-    In addition, I have completed several technical projects through coursework and
-    internships, including backend system design, distributed computing, and data
-    infrastructure development during my Software Engineering Internship at Afterquery
-    (Y Combinator startup) and Software Engineering Fellowship at eBay. Presentations:
-    US Research Software Engineer Conference (USRSE 2025) â\x80\x94 Presented NSF
-    REU research on trend filtering methods. University of Louisiana System AI in
-    Education Summit (2025) â\x80\x94 Presented on AI adoption and student engagement
-    in higher education."
+    â\x84\x93â\x82\x81 trend filtering model to detect structural breaks in S&P 500
+    data, comparing its performance to the Hodrickâ\x80\x93Prescott filter. The results
+    are being prepared for publication. I am also engaged in an ongoing research project
+    at Grambling State University, focusing on packet-level anomaly detection using
+    autoencoders, ensemble methods, and transformer-based architectures for network
+    security applications. In addition, I have completed several technical projects
+    through coursework and internships, including backend system design, distributed
+    computing, and data infrastructure development during my Software Engineering
+    Internship at Afterquery (Y Combinator startup) and Software Engineering Fellowship
+    at eBay. Presentations: US Research Software Engineer Conference (USRSE 2025)
+    â\x80\x94 Presented NSF REU research on trend filtering methods. University of
+    Louisiana System AI in Education Summit (2025) â\x80\x94 Presented on AI adoption
+    and student engagement in higher education."
   Please describe your research/academic interests.: I am deeply interested in the
     intersection of software engineering, mathematics, and artificial intelligence.
     My goal is to understand how mathematical modeling can improve the design and
@@ -5305,7 +5626,12 @@
     and persistence. I hope to use this experience to grow as both a researcher and
     an engineer, and to contribute to a community that believes inclusive, well-crafted
     science is the key to lasting impact.
-- ï»¿Submission: srps276s1
+  Lightning Talk Title (Maximum 10 words): AI and HPC Integration for Scalable Scientific
+    Workflows
+  Keywords (Maximum 20 words): "AI for Science; Distributed ML; HPC Systems; Scientific
+    Computing; Numerical Optimization; Workflow Automation; AIâ\x80\x93HPC Co-Design;
+    Data-Intensive Science; Applied AI Research"
+- Submission: srps276s1
   Status (This Stage): Accept Wave 1 (Unconfirmed)
   First/Given Names (first): Elton
   Last/Family Name (first): Baidoo
@@ -5339,6 +5665,7 @@
     me in implementing differenetial equations in physics engines. Database management
     is also another class I have taken to help me in writing sequel scripts and writing
     migrations tables for database systems.
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'No'
   Please describe your research/academic interests.: Artificial Intelligence, Machine
     Learning, and Computer Vision, with an emphasis on developing models to improve
     automation and decision-making as this is something I have explored and have a
@@ -5355,7 +5682,7 @@
     deeply resonates with me. I value commmunities where learning is collaborative
     and everyone has a voice.With this I hope to strengthen my foundation in research
     while contributing to world-driven problems.
-- ï»¿Submission: srps277s1
+- Submission: srps277s1
   Status (This Stage): Accept Wave 1 (Confirmed)
   First/Given Names (first): Ngoc Chau
   Last/Family Name (first): Nguyen
@@ -5387,6 +5714,7 @@
     two extracurricular projects in C# at Cal Poly Pomona. I also picked up Python
     when taking the Introduction to Machine Learning certificates. More information
     can be found on my Linked In: https://www.linkedin.com/in/ngoc-chau-nguyen-cpp/'
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'Yes'
   ? Where has your research been published or where have you conducted research/technical
     projects? Please include a few references, if available.
   : I worked on two technical projects at my current school; both focused on Virtual
@@ -5427,7 +5755,12 @@
     software engineer and also nurture the connections I will form within the team
     to which I am assigned and the Sustainable Horizon Institute communities. My goal
     is to become a software engineer and eventually a machine learning engineer.
-- ï»¿Submission: srps278s1
+  Lightning Talk Title (Maximum 10 words): Using Computer Science to tackle Plastic
+    and Electronic Waste
+  Keywords (Maximum 20 words): software; machine learning; deep learning; reinforce
+    learning; artificial intelligence; computer vision; math; education; biochemistry;
+    genetic; materials; environmental; economics; mechanical; electrical
+- Submission: srps278s1
   Status (This Stage): Accept Wave 1 (Unconfirmed)
   First/Given Names (first): Tianrun
   Last/Family Name (first): Yu
@@ -5472,6 +5805,7 @@
     ECE113 - Digital Signal Processing CS183 - Introduction to Cryptography MATH110AH
     - Algebra (Honors) MATH115AH -Linear Algebra (Honors) MATH131AH - Analysis (Honors)
     etc.
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'Yes'
   ? Where has your research been published or where have you conducted research/technical
     projects? Please include a few references, if available.
   : 'I have published as equal first author in ICLR 2026 MLMP Workshop with the work
@@ -5504,7 +5838,7 @@
     I hope it to be an opportunity that I can form valuable connections and learn
     from both my mentor and my peers, and also as a chance for me to dive deep into
     research and get meaningful outcomes throughout the program.
-- ï»¿Submission: srps279s1
+- Submission: srps279s1
   Status (This Stage): Accept Wave 1 (Confirmed)
   First/Given Names (first): Urjoshi
   Last/Family Name (first): Sinha
@@ -5545,6 +5879,7 @@
     Engineering, Information Warfare, Machine Learning, Advanced Topics in Database
     Systems. I have also presented research forums and have had previous internship
     experience in both national labs and industry.'
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'Yes'
   ? Where has your research been published or where have you conducted research/technical
     projects? Please include a few references, if available.
   : '1. "Using a genetic algorithm to optimize configurations in a data-driven application,
@@ -5592,7 +5927,11 @@
     Beyond technical growth, I seek to contribute as both a mentee and mentor, sharing
     my experiences in database optimization, open science, and community leadership
     to strengthen the programâ\x80\x99s collaborative spirit."
-- ï»¿Submission: srps280s1
+  Lightning Talk Title (Maximum 10 words): Software testing of highly configurable
+    data-driven scientific tools
+  Keywords (Maximum 20 words): testing, data-driven, optimization, LLM, scientific
+    tool, software configurability, metamorphic testing, software reliability
+- Submission: srps280s1
   Status (This Stage): Accept Wave 1 (Confirmed)
   First/Given Names (first): Hattie
   Last/Family Name (first): Lyons
@@ -5628,6 +5967,7 @@
     but not limited to: - Machine Learning - Database Management - Human-Computer
     Interaction - Intermediate Object-Oriented Programming - Ethics in Computing -
     Theory of Programming Languages'
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'Yes'
   ? Where has your research been published or where have you conducted research/technical
     projects? Please include a few references, if available.
   : I have recently presented research on my software that detects anomalies in automated
@@ -5667,7 +6007,13 @@
     to continue contributing to that culture. Through this experience, I hope to continue
     to develop my skills in leadership, communication, and scientific collaboration
     by taking advantage of the invaluable mentorship and networking opportunities.
-- ï»¿Submission: srps285s1
+  Lightning Talk Title (Maximum 10 words): Supervisor Architecture for Semantic &
+    Statistical Drift in AI/ML Systems
+  Keywords (Maximum 20 words): hallucination; interpretability; drift; supervision;
+    embeddings; centroids; modularity; architecture; LLMs; robustness; anomaly; detection;
+    pipelines; infrastructure; reproducibility; reasoning; signals; alignment; safety;
+    narratives
+- Submission: srps285s1
   Status (This Stage): Accept Wave 2 (Confirmed)
   First/Given Names (first): Ndoumbe
   Last/Family Name (first): Ndoye
@@ -5703,6 +6049,7 @@
     CSC 212: Data Structures and Algorithms, CSC 350: Software Engineering, CSC 310:
     Introduction to Data Science, CSC 340: Applied Combinatorics, CSC 411: Machine
     Organization."
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'No'
   Please describe your research/academic interests.: 'I''m interested in how AI and
     data can make products better, not just more powerful, but actually useful and
     fair. I''ve always been drawn to the gap between what''s technically possible
@@ -5728,7 +6075,242 @@
     and managed. In the long term, Iâ\x80\x99m interested in possibly creating a startup,
     and I believe experiences like this, working on real projects with teams will
     help me understand how to build technology thatâ\x80\x99s both impactful and sustainable."
-- ï»¿Submission: srps291s1
+  Lightning Talk Title (Maximum 10 words): How AI Can Guide Sustainable Technology
+    Adoption
+  Keywords (Maximum 20 words): AI decision support; sustainable technology; user adoption;
+    product strategy; rollout planning; system integration; data analysis; optimization;
+    cybersecurity compliance; user behavior
+- Submission: srps286s1
+  Status (This Stage): Accept Wave 3 (Unconfirmed)
+  First/Given Names (first): Sarthak
+  Last/Family Name (first): Sharma
+  Email (first): sharma.sarthak@gmail.com
+  Institution: State University of New York at Buffalo
+  Department: Institute for Artificial Intelligence and Data Science
+  Pronouns: he / him / his
+  Short Biography (Maximum 200 words): 'I am a second-year PhD student in Computational
+    and Data Sciences at the State University of New York at Buffalo. I am skilled
+    in high-performance computing, AI / machine learning, computational science, data
+    science, software development, etc. My career goal is to work as a scientist or
+    professor. My past education is summarized below: Master''s degree in Computational
+    Science from Florida State University (2022), Master''s degree in Mechanical Engineering
+    from Indian Institute of Science (2020), Bachelor''s degree in Mechanical Engineering
+    from the University of Mumbai (2015). My work experience is summarized below:
+    Summer intern at Division of Mathematics and Computer Science, Argonne National
+    Laboratory, near Chicago IL (May - August 2025), Research Project Assistant at
+    SUNY Buffalo (August 2024 to present), Technical Analyst at Excelacom (telecommunications
+    industry) near Denver CO (November 2022 - May 2024), Graduate Assistant at Florida
+    State University at Tallahassee FL (January 2021 - July 2022), Research Fellow
+    / Project Assistant at Indian Institute of Science in Bangalore, India (May 2019
+    - November 2020), Associate Engineer at Airbus in Bangalore, India (July 2019
+    - April 2019). Full details are in my resume / CV.'
+  Upload a photograph of this person (JPEG/GIF/PNG/TIFF): srps286s1-yaml6_upload.jpg
+  Academic Status: PhD Student
+  Year in program: 2nd
+  Research Area/Department (check as many as appropriate): Computer Science; Data
+    Science; Engineering; Machine Learning/AI; Physics
+  Major/Specialty: I am currently a second-year PhD student in "Computational and
+    Data Sciences" at the State University of New York at Buffalo. I am skilled in
+    computational science, data science, artificial intelligence / machine learning,
+    high performance computing / parallel programming, software development, etc.
+    I can program in Python, C, C++, Java, etc. My PhD research is in using high performance
+    computing for simulations of plasma physics / magnetohydrodynamics for nuclear
+    fusion (renewable energy).
+  Degrees Earned or in Progress (Degree/Field/Year): Doctor of Philosophy (Computational
+    and Data Sciences), 2027 (expected), State University of New York at Buffalo.
+    Master of Science (Computational Science), 2022, Florida State University. Master
+    of Science in Engineering (Mechanical Engineering), 2020, Indian Institute of
+    Science. Bachelor of Engineering (Mechanical Engineering), 2015, University of
+    Mumbai.
+  ? What courses or academic preparation have you completed to prepare for a summer
+    internship experience (we recommend at least two science or computer science classes)?
+  : 'My relevant and recent university courses are listed below, in reverse chronological
+    order. State University of New York at Buffalo: Fall 2025: Deep Learning, Data
+    Intensive Computing. Spring 2025: High Performance Computing - II, Reinforcement
+    Learning, Applied Mathematics - II. Fall 2024: Machine Learning, High Performance
+    Computing - I, Applied Mathematics - I. Florida State University: Spring 2022:
+    Advanced Data Mining, Deep and Reinforcement Learning. Fall 2021: Data Mining,
+    Applied Machine Learning, Artificial Intelligence. Spring 2021: Applied Computational
+    Science - II, High Performance Computing. Fall 2020: Applied Computational Science
+    - I, Scientific Programming. My past academic research projects include the following:
+    Copa Airlines: visualizing flight networks, and using machine learning to predict
+    flight delays (master''s degree research project in Computational Science, at
+    Florida State University). Analysis and design of organic Rankine cycle based
+    power plants (master''s degree research project in Mechanical Engineering, at
+    Indian Institute of Science).'
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'Yes'
+  ? Where has your research been published or where have you conducted research/technical
+    projects? Please include a few references, if available.
+  : 'I have the following research experience: Summer intern at Division of Mathematics
+    and Computer Science, Argonne National Laboratory, near Chicago IL (May - August
+    2025), Research Project Assistant at State University of New York at Buffalo (August
+    2024 to present), Graduate Assistant at Florida State University, in Tallahassee
+    FL (January 2021 - July 2022), Research Fellow / Project Assistant at Indian Institute
+    of Science, in Bangalore, India (May 2019 - November 2020). References: Dr Junchao
+    Zhang (jczhang@mcs.anl.gov), Division of Mathematics and Computer Science, Argonne
+    National Laboratory. Prof Matthew Knepley (knepley@buffalo.edu), Department of
+    Computer Science and Engineering, State University of New York at Buffalo. Prof
+    Gordon Erlebacher (gerlebacher@fsu.edu), Department of Scientific Computing, Florida
+    State University. Prof Pradip Dutta (pradip@iisc.ac.in), Department of Mechanical
+    Engineering, Indian Institute of Science. Prof Punit Singh (punitsingh@iisc.ac.in),
+    Center for Sustainable Technologies, Indian Institute of Science.'
+  Please describe your research/academic interests.: My research / academic interests
+    include computational science, artificial intelligence / machine learning, high
+    performance computing, data science, robotics, renewable energy, aerospace engineering,
+    mechanical engineering, etc.
+  'Please select all the topical areas that apply to your field of study:': Applied
+    Computer Science; Artificial Intelligence and Intelligent Systems; Computer Science;
+    Fluid and Plasma Physics; Informatics, Analytics and Information Science; Mechanical
+    Engineering; Other Computer and Information Sciences; Other Engineering and Technologies
+  Motivation: I have always loved research. The thrill of making discoveries and inventions,
+    and the realization that what we are working on now may eventually help the world
+    in the future, makes research an ideal career for me. My dream job would be a
+    scientist in a research organization or a professor in a research university.
+    I am interested in computing-related fields such as artificial intelligence /
+    machine learning, computational science, data science, robotics, etc. I am also
+    interested in fields such as renewable energy where we find solutions to pressing
+    problems in the global energy crisis and climate change / pollution. To reach
+    my career goal, I am currently pursuing a PhD degree in Computational and Data
+    Sciences at SUNY Buffalo. My PhD research project involves using high-performance
+    computing to simulate plasma physics / magnetohydrodynamics for nuclear fusion
+    energy. But a PhD degree, though necessary, may not be sufficient, due to cut-throat
+    competition everywhere today. Internships in reputed research organizations would
+    be great opportunities that enable me to gain real-world research experience,
+    enhance my technical and communication skills, gain new knowledge, and grow my
+    professional network. Also, I do not want to just take from such an experience.
+    I also want to give back by making meaningful research contributions to a STEM
+    discipline. The "Sustainable Research Pathways" program is an excellent opportunity
+    that would give me valuable experience and would propel me in the right direction
+    for reaching my career goals. In today's world with intense competition, such
+    internships often make the difference between an average career and a great career.
+- Submission: srps288s1
+  Status (This Stage): Accept Wave 3 (Unconfirmed)
+  First/Given Names (first): Ashna
+  Last/Family Name (first): Ahmed
+  Email (first): ashna.ahmed@txstate.edu
+  Institution: Texas State University
+  Department: Computer Science
+  Pronouns: she/her/hers
+  Short Biography (Maximum 200 words): "Ashna Nawar Ahmed is a 2nd year Ph.D. student
+    in Computer Science at Texas State University, where she works with Dr. Tanzima
+    Islam in the Per4ML Research Group. Her research focuses on applying machine learning
+    and surrogate modeling techniques to optimize performance and energy trade-offs
+    in high-performance computing (HPC) systems. She explores intelligent, data-driven
+    approaches for multi-objective optimization, scheduling, and sustainable computing.
+    Ashnaâ\x80\x99s recent paper, â\x80\x9CAttention-Informed Surrogates for Navigating
+    Power-Performance Trade-offs in HPC,â\x80\x9D was accepted to the Machine Learning
+    for Systems (MLForSys) Workshop at NeurIPS 2025, and her poster â\x80\x9CIntelligent
+    Surrogates Pay Attention to Dataâ\x80\x9D will be presented at SC25. She also
+    completed a Graduate Research Internship at Oak Ridge National Laboratory (ORNL)
+    under Terry Jones, contributing to scalable optimization for HPC systems. Before
+    pursuing her doctorate, Ashna served as a Lecturer at Ahsanullah University of
+    Science and Technology in Dhaka, Bangladesh, where she graduated first in her
+    class. She has been recognized with multiple academic honors, including an invitation
+    to join the Honor Society of Phi Kappa Phi. Her technical expertise spans Python,
+    PyTorch, BoTorch, DeepSpeed, MPI, CUDA, and large-scale multi-objective optimization
+    frameworks."
+  Upload a photograph of this person (JPEG/GIF/PNG/TIFF): srps288s1-yaml6_upload.pdf
+  Academic Status: PhD Student
+  Year in program: 2nd
+  Research Area/Department (check as many as appropriate): Computer Science; Machine
+    Learning/AI
+  Major/Specialty: Computer Science, focusing on High Performance Computing (Scalable
+    systems)
+  Degrees Earned or in Progress (Degree/Field/Year): PhD in Computer Science (2nd
+    Year)
+  ? What courses or academic preparation have you completed to prepare for a summer
+    internship experience (we recommend at least two science or computer science classes)?
+  : "I have completed several graduate-level computer science courses that have equipped
+    me with both theoretical and practical foundations for a summer internship. These
+    include CS 7331 â\x80\x93 High-Performance Computing, where I gained hands-on
+    experience with parallel programming, distributed computing frameworks, and performance
+    optimization on large-scale systems; and CS 7315 â\x80\x93 Network Science, which
+    deepened my understanding of complex systems, graph analytics, and data-driven
+    modeling. Additionally, CS 7334 â\x80\x93 Scalable Systems strengthened my skills
+    in designing and managing systems that handle large workloads efficiently, while
+    CS 7389F â\x80\x93 Secure Cyber-Physical Systems introduced advanced topics in
+    system security and resilience. I also completed CS 7300 â\x80\x93 Introduction
+    to Computer Science Research, which enhanced my ability to conduct independent
+    research. Together, these courses have provided me with the computational, analytical,
+    and research skills necessary to contribute effectively to an internship in areas
+    such as machine learning, HPC systems, or large-scale data analytics."
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'Yes'
+  ? Where has your research been published or where have you conducted research/technical
+    projects? Please include a few references, if available.
+  : "My research focuses on machine learning and surrogate-assisted optimization for
+    high-performance computing (HPC) systems. I have conducted this work as a Doctoral
+    Research Assistant in the Per4ML Research Group at Texas State University, under
+    the supervision of Dr. Tanzima Islam, and during a Graduate Research Internship
+    at Oak Ridge National Laboratory (ORNL) with Terry Jones. My research has been
+    published and presented in leading venues in the HPC and machine learning communities:
+    â\x80\x9CAttention-Informed Surrogates for Navigating Power-Performance Trade-offs
+    in HPCâ\x80\x9D, Machine Learning for Systems (MLForSys) Workshop, NeurIPS 2025.
+    [Accepted] â\x80\x9CIntelligent Surrogates Pay Attention to Data, Improving Multi-Objective
+    HPC Optimizationâ\x80\x9D, Supercomputing Conference (SC25) poster. [Accepted]
+    â\x80\x9CDecentralizing and Optimizing Nation-Wide Employee Allocation While Maximizing
+    Employee Satisfactionâ\x80\x9D, Lecture Notes in Networks and Systems (Springer,
+    2022) â\x80\x94 DOI: 10.1007/978-3-031-22039-5_17"
+  Please describe your research/academic interests.: My research focuses on applying
+    machine learning and optimization techniques to high-performance computing (HPC)
+    systems. I am particularly interested in developing intelligent surrogate models
+    that can efficiently explore trade-offs between performance, energy consumption,
+    and scalability in large-scale computing environments. By combining multi-objective
+    Bayesian optimization with attention-based neural networks, my work aims to improve
+    decision-making in HPC job scheduling and resource allocation for sustainable
+    computing. As part of the Per4ML Research Group at Texas State University, under
+    Dr. Tanzima Islam, I am currently building embedding-informed surrogate frameworks
+    that integrate deep learning with traditional optimization to enhance predictive
+    accuracy and generalization across HPC datasets. My broader academic interests
+    include AI for systems, energy-aware computing, and evolutionary algorithms, with
+    the long-term goal of enabling more efficient and environmentally responsible
+    large-scale computing systems.
+  'Please select all the topical areas that apply to your field of study:': Applied
+    Computer Science; Artificial Intelligence and Intelligent Systems; Computer Science;
+    Informatics, Analytics and Information Science; Performance Evaluation and Benchmarking
+  Motivation: "As a Ph.D. student in Computer Science at Texas State University and
+    a member of the Per4ML Research Group, my research lies at the intersection of
+    machine learning and high-performance computing (HPC), specifically, in developing
+    attention-informed surrogate models that optimize the balance between performance,
+    energy efficiency, and scalability in large-scale computing environments. This
+    focus on data-driven, sustainable computing has inspired me to seek opportunities
+    that not only deepen my technical expertise but also allow me to engage with diverse
+    scientific communities committed to inclusive innovation. The Sustainable Research
+    Pathways (SRP) program perfectly aligns with these goals. The mission of the Sustainable
+    Horizons Institute, which is: to build inclusive, sustainable scientific ecosystems
+    where everyone can thrive, resonates deeply with my own academic philosophy. Throughout
+    my journey from Bangladesh to the United States, I have witnessed how access,
+    mentorship, and community support can transform a studentâ\x80\x99s trajectory.
+    I am passionate about contributing to such an environment where researchers from
+    all backgrounds can find a sense of belonging while advancing impactful science.
+    By participating in SRP, I hope to not only strengthen my technical and research
+    capabilities but also to learn how to translate inclusivity into everyday research
+    practice, through mentorship, collaboration, and shared scientific purpose. My
+    research on multi-objective optimization and machine learning for HPC scheduling
+    directly complements the objectives of the NSF National Artificial Intelligence
+    Research Resource (NAIRR) initiative. In my recent work, I proposed attention-informed
+    surrogate models that integrate deep learning and Bayesian optimization to efficiently
+    navigate runtimeâ\x80\x93power trade-offs in HPC systems. This work, accepted
+    to the Machine Learning for Systems (MLForSys) Workshop at NeurIPS 2025 and as
+    a poster at SC25, demonstrates my commitment to sustainable and scalable AI-driven
+    computing. Through the SRP program, I hope to extend this research by leveraging
+    NAIRR resources and collaborating with domain experts to explore cross-disciplinary
+    applications of intelligent optimization. Beyond the technical benefits, I am
+    drawn to SRPâ\x80\x99s emphasis on community-building and mentorship. I have experienced
+    firsthand how mentorship from my advisor, Dr. Tanzima Islam, and collaborators
+    at Oak Ridge National Laboratory (ORNL) has shaped my confidence as a researcher.
+    I hope to pay that forward by learning how to mentor and support others, particularly,
+    underrepresented students, through structured, sustainable programs like SRP.
+    I believe that creating equitable pathways into research not only strengthens
+    individual careers but also leads to more robust, creative, and socially responsible
+    science. Through this program, I aim to gain practical experience working on real-world
+    NAIRR-aligned projects, expand my professional network, and develop the interdisciplinary
+    communication skills required to thrive in collaborative scientific environments.
+    More importantly, I want to grow as a researcher who not only builds intelligent
+    systems but also helps build the communities that sustain them. In essence, the
+    SRP program represents an ideal opportunity to combine my technical expertise
+    in AI for sustainable computing with my commitment to inclusive research ecosystems,
+    a combination I believe is essential for the future of science and technology."
+- Submission: srps291s1
   Status (This Stage): Accept Wave 1 (Confirmed)
   First/Given Names (first): Sourajit
   Last/Family Name (first): Saha
@@ -5770,6 +6352,7 @@
     Machine Learning, Pattern Recognition, Artificial Intelligence, Advanced Artificial
     Intelligence, Optimization Algorithms, Design and Analysis of Algorithms, Advanced
     Computer Architecture
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'Yes'
   ? Where has your research been published or where have you conducted research/technical
     projects? Please include a few references, if available.
   : 'Saha, Shaswati, Sourajit Saha, Manas Gaur, and Tejas Gokhale. "Side Effects of
@@ -5830,7 +6413,11 @@
     where diverse voices thrive. Through this program, I hope to contribute my expertise,
     grow within a supportive research network, and advance scalable, human-centered
     AI systems that benefit the broader scientific ecosystem."
-- ï»¿Submission: srps292s1
+  Lightning Talk Title (Maximum 10 words): 'Bridging Vision and Language: Towards
+    Interactive Multi-Modal Search and Reasoning'
+  Keywords (Maximum 20 words): Interactive Visual Search; Multi-modal Retrieval; Multi-modal
+    Reasoning; Video Understanding; Computer Vision
+- Submission: srps292s1
   Status (This Stage): Accept Wave 2 (Confirmed)
   First/Given Names (first): Wisdom
   Last/Family Name (first): Walker
@@ -5870,6 +6457,7 @@
     and Database Foundations (CST 110T) Applied Java Programming (CST 240) Advanced
     Java Programming (CST 251T) Computer Design Basics (GCS 151T) College Algebra
     and Trigonometry for Engineering Science (MATH 103, MATH 104)'
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'No'
   Please describe your research/academic interests.: "I am passionate about software
     development, web design, and building innovative applications that solve real-world
     problems. I enjoy exploring programming, developing functional and creative digital
@@ -5902,8 +6490,13 @@
     abilities. All in all, I hope to gain insight through this program on ways I can
     use tech to help save lives and even find the career in tech that will let me
     do that.'
-- ï»¿Submission: srps295s1
-  Status (This Stage): Accept Wave 2 (Unconfirmed)
+  Lightning Talk Title (Maximum 10 words): 'Detecting Online Predators: Design + AI
+    for Safer Play'
+  Keywords (Maximum 20 words): AI for safety; online predator detection; child protection;
+    ethical AI; human-computer interaction; cybersecurity; web development; machine
+    learning; digital forensics.
+- Submission: srps295s1
+  Status (This Stage): Accept Wave 2 (Confirmed)
   First/Given Names (first): Saul
   Last/Family Name (first): Lopez
   Email (first): saul.lopez2995@gmail.com
@@ -5938,6 +6531,7 @@
     internship experience (we recommend at least two science or computer science classes)?
   : 'Completed Courses: CIS 156: Python Level 1 CSC 110: Intro to Java Current Courses:
     CSC 205: Object Oriented Programming and Data Structures'
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'No'
   Please describe your research/academic interests.: My academic interests lie in
     the intersection of computer science, medicine and mental health. My interest
     particularly lies in how technology can be used to improve diagnostics, treatment,
@@ -5968,7 +6562,7 @@
     research, and potentially present my work at a conference. It would be a critical
     step toward building technology that improves health care for everyone, especially
     those often left behind.
-- ï»¿Submission: srps296s1
+- Submission: srps296s1
   Status (This Stage): Accept Wave 1 (Confirmed)
   First/Given Names (first): Sree Sai Charan
   Last/Family Name (first): Vaitla
@@ -6011,6 +6605,7 @@
     my understanding of data security and mathematical reasoning-skills that directly
     prepare me for computational and data-driven research in sustainability and scientific
     innovation.
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'Yes'
   ? Where has your research been published or where have you conducted research/technical
     projects? Please include a few references, if available.
   : "I have conducted research and technical projects across both academic and professional
@@ -6055,7 +6650,11 @@
     a program that values inclusion and shared growth. I hope to contribute my technical
     perspective, learn from diverse researchers, and build long-term collaborations
     that help create more sustainable, data-driven solutions for our world."
-- ï»¿Submission: srps297s1
+  Lightning Talk Title (Maximum 10 words): Machine Learning for Computational Sustainability
+    and Scientific Discovery
+  Keywords (Maximum 20 words): Artificial Intelligence; Machine Learning; Graph Neural
+    Networks; Computational Sustainability; Data Science; Scientific Computing
+- Submission: srps297s1
   Status (This Stage): Accept Wave 2 (Confirmed)
   First/Given Names (first): Isiaha
   Last/Family Name (first): Rodriguez
@@ -6097,6 +6696,7 @@
     and together with my ongoing research using Large Language Models (LLMs), have
     prepared me to apply computational and analytical methods to real-world AI challenges
     in a research internship setting.
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'No'
   Please describe your research/academic interests.: 'My research interests lie in
     dynamical systems, computational mathematics, and machine learning. I am currently
     pursuing two projects: developing and analyzing a mathematical model of Gestational
@@ -6122,7 +6722,11 @@
     learning research. Funding to present at conferences in the area of my dissertation
     would enable me to establish and grow within the community of ML researchers,
     which serves my long-term research and academic goals.
-- ï»¿Submission: srps300s1
+  Lightning Talk Title (Maximum 10 words): Between Culture and Computation
+  Keywords (Maximum 20 words): Machine learning; computational mathematics; scientific
+    imaging; inverse problems; applied analysis; optimization; applied AI; numerical
+    modeling; inclusive research; AI for science
+- Submission: srps300s1
   Status (This Stage): Accept Wave 1 (Unconfirmed)
   First/Given Names (first): Yisheng
   Last/Family Name (first): Zhong
@@ -6163,6 +6767,7 @@
     Applied Cryptography â\x80¢ Data Structures, Algorithms, and Pattern Recognition
     These courses, combined with my research background, have prepared me to contribute
     effectively to a summer internship experience in computer science and AI security."
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'Yes'
   ? Where has your research been published or where have you conducted research/technical
     projects? Please include a few references, if available.
   : "â\x80¢ Web Intellectual Property at Risk: Preventing Unauthorized Real-Time Retrieval
@@ -6193,7 +6798,7 @@
     Iâ\x80\x99ll bring experience in AI security, solid research and coding habits,
     and a willingness to share what I know while learning from others. If selected,
     I plan to show up, do the work, and be a reliable collaborator."
-- ï»¿Submission: srps301s1
+- Submission: srps301s1
   Status (This Stage): Accept Wave 1 (Confirmed)
   First/Given Names (first): Maria Camila
   Last/Family Name (first): Mejia Garcia
@@ -6241,6 +6846,7 @@
     worked in several projects that have helped me develop skills to work on my own
     independent research and become creative with new ideas to solve real world problems
     with mathematics.
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'Yes'
   ? Where has your research been published or where have you conducted research/technical
     projects? Please include a few references, if available.
   : "1) I worked on a project to develop a Convolutional Neural Network to classify
@@ -6327,7 +6933,12 @@
     is an ideal fit for me. I believe having the opportunity to participate in such
     a program before my graduation will help me to increase the possibilities to get
     a job and make contributions after the graduation of my PhD program.
-- ï»¿Submission: srps302s1
+  Lightning Talk Title (Maximum 10 words): PhD Candidate Harnessing AI and Sparse
+    Data for Life Sciences
+  Keywords (Maximum 20 words): Machine Learning; Greenhouse Gas emissions; Environmental
+    Modeling; Clinical Data, Mathematics; AI; Geospatial Data; Bayesian Models; Data
+    Science for life sciences.
+- Submission: srps302s1
   Status (This Stage): Accept Wave 1 (Confirmed)
   First/Given Names (first): Fatema
   Last/Family Name (first): Siddika
@@ -6380,6 +6991,7 @@
     distributed AI systems. These courses collectively prepared me to contribute to
     large-scale, privacy-preserving AI research and distributed learning projects,
     bridging theoretical foundations with practical implementation."
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'Yes'
   ? Where has your research been published or where have you conducted research/technical
     projects? Please include a few references, if available.
   : "My research has been conducted in the Laboratory for Software Analytics and Pervasive
@@ -6426,7 +7038,12 @@
     and community building. I want to be part of a research culture that not only
     advances technology but also ensures that everyoneâ\x80\x99s contribution is valued
     and that innovation truly reflects collective effort."
-- ï»¿Submission: srps306s1
+  Lightning Talk Title (Maximum 10 words): "Adaptive Sparse Fine-Tuning and Multi-Task
+    Continual Learning in Federated LLMsâ\x80\x8B"
+  Keywords (Maximum 20 words): Parameter Efficient Fine-tuning; Federated Representation
+    Learning; Continual learning; Sparse Fine-Tuning; Federated Learning; Large Language
+    Models; Mixture-of-Experts; Knowledge Retention; Task Heterogeneity
+- Submission: srps306s1
   Status (This Stage): Accept Wave 1 (Confirmed)
   First/Given Names (first): Kojo
   Last/Family Name (first): Adu-Gyamfi
@@ -6478,6 +7095,7 @@
     â\x80¢ Data Analytics for Infrastructure Management â\x80\x93 predictive modeling
     and decision-making with sensor data â\x80¢ Sensors and IoT Systems â\x80\x93
     integration of sensor networks for real-time monitoring and automation"
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'Yes'
   ? Where has your research been published or where have you conducted research/technical
     projects? Please include a few references, if available.
   : '1. Adu-Gyamfi, Kojo Konadu, et al. "MobiScout: A scalable cloud-based driving
@@ -6515,7 +7133,12 @@
     in SRP will help me strengthen cross-disciplinary partnerships, refine my leadership
     in socially impactful AI, and prepare for a research career at the intersection
     of AI, infrastructure, and sustainability."
-- ï»¿Submission: srps312s1
+  Lightning Talk Title (Maximum 10 words): Scalable AI for Smart Infrastructure and
+    Sustainable Systems
+  Keywords (Maximum 20 words): Artificial Intelligence; High-Performance Computing;
+    Intelligent Infrastructure; Sustainable Agriculture; Computer Vision; Edge AI;
+    Multimodal Data Fusion; Transportation Systems; Document Automation
+- Submission: srps312s1
   Status (This Stage): Accept Wave 1 (Confirmed)
   First/Given Names (first): Rishabh
   Last/Family Name (first): Jain
@@ -6547,6 +7170,7 @@
   : Data Structures and Algorithms, Machine Learning, Computer Vision, Artificial
     Intelligence, Software Engineering, Database Management Systems, and Probability
     & Statistics.
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'Yes'
   ? Where has your research been published or where have you conducted research/technical
     projects? Please include a few references, if available.
   : "I have conducted research at Iowa State University through the Institute for
@@ -6581,7 +7205,12 @@
     national labs. I aspire to become a researcher who merges technical innovation
     with sustainability goals to drive smarter, safer, and more equitable infrastructure
     systems."
-- ï»¿Submission: srps314s1
+  Lightning Talk Title (Maximum 10 words): Exploring AI and Generative Models for
+    Intelligent Systems
+  Keywords (Maximum 20 words): Artificial Intelligence; Generative Models; Machine
+    Learning; Java; Computer Vision; Data Analytics; OCR; RAG; Python; SQL; Tableau;
+    Cloud Computing; Autonomous Systems
+- Submission: srps314s1
   Status (This Stage): Accept Wave 1 (Unconfirmed)
   First/Given Names (first): Yang
   Last/Family Name (first): Li
@@ -6611,20 +7240,21 @@
     chemistry /2025; phD in chemistry in progress
   ? What courses or academic preparation have you completed to prepare for a summer
     internship experience (we recommend at least two science or computer science classes)?
-  : Computational methods-chemistry, Pattern Recognition, Physical Organic Chemistry?
+  : "Computational methods-chemistry, Pattern Recognition, Physical Organic Chemistryï¼\x9B
     Programming with R, Python for Data Science, thermodynamics, Programming with
-    C++
+    C++"
+  Have you published any research or worked on research/technical projects (not a requirement)?: 'Yes'
   ? Where has your research been published or where have you conducted research/technical
     projects? Please include a few references, if available.
   : "I have conducted research in both experimental and computational chemistry, spanning
     materials synthesis and reaction mechanism studies. Publications: Yuto Katsuyama,
     Yang Li, Sophia Uemura, Zhiyin Yang, Mackenzie Anderson, Chenxiang Wang, Cheng-Wei
-    Lin, Yuzhang Li, and Richard B. Kaner. â\x80\x9CHigh?Rate Aqueous Aluminumâ\x80\x93Sulfur
+    Lin, Yuzhang Li, and Richard B. Kaner. â\x80\x9CHighâ\x80\x90Rate Aqueous Aluminumâ\x80\x93Sulfur
     Batteries Enabled by a Polyimideâ\x80\x93Graphene Composite Cathode.â\x80\x9D
     ACS Applied Materials & Interfaces, 2024, 16 (10), 12612â\x80\x9312623. DOI: 10.1021/acsami.3c18846
     K. N. Houk, Yang Li, and Christopher G. Newton. â\x80\x9CReactivity and Selectivity
-    in Aza?Dielsâ\x80\x93Alder Reactions of Ketenimines.â\x80\x9D Journal of the American
-    Chemical Society, 2025, 147 (7), 6087â\x80\x936094. DOI: 10.1021/jacs.4c17174"
+    in Azaâ\x80\x90Dielsâ\x80\x93Alder Reactions of Ketenimines.â\x80\x9D Journal
+    of the American Chemical Society, 2025, 147 (7), 6087â\x80\x936094. DOI: 10.1021/jacs.4c17174"
   Please describe your research/academic interests.: "My work combines computer chemistry
     and machine learning to clarify and forecast molecular reactivity and selectivity.
     On the other hand, I modeled Ni/photoredox-catalyzed enantioselective cross-electrophile

@@ -70,6 +70,9 @@ motivation: I am eager to participate in the Sustainable Research Pathways progr
   engineering, while inspiring underrepresented communities in STEM. Ultimately, I
   seek to thrive in an environment where everyone is welcome, driving technological
   advancements that benefit global societies.
+lightning_talk: Using Technology to Protect, Connect, and Empower Communities
+keywords: Artificial Intelligence Cybersecurity Python Sustainable Technology Trustworthy
+  AI Data Science for Development
 image: "/assets/images/pictures/clement_bosomtwe.jpg"
 ---
 

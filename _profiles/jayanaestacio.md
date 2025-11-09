@@ -51,6 +51,8 @@ motivation: I am motivated to pursue this internship because it represents an op
   gain hands-on experience with real-world datasets, and further develop the research
   skills necessary for my long-term goal of pursuing a Ph.D. and advancing AI applications
   in Women's healthcare.
+lightning_talk: AI for Early Pelvic Adhesion Detection Sonography Imaging
+keywords: Women's Infertility;Women's Health; Medical Imaging;
 ---
 
 ## Academic Interests

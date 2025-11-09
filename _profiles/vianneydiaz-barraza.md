@@ -74,6 +74,9 @@ motivation: This program is a unique opportunity for me to grow and develop acad
   I expect not just to gain technical and research knowledge, but to create lifelong
   connections with my peers and mentors, share my own experiences and opinions, and
   receive mentorship to continue my path in research.
+lightning_talk: High-Throughput Validation of Nuclear Matter Equations of State
+keywords: High-Performance Computing; Machine Learning; Signal Processing; Telecommunications;
+  Data Analysis; Computational Physics; Numerical Methods; Artificial Intelligence
 ---
 
 ## Academic Interests

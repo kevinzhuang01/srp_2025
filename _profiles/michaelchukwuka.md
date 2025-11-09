@@ -55,6 +55,8 @@ motivation: "I am a Ph.D. candidate in Nuclear Physics at the University of Kans
   science with AI-driven data science, and I contend that SRPâ\x80\x93NAIRR offers
   the optimal platform to gain new competencies, forge enduring collaborations, and
   make significant contributions to the advancement of national research infrastructure."
+lightning_talk: Advancing Heavy-Ion Physics with AI-Driven ZDC Analysis at CMS
+keywords: 'Data Science: AI: Machine Learning: Nuclear Science: High performance computing'
 image: "/assets/images/pictures/michael_chukwuka.jpg"
 ---
 

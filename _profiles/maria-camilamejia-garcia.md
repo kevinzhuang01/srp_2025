@@ -124,6 +124,9 @@ motivation: I am currently a fourth-year PhD student of Mathematics and Statisti
   I believe having the opportunity to participate in such a program before my graduation
   will help me to increase the possibilities to get a job and make contributions after
   the graduation of my PhD program.
+lightning_talk: PhD Candidate Harnessing AI and Sparse Data for Life Sciences
+keywords: Machine Learning; Greenhouse Gas emissions; Environmental Modeling; Clinical
+  Data, Mathematics; AI; Geospatial Data; Bayesian Models; Data Science for life sciences.
 image: "/assets/images/pictures/maria_camila_mejia_garcia.jpg"
 ---
 

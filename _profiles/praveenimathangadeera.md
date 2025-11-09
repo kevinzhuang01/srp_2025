@@ -133,6 +133,10 @@ motivation: "I am a fifth year PhD student in the Department of Mathematics at O
   as they align more closely with my research interests. I believe that being involved
   in NAIRR or HPSF project would help me with an ideal environment to advance as a
   researcher in my field. Thank you very much for considering my application."
+lightning_talk: Coupled snow-soil model
+keywords: 'Surface energy balance; Permafrost; Snow; Radiation; Modeling: Alaskan
+  Arctic; Finite volume methods; Domain Decomposition; ML/NN regression model; Sobol
+  sensitivity analysis.'
 image: "/assets/images/pictures/praveeni_mathangadeera.jpg"
 ---
 

@@ -55,6 +55,10 @@ motivation: Sustainable Research Pathways is an outstanding program that allows 
   Presenting research at conferences helps me expand my network and offers valuable
   feedback on my work. Overall, this program provides me with a unique opportunity
   to learn, implement innovative ideas, and strengthen my career.
+lightning_talk: Numerical Modeling and Simulation of Wave Phenomena in Complex Systems
+keywords: FEM; Numerical Modeling; Neural Network; Deep Learning; Wave Phenomena;
+  Python; MATLAB; Multiscale Materials; High-Order Methods; Simulation; Implementation;
+  Finite Difference
 ---
 
 ## Academic Interests

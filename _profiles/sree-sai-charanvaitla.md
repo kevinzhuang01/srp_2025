@@ -78,6 +78,9 @@ motivation: "I want to participate in the Sustainable Research Pathways program 
   and shared growth. I hope to contribute my technical perspective, learn from diverse
   researchers, and build long-term collaborations that help create more sustainable,
   data-driven solutions for our world."
+lightning_talk: Machine Learning for Computational Sustainability and Scientific Discovery
+keywords: Artificial Intelligence; Machine Learning; Graph Neural Networks; Computational
+  Sustainability; Data Science; Scientific Computing
 ---
 
 ## Academic Interests

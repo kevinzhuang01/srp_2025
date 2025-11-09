@@ -67,6 +67,8 @@ motivation: I want to participate in the Sustainable Horizons Institute-Sustaina
   areas of research that might be of interest as well. My overall goal once I finish
   my graduate studies is to become a mathematical research scientist and work as a
   researcher in a laboratory, solving problems that are of national interest.
+lightning_talk: 'Dynamics and Machine Learning: Best of Two Worlds'
+keywords: Dynamical Systems; Machine Learning; Mathematical Modeling; Applied Mathematics
 ---
 
 ## Academic Interests

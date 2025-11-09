@@ -66,6 +66,10 @@ motivation: "I want to join Sustainable Research Pathways to grow as a researche
   a builderâ\x80\x99s mindset, ready to prototype, analyze, write, and present. Iâ\x80\x99m
   excited to help SRPâ\x80\x99s community connect rigorous AI research to real-world
   problems where it can improve lives."
+lightning_talk: 'Data-to-Deployment: Shipping Small LLMs With Measurable Impact'
+keywords: LLMs; RAG; Agents; Prompting; Alignment; Guardrails; Retrieval; Tokenization;
+  LoRA; LLMOps; Deployment; Evaluation; Time-series; Causal-inference; Content-Based-Filtering;
+  Feature-engineering; Distillation; Transfer-learning; Vector-databases; SQL/ETL
 image: "/assets/images/pictures/derrick_agyekum.jpg"
 ---
 

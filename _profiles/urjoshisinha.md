@@ -80,6 +80,9 @@ motivation: "I am eager to participate in the Sustainable Research Pathways prog
   technical growth, I seek to contribute as both a mentee and mentor, sharing my experiences
   in database optimization, open science, and community leadership to strengthen the
   programâ\x80\x99s collaborative spirit."
+lightning_talk: Software testing of highly configurable data-driven scientific tools
+keywords: testing, data-driven, optimization, LLM, scientific tool, software configurability,
+  metamorphic testing, software reliability
 image: "/assets/images/pictures/urjoshi_sinha.jpg"
 ---
 

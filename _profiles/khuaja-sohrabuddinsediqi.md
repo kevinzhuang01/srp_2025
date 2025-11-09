@@ -81,6 +81,9 @@ motivation: I want to participate in the Sustainable Research Pathways Program b
   career path. Programs like SRP give students like me the chance to keep learning
   by doing, while also connecting with mentors and other researchers who share the
   same goals. I want to contribute, learn, and grow as part of that community.
+lightning_talk: Advancing Scientific Discovery Through Data Science, AI, and HPC Simulations
+keywords: Data Science; AI; Machine Learning; HPC; Scientific Simulations; Computational
+  Modeling; Predictive Analytics.
 ---
 
 ## Academic Interests

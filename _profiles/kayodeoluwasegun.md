@@ -110,6 +110,10 @@ motivation: "I remember completing the post-conference survey for the BE program
   data science careers. I know I will be challenged and more empowered to address
   complex problems and amplify my research impact in healthcare, robotics, science
   & engineering by being part of this program."
+lightning_talk: 'Modeling Complex Systems: Applied PDEs and Computational Modeling'
+keywords: Applied Partial Differential Equations; Mathematical Modeling; Mathematical
+  Biology; Free-Boundary Problems; Nonlinear Dynamics; Wave Propagation; Ocean Engineering;
+  Scientific Computing; Computational Modeling
 image: "/assets/images/pictures/kayode_oluwasegun.jpg"
 ---
 

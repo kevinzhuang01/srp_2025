@@ -29,6 +29,9 @@ motivation: "Iâ\x80\x99m motivated by my pure sense of success, moving here fro
   different country shaped the way I think that I have to work hard for equal opportunity
   so anytime I feel discouraged I remember where Iâ\x80\x99m coming from and that
   fuels me to keep going"
+lightning_talk: "AI for Social Impact â\x80\x93 Using Data to Drive Change"
+keywords: AI; Machine Learning; Data Analysis; Social Impact; Python Programming;
+  Super Computing; Technology for Good; Automation; Computer Science Research; HPC
 image: "/assets/images/pictures/kingsley_okparaugo.jpg"
 ---
 

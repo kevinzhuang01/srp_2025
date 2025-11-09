@@ -28,7 +28,11 @@ academic_status: PhD Student
 year_in_program: 2nd
 research_area: Applied Mathematics; Computer Science; Data Science; Engineering; Machine
   Learning/AI
-major: "#NAME?"
+major: "- Computer Science (PhD) â\x80\x93 Specialization in Computer Vision, Artificial
+  Intelligence, and Additive Manufacturing. - Applied Statistics and Data Science
+  (Masterâ\x80\x99s) â\x80\x93 Specialization in Machine Learning, Big Data Analytics,
+  and Predictive Modeling. - Statistics (Bachelorâ\x80\x99s) â\x80\x93 Focus on Biostatistics,
+  Probability Theory, and Statistical Modeling."
 degrees: "â\x80¢ PhD in Computer Science (Interdisciplinary Applications) â\x80\x93
   University of Texas Rio Grande Valley, Aug 2024 â\x80\x93 Present (in progress)
   â\x80¢ MS in Applied Statistics and Data Science â\x80\x93 University of Texas Rio
@@ -96,6 +100,10 @@ motivation: "I want to participate in this program because it aligns closely wit
   trustworthy automation, and equitable access to technology. I see this fellowship
   as a pathway not only to strengthen my research but also to prepare me to mentor
   others and to build long-term collaborations that extend beyond my PhD."
+lightning_talk: AI-Driven Computer Vision for Smart Manufacturing Systems
+keywords: Artificial Intelligence; Machine Learning; Computer Vision; Additive Manufacturing;
+  Deep Learning; Defect Detection; 3D Reconstruction; Robotics; Smart Manufacturing;
+  Digital Twin
 image: "/assets/images/pictures/martha_asare.jpg"
 ---
 

@@ -120,6 +120,11 @@ motivation: "One of the things that motivated me to apply to the SRP program is 
   careers in this space, contribute to their projects in whatever way I can, and grow
   into a researcher who can connect AI methods to scientific problems in a useful
   way."
+lightning_talk: Multimodal AI for Mechanistic Insight in Spatial Biology
+keywords: Multimodal learning;Graph neural networks;Spatial graphs;Causal modeling;Representation
+  learning;Biological mechanisms;Interpretable AI;Scientific reasoning;Agentic AI;Foundation
+  models;Tissue imaging;Spatial transcriptomics;Spatial proteomics;Microenvironment
+  modeling;Cell-cell communication;Molecular phenotyping;AI for discovery;
 ---
 
 ## Academic Interests

@@ -92,6 +92,10 @@ motivation: "Since my undergraduate years as a physics major, I have always been
   â\x80\x93 especially first-generation college students and those from underrepresented
   backgrounds â\x80\x93 by fostering a more inclusive and supportive scientific community
   where all voices are heard, valued, and empowered to thrive."
+lightning_talk: Scientific AI-Agent Development on HPC
+keywords: LLM-agents, surrogate-model, multi-agent-orchestration, scientific-software,
+  FNO, PINN, HPC, CUDA, MeshGraphNet, GNN, LangGraph, Docker/Podman, SLURM/Kubernetes,
+  PyTorch/FSDP, evals
 image: "/assets/images/pictures/abdullah_maruf.jpg"
 ---
 

@@ -89,6 +89,10 @@ motivation: "I am applying to the Sustainable Research Pathways (SRP) program be
   collaborations with DOE labs. I look forward to the chance to bring my enthusiasm,
   technical expertise, and collaborative mindset to SRP and to grow through meaningful
   engagement with its research community."
+lightning_talk: Numerical Methods and Machine Learning for Complex PDE Systems
+keywords: Numerical Analysis; Partial Differential Equations; Optimization; Machine
+  Learning; Scientific Computing; Applied Mathematics; Computational Modeling; High-Performance
+  Computing; Stability Analysis; Convergence
 image: "/assets/images/pictures/temitope_oyedeji.jpg"
 ---
 

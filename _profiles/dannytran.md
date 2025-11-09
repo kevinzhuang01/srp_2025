@@ -46,6 +46,9 @@ motivation: I want to participate in this program because I want to build upon m
   with no significant impact on the real world besides my own learning. Coming out
   of this program, I am hoping to have developed something important and impactful
   to the world--even if it is the smallest thing.
+lightning_talk: The Intersection of Sustainability and Accessibility in Computing
+keywords: machine learning; accessibility; sustainability; remote sensing; data science;
+  computer vision
 ---
 
 ## Academic Interests

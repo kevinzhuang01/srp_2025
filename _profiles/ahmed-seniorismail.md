@@ -61,6 +61,9 @@ motivation: "I am motivated to participate in the Sustainable Research Pathways 
   where I can both learn from established researchers and share experiences with peers.
   Most importantly, I hope to build lasting professional relationships and a collaborative
   network that extends beyond the program. Thank you."
+lightning_talk: Risk-Sensitive Reinforcement Learning and Optimization for Decision-Making
+keywords: Reinforcement Learning; Risk-Sensitive; Decision Making; Optimization; Value-at-Risk
+  (VaR).
 ---
 
 ## Academic Interests

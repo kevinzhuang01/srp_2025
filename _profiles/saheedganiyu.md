@@ -75,6 +75,11 @@ motivation: "I am highly motivated to be one of the participants in the Sustaina
   learning) from their mentorship in interdisciplinary teamwork. I hope to strengthen
   my research independence and also aim to contribute meaningfully to the SRP-NAIRR
   community mission."
+lightning_talk: Theoretical Analysis of Negative Transfer and Generalization in Multitask
+  Learning.
+keywords: Multitask Learning; Negative Transfer Learning; Transfer Learning; Optimization;
+  Generalization; Deep Networks; Adaptive Regularization; Artificial Neural Network;
+  Machine Learning; Data Science.
 image: "/assets/images/pictures/saheed_ganiyu.jpg"
 ---
 

@@ -65,6 +65,10 @@ motivation: 'Participating in the Sustainable Research Pathway program will allo
   connections and even friendships, and developing leadership abilities. All in all,
   I hope to gain insight through this program on ways I can use tech to help save
   lives and even find the career in tech that will let me do that.'
+lightning_talk: 'Detecting Online Predators: Design + AI for Safer Play'
+keywords: AI for safety; online predator detection; child protection; ethical AI;
+  human-computer interaction; cybersecurity; web development; machine learning; digital
+  forensics.
 image: "/assets/images/pictures/wisdom_walker.jpg"
 ---
 

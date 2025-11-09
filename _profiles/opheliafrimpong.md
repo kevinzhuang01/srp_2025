@@ -69,6 +69,10 @@ motivation: I was diagnosed with multiple fibroids in 2022, I took different kin
   This is because, this summer program will enable me to be innovative in my research
   of interest since this is something I really want to commit to and excel in order
   to support clinical research for the current and next generation.
+lightning_talk: AI-Driven Gated Fusion for Multimodal Medical Diagnosis
+keywords: Artificial Intelligence; Machine Learning; Explainable Artificial Intelligence;
+  Multimodal;Gated fusion;Shapley Additive explanations; Medical imaging; Gradient-weighted
+  Class Activation Mapping; Multilayer Perceptron; Convolutional-Neural-Network
 image: "/assets/images/pictures/ophelia_frimpong.jpg"
 ---
 

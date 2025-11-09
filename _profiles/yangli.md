@@ -26,17 +26,18 @@ year_in_program: 3rd
 research_area: Chemistry
 major: data oriented computational Chemistry
 degrees: chemistry B.S. 2023; Master in chemistry /2025; phD in chemistry in progress
-courses: Computational methods-chemistry, Pattern Recognition, Physical Organic Chemistry?
-  Programming with R, Python for Data Science, thermodynamics, Programming with C++
+courses: "Computational methods-chemistry, Pattern Recognition, Physical Organic Chemistryï¼\x9B
+  Programming with R, Python for Data Science, thermodynamics, Programming with C++"
 research_experience: "I have conducted research in both experimental and computational
   chemistry, spanning materials synthesis and reaction mechanism studies. Publications:
   Yuto Katsuyama, Yang Li, Sophia Uemura, Zhiyin Yang, Mackenzie Anderson, Chenxiang
-  Wang, Cheng-Wei Lin, Yuzhang Li, and Richard B. Kaner. â\x80\x9CHigh?Rate Aqueous
-  Aluminumâ\x80\x93Sulfur Batteries Enabled by a Polyimideâ\x80\x93Graphene Composite
-  Cathode.â\x80\x9D ACS Applied Materials & Interfaces, 2024, 16 (10), 12612â\x80\x9312623.
+  Wang, Cheng-Wei Lin, Yuzhang Li, and Richard B. Kaner. â\x80\x9CHighâ\x80\x90Rate
+  Aqueous Aluminumâ\x80\x93Sulfur Batteries Enabled by a Polyimideâ\x80\x93Graphene
+  Composite Cathode.â\x80\x9D ACS Applied Materials & Interfaces, 2024, 16 (10), 12612â\x80\x9312623.
   DOI: 10.1021/acsami.3c18846 K. N. Houk, Yang Li, and Christopher G. Newton. â\x80\x9CReactivity
-  and Selectivity in Aza?Dielsâ\x80\x93Alder Reactions of Ketenimines.â\x80\x9D Journal
-  of the American Chemical Society, 2025, 147 (7), 6087â\x80\x936094. DOI: 10.1021/jacs.4c17174"
+  and Selectivity in Azaâ\x80\x90Dielsâ\x80\x93Alder Reactions of Ketenimines.â\x80\x9D
+  Journal of the American Chemical Society, 2025, 147 (7), 6087â\x80\x936094. DOI:
+  10.1021/jacs.4c17174"
 academic_interests: "My work combines computer chemistry and machine learning to clarify
   and forecast molecular reactivity and selectivity. On the other hand, I modeled
   Ni/photoredox-catalyzed enantioselective cross-electrophile coupling reactions based

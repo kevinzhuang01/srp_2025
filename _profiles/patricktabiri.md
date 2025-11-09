@@ -55,6 +55,10 @@ motivation: "My fascination with how the Navierâ\x80\x93Stokes equations could 
   with modern cloud platforms. As Secretary of the SIAM UTEP Student Chapter, I contribute
   to fostering collaboration and technical growth. Ultimately, I am driven by a commitment
   to harness computation to push the boundaries of scientific discovery."
+lightning_talk: Physics-Informed Machine Learning for High Performance Computing
+keywords: Scientific Computing; Machine Learning; Deep Learning; Computational Mechanics;
+  High Performance Computing; Phase Field Crystal; Microstructure Evolution; Additive
+  Manufacturing
 ---
 
 ## Academic Interests

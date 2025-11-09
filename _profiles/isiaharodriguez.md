@@ -62,6 +62,10 @@ motivation: I am interested in developing new AI models and training paradigms t
   present at conferences in the area of my dissertation would enable me to establish
   and grow within the community of ML researchers, which serves my long-term research
   and academic goals.
+lightning_talk: Between Culture and Computation
+keywords: Machine learning; computational mathematics; scientific imaging; inverse
+  problems; applied analysis; optimization; applied AI; numerical modeling; inclusive
+  research; AI for science
 image: "/assets/images/pictures/isiaha_rodriguez.jpg"
 ---
 

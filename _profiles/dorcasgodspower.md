@@ -51,6 +51,9 @@ motivation: I want to participate in the Sustainable Research Pathways program b
   science and society. I also want to give back by encouraging other students at my
   university to pursue similar opportunities, helping to build a community where all
   voices are valued.
+lightning_talk: Modeling Energy Transfer at the Intersection of Chemistry and AI
+keywords: Computational Chemistry; Molecular Modeling; Kinetic Monte Carlo; High-Performance
+  Computing; Machine Learning; Energy Transfer; Sustainability; Data-Driven Science
 ---
 
 ## Academic Interests

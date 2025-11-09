@@ -79,6 +79,10 @@ motivation: "As a low-income, first-generation Indigenous student at a prestigio
   and secure AI. Engaging with SRP would not only allow me to apply these interests
   to real-world AI challenges, but also connect me with researchers and faculty who
   are advancing cutting-edge work in this space."
+lightning_talk: Quantum Secure ZKSNARKs - Code-Based Zero Knowledge Proofs
+keywords: Zero-Knowledge Proofs; Post-Quantum Cryptography; SNARKs; Cryptographic
+  Protocol Design; Rust Programming; Arkworks; Coding Theory; Lattice-Based; Applied
+  Algebra; Machine Learning for Cryptanalysis
 image: "/assets/images/pictures/alex_gutierrez_diaz.jpg"
 ---
 

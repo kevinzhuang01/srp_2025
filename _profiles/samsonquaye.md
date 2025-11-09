@@ -68,6 +68,10 @@ motivation: I want to participate in the Sustainable Research Pathways program b
   connections that can guide me as I move forward in my academic and research career.
   My goal is to come out of the program with stronger research skills, a clearer sense
   of direction in the domain area I get the chance to work in.
+lightning_talk: Applied Maths, AI, Cybersecurity, and LLMs
+keywords: Artificial Intelligence; Cybersecurity; Large Language Models; Cryptography;
+  Applied Statistics; Edge Computing; Internet of Things; Malware Detection; Parallel
+  Computing; Applied Mathematics
 ---
 
 ## Academic Interests

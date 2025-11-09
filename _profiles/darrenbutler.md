@@ -122,6 +122,10 @@ motivation: "I want to participate in the Sustainable Research Pathways to: 1) k
   in scientific research and development. I hope to increase the quality of research
   and research software through sociotechnical tools for responsible, inclusive collaboration,
   and join a national lab or company partner after graduation."
+lightning_talk: Developing AI Assistants for Psychologically Safe, Neurodiverse, Collaborative
+  Software Development
+keywords: Human-Centered Computing; Software Engineering; Human-AI Interaction; Accessibility;
+  Education; Responsible AI; Analytics
 image: "/assets/images/pictures/darren_butler.jpg"
 ---
 

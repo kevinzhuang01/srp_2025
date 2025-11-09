@@ -113,6 +113,10 @@ motivation: "In my graduate studies in computational and applied mathematics at 
   applications and nurture a passion for mathematics in the next generation of mathematicians,
   especially those from underrepresented minority groups. I will share this research,
   as well as my enthusiasm for mathematics, by presenting at research conferences."
+lightning_talk: Efficient Symbolic Regression Through Optimization and Machine Learning
+keywords: Optimization; Mixed-Integer Linear Programming (MILP); Symbolic Regression;
+  Scientific Machine Learning; Operations Research; Kernel Methods; Scientific Computing;
+  HPC
 ---
 
 ## Academic Interests

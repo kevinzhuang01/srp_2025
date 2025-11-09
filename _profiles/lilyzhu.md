@@ -55,6 +55,9 @@ motivation: I want to participate in this program to learn how I can leverage AI
   becoming an effective practitioner of medicine, I want to learn how I can use AI
   in medicine, to provide timely diagnosis, and how I can use AI to make quality care
   to more accessible.
+lightning_talk: At the Intersection of Health & Data
+keywords: Public Health; Medicine; Bioinformatics; Protein Prediction; Biostatistics;
+  Python; R; Machine Learning; SPSS; Wet-Lab; Modeling
 image: "/assets/images/pictures/lily_zhu.jpg"
 ---
 

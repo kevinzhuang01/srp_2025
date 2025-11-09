@@ -75,6 +75,9 @@ motivation: "I'm applying to Sustainable Research Pathways because the program s
   for me to develop statistically sound, computationally fast methods and tools that
   are simple for others to deploy - so results are not just interesting, but also
   significant and useful."
+lightning_talk: Building Trustworthy Analytics for Biomedical Data
+keywords: Biomedical Data Science; Biostatistics; Statistical Genomics; Machine Learning;
+  Applied Statistics; Data Visualization; Spatial Transcriptomics; Reproducible Workflows
 image: "/assets/images/pictures/xingyi_chen.jpg"
 ---
 

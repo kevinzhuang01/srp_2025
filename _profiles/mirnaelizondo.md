@@ -63,6 +63,9 @@ motivation: "I want to participate in the Sustainable Research Pathways program 
   models. Beyond the technical experience, I value the programâ\x80\x99s emphasis
   on mentorship and community building. Ultimately, I hope this program will strengthen
   my ability to conduct impactful, inclusive research."
+lightning_talk: AI & Data Science for Health and Learning
+keywords: machine learning, AI, data science, healthcare analytics, prediction models,
+  graph clustering, topic modeling, chronic conditions, clinical data, big data
 image: "/assets/images/pictures/mirna_elizondo.jpg"
 ---
 

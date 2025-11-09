@@ -13,19 +13,19 @@ biography: "Augustine is a junior at Grambling State University majoring in Comp
   Machine Learning, and Artificial Intelligence. He is particularly interested in
   combining mathematical modeling and AI to design interpretable, efficient, and scalable
   systems. During his NSF REU at Louisiana Tech University, Augustine developed an
-  ?? trend filtering model for financial time series, achieving improved accuracy
-  over the Hodrickâ\x80\x93Prescott filter in detecting structural breaks. He is currently
-  conducting research on packet-level anomaly detection, exploring methods such as
-  autoencoders, ensemble learning, and transformer-based architectures for network
-  security applications. Beyond research, Augustine has interned as a Software Engineer
-  at Afterquery, a Y Combinatorâ\x80\x93backed startup, where he contributed to building
-  scalable data infrastructure tools. He also served as a Software Engineering Fellow
-  at eBay, gaining experience in backend systems and collaborative software development.
-  He has presented his NSF poster work at the US Research Software Engineer Conference
-  (USRSE 2025) and the University of Louisiana System AI in Education Summit (2025),
-  sharing insights on computational modeling and AI adoption in education. Augustine
-  aims to pursue graduate study at the intersection of software engineering, mathematics,
-  and intelligent systems."
+  â\x84\x93â\x82\x81 trend filtering model for financial time series, achieving improved
+  accuracy over the Hodrickâ\x80\x93Prescott filter in detecting structural breaks.
+  He is currently conducting research on packet-level anomaly detection, exploring
+  methods such as autoencoders, ensemble learning, and transformer-based architectures
+  for network security applications. Beyond research, Augustine has interned as a
+  Software Engineer at Afterquery, a Y Combinatorâ\x80\x93backed startup, where he
+  contributed to building scalable data infrastructure tools. He also served as a
+  Software Engineering Fellow at eBay, gaining experience in backend systems and collaborative
+  software development. He has presented his NSF poster work at the US Research Software
+  Engineer Conference (USRSE 2025) and the University of Louisiana System AI in Education
+  Summit (2025), sharing insights on computational modeling and AI adoption in education.
+  Augustine aims to pursue graduate study at the intersection of software engineering,
+  mathematics, and intelligent systems."
 academic_status: Undergraduate Student
 year_in_program: 3rd
 research_area: Applied Mathematics; Computer Science; Data Science; Engineering; Machine
@@ -38,13 +38,13 @@ courses: Data Structures and Algorithms Computer Architecture Software Engineeri
   and Statistics Discrete Mathematics Chemistry Physics
 research_experience: "I conducted research through the NSF Research Experiences for
   Undergraduates (REU) program at Louisiana Tech University, where I developed and
-  analyzed an ?? trend filtering model to detect structural breaks in S&P 500 data,
-  comparing its performance to the Hodrickâ\x80\x93Prescott filter. The results are
-  being prepared for publication. I am also engaged in an ongoing research project
-  at Grambling State University, focusing on packet-level anomaly detection using
-  autoencoders, ensemble methods, and transformer-based architectures for network
-  security applications. In addition, I have completed several technical projects
-  through coursework and internships, including backend system design, distributed
+  analyzed an â\x84\x93â\x82\x81 trend filtering model to detect structural breaks
+  in S&P 500 data, comparing its performance to the Hodrickâ\x80\x93Prescott filter.
+  The results are being prepared for publication. I am also engaged in an ongoing
+  research project at Grambling State University, focusing on packet-level anomaly
+  detection using autoencoders, ensemble methods, and transformer-based architectures
+  for network security applications. In addition, I have completed several technical
+  projects through coursework and internships, including backend system design, distributed
   computing, and data infrastructure development during my Software Engineering Internship
   at Afterquery (Y Combinator startup) and Software Engineering Fellowship at eBay.
   Presentations: US Research Software Engineer Conference (USRSE 2025) â\x80\x94 Presented
@@ -86,6 +86,10 @@ motivation: Modern research depends on software, yet the people and practices be
   to use this experience to grow as both a researcher and an engineer, and to contribute
   to a community that believes inclusive, well-crafted science is the key to lasting
   impact.
+lightning_talk: AI and HPC Integration for Scalable Scientific Workflows
+keywords: "AI for Science; Distributed ML; HPC Systems; Scientific Computing; Numerical
+  Optimization; Workflow Automation; AIâ\x80\x93HPC Co-Design; Data-Intensive Science;
+  Applied AI Research"
 image: "/assets/images/pictures/augustine_manu_frimpong.jpg"
 ---
 

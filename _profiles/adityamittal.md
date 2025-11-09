@@ -118,6 +118,10 @@ motivation: 'My undergraduate research with Dr. Norman Matloff has been challeng
   in artificial intelligence research that may be of interest. I hope the NAIRR projects
   will help clarify my future research directions, and that the summer project will
   also produce some publishable results! Thank you for considering my application.'
+lightning_talk: Deep Learning for Fairness and Interpretability
+keywords: Machine learning fairness; reinforcement learning; natural language processing;
+  deep generative models; applied machine learning; causal inference; data science;
+  optimization.
 image: "/assets/images/pictures/aditya_mittal.jpg"
 ---
 

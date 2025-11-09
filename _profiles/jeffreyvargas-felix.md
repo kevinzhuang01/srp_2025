@@ -32,6 +32,8 @@ motivation: My motivation to join this program is my continuous strife to do bet
   who will push me to be a better version of myself, I would be excited to work with
   people who have already gone through a path similar to mine. I think this project
   would benefit me greatly in many ways.
+lightning_talk: Exploring AI, Cloud, and Reproducible Computing
+keywords: AI;Coding;LLM;RAG;RSE;HPC;GenAI;reproduciblity;Cloud Computing;Open Source;
 ---
 
 ## Academic Interests

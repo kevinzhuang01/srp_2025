@@ -77,6 +77,10 @@ motivation: "The fields of physics and chemistry have always resonated with me, 
   to pursue an education that not only involves my engagement with SHI's labs, research
   opportunities, and faculty, but one that concurrently engages me in surrounding
   civil dynamics."
+lightning_talk: 'Modern Physics: Real-world Applications and Computational Models'
+keywords: Quantum mechanics; Plasmas; Nuclear; Particle physics; Electromagnetism;
+  Energy; Materials; Superconductor; Semiconductors; Photovoltaic cells; Optoelectronic
+  nanostructures; Quantum modeling; Variational Quantum Eigensolvers
 ---
 
 ## Academic Interests

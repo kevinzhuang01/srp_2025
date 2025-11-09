@@ -127,6 +127,10 @@ motivation: "Iâ\x80\x99ve always found technology to be most valuable when it h
   experience I am seeking. I am eager to contribute to a team while gaining a practical
   understanding of how to build a meaningful career at the intersection of AI and
   public impact."
+lightning_talk: 'AI That Works: Interpretable Models for Complex Systems'
+keywords: AI; machine learning; multi-agent systems; computer vision; robotics; reinforcement
+  learning; dynamic environments; feature extraction; practical AI; AI architectures;
+  interpretable AI
 ---
 
 ## Academic Interests

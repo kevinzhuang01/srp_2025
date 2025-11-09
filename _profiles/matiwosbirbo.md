@@ -64,6 +64,10 @@ motivation: I want to participate in this program and the community because it i
   from their story and how they came to be where they are today. I want to be like
   them and make great contributions to society. This program will help me in my career
   and future aspirations and I look forward to participating in it!
+lightning_talk: Gaslighting Large Language Models for the Sack of Privacy
+keywords: machine learning; artificial intelligence; software engineering; autonomous
+  vehicles; cloud computing; large language models; cybersecurity; privacy-preserving
+  AI; deep learning; social computing
 image: "/assets/images/pictures/matiwos_birbo.jpg"
 ---
 

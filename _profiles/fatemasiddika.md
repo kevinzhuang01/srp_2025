@@ -90,6 +90,11 @@ motivation: "I am deeply motivated to participate in the Sustainable Research Pa
   I want to be part of a research culture that not only advances technology but also
   ensures that everyoneâ\x80\x99s contribution is valued and that innovation truly
   reflects collective effort."
+lightning_talk: "Adaptive Sparse Fine-Tuning and Multi-Task Continual Learning in
+  Federated LLMsâ\x80\x8B"
+keywords: Parameter Efficient Fine-tuning; Federated Representation Learning; Continual
+  learning; Sparse Fine-Tuning; Federated Learning; Large Language Models; Mixture-of-Experts;
+  Knowledge Retention; Task Heterogeneity
 image: "/assets/images/pictures/fatema_siddika.jpg"
 ---
 

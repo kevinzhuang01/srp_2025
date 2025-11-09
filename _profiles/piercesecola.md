@@ -89,6 +89,10 @@ motivation: My motivation to participate in the SRP program stems from my passio
   my understanding in those concepts and swap career paths. Now I am working to push
   even further to master these realms of knowledge, and I believe that the SRP Program
   is the perfect opportunity to do so.
+lightning_talk: "Pixels and Perception â\x80\x93 My Journey into Computer Vision"
+keywords: 'Academic Background: Stochastic Processes; Numerical Analysis; Non-Linear/Linear
+  Programming; Neural Network Current Research/Research Interests: Computer Vision;
+  Inventory Control NNs; BP Modeling'
 image: "/assets/images/pictures/pierce_secola.jpg"
 ---
 

@@ -46,6 +46,10 @@ motivation: "I want to participate in SRP because Iâ\x80\x99m motivated by appl
   shown me how much I enjoy turning complex data into actionable insights. Through
   SRP, I hope to continue developing my skills, tackle new applied challenges, and
   collaborate with mentors and peers who inspire me to keep growing as a researcher."
+lightning_talk: From Data Infrastructure to Applied AI
+keywords: Data Infrastructure; Applied Machine Learning; Data Pipelines; Transformer
+  Models; NLP; High-Performance Computing; FHIR; Radar Data Processing; Reproducible
+  AI; Data Validation
 image: "/assets/images/pictures/dionne_bang.jpg"
 ---
 

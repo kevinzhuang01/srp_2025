@@ -78,6 +78,10 @@ motivation: "I want to create solutions that will last for a while. Iâ\x80\x99m
   have the correct software. By joining Sustainable Horizons, I hope I can help improve
   computing decisions, whether it involves installing Linux or researching specific
   machine learning models."
+lightning_talk: For a Safer Infrastructure
+keywords: ai; cybersecurity; machine learning; safety; innovation; software engineering;
+  engineering; safety; infrastructure; cloud computing; aws; prompt injection; alignment;
+  control
 image: "/assets/images/pictures/danny_hoang.jpg"
 ---
 

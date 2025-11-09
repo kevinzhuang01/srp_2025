@@ -94,6 +94,10 @@ motivation: "I am eager to join the Sustainable Research Pathways program becaus
   diverse voices thrive. Through this program, I hope to contribute my expertise,
   grow within a supportive research network, and advance scalable, human-centered
   AI systems that benefit the broader scientific ecosystem."
+lightning_talk: 'Bridging Vision and Language: Towards Interactive Multi-Modal Search
+  and Reasoning'
+keywords: Interactive Visual Search; Multi-modal Retrieval; Multi-modal Reasoning;
+  Video Understanding; Computer Vision
 image: "/assets/images/pictures/sourajit_saha.jpg"
 ---
 

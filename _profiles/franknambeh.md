@@ -101,6 +101,10 @@ motivation: "I am currently a sophomore computer science major at Grambling Stat
   never had the opportunity to accomplish. Along the way, I hope to serve as a mentor
   and resource for others, especially for students who lack support in pursuing their
   educational and research goals."
+lightning_talk: Building Trustworthy and Scalable AI Systems for Global Impact
+keywords: Artificial intelligence; machine learning; trustworthy AI; data engineering;
+  large language models; federated learning; AI for social good; automation; reinforcement
+  learning
 image: "/assets/images/pictures/frank_nambeh.jpg"
 ---
 

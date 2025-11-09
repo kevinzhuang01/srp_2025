@@ -79,6 +79,10 @@ motivation: "I am applying to the Sustainable Research Pathways â\x80\x93 NAIRR
   voices in AI and data science. Participation in SRP will help me strengthen cross-disciplinary
   partnerships, refine my leadership in socially impactful AI, and prepare for a research
   career at the intersection of AI, infrastructure, and sustainability."
+lightning_talk: Scalable AI for Smart Infrastructure and Sustainable Systems
+keywords: Artificial Intelligence; High-Performance Computing; Intelligent Infrastructure;
+  Sustainable Agriculture; Computer Vision; Edge AI; Multimodal Data Fusion; Transportation
+  Systems; Document Automation
 image: "/assets/images/pictures/kojo_adu_gyamfi.jpg"
 ---
 

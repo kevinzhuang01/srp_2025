@@ -94,6 +94,11 @@ motivation: "I want to participate in the Sustainable Research Pathways program 
   in chemistry, biology, and data science to a team setting. SRP is a rare opportunity
   to grow as both a scientist and a community member, and I am ready to contribute
   fully to both."
+lightning_talk: 'AI for Discovery: Bridging Molecular Experiments, Computation, and
+  Society'
+keywords: Molecular Biology; Chemistry; Data Science; Machine Learning; Artificial
+  Intelligence; Computational Modeling; Biomedical Imaging; Translational Research;
+  Bioinformatics; Quantitative Analysis
 ---
 
 ## Academic Interests

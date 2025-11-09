@@ -42,6 +42,8 @@ motivation: "From a young age, I've been fascinated with both mathematics and co
   intersection of math and computing. Therefore, the summer 2026 projects that are
   focused on AI and HPC are perfectly aligned with my interests and that's why I've
   felt compelled to apply."
+lightning_talk: Accelerating Machine Learning with Mixed Precision
+keywords: Gaussian processes; mixed precision; parallel computing; python; R
 image: "/assets/images/pictures/kwame_osei_tutu.jpg"
 ---
 

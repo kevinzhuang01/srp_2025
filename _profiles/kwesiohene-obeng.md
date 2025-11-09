@@ -59,6 +59,10 @@ motivation: I once had the privilege of participating in the Sustainable Researc
   For me, participating again means more than just technical growth. It is a chance
   to give back, to strengthen the inclusive network that helped me, and to continue
   building science that is innovative, collaborative, and impactful.
+lightning_talk: Functional Data Analysis for Uncertainty Quantification and Model
+  Calibration
+keywords: Machine Learning; Deep Learning; Uncertainty Quantification; Functional
+  Data Analysis; Bayesian Inference;
 image: "/assets/images/pictures/kwesi_ohene_obeng.jpg"
 ---
 

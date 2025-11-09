@@ -57,6 +57,10 @@ motivation: "Iâ\x80\x99m applying to the Sustainable Research Pathways program 
   national labs. I aspire to become a researcher who merges technical innovation with
   sustainability goals to drive smarter, safer, and more equitable infrastructure
   systems."
+lightning_talk: Exploring AI and Generative Models for Intelligent Systems
+keywords: Artificial Intelligence; Generative Models; Machine Learning; Java; Computer
+  Vision; Data Analytics; OCR; RAG; Python; SQL; Tableau; Cloud Computing; Autonomous
+  Systems
 image: "/assets/images/pictures/rishabh_jain.jpg"
 ---
 

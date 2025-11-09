@@ -71,6 +71,11 @@ motivation: I would like to participate in this program because it would connect
   step towards this goal. Overall, I would like to participate in this program to
   build a lasting connection with scientists and researchers in the fields that interest
   me most, accelerate my career goals, and to contribute to valuable research.
+lightning_talk: Adam Trojak- Transformative Experiences, Academic Excellence, and
+  Exploring New Frontiers
+keywords: "High Performance Computing; AI; Software Development; Cybersecurity; Robotics;
+  Research; Machine Learning; Super computing; â\x80\x8BSoftware; Optimization; HPC;
+  Programming; Coding; Artificial Intelligence"
 image: "/assets/images/pictures/adam_trojak.jpg"
 ---
 
