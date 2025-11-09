@@ -8,21 +8,20 @@ institution: Shorter College
 organization: Shorter College
 department: Computer Science
 pronouns: He/Him/His
-biography: "Clement Fred Bosomtwe is a detail-oriented professional from Ghana, currently
+biography: Clement Fred Bosomtwe is a detail-oriented professional from Ghana, currently
   pursuing an Associate Degree in Computer Science at Shorter College in the United
   States with a 4.0 GPA. With a background in Building Technology and experience in
   estate and maintenance management at Tetteh Quarshie Memorial Hospital, he transitioned
   to technology, driven by a passion for software engineering, cybersecurity, and
   AI-driven solutions. He and his team received recognition for securing second place
   in the National HBCU C2 2024-2025 App Design Competition with Elevate.ai, an AI
-  tutoring platform. He also participated in the Cyber Guardiansâ\x80\x99 Operation
-  Stampede Shield Hackathon (2025), assisted at the AR-HDSSB 25 Bootcamp (2025), and
-  attended the BE@US-RSE 25 Conference (2025). As a Math Tutor, Basketball Team Manager,
-  and International Representative in Shorter Collegeâ\x80\x99s Student Government
-  Association, he promotes STEM inclusivity. Passionate about leveraging technology
-  to solve real-world problems, especially in data security for developing regions,
-  Clement aims to build innovative, accessible systems that bridge global digital
-  divides."
+  tutoring platform. He also participated in the Cyber Guardians’ Operation Stampede
+  Shield Hackathon (2025), assisted at the AR-HDSSB 25 Bootcamp (2025), and attended
+  the BE@US-RSE 25 Conference (2025). As a Math Tutor, Basketball Team Manager, and
+  International Representative in Shorter College’s Student Government Association,
+  he promotes STEM inclusivity. Passionate about leveraging technology to solve real-world
+  problems, especially in data security for developing regions, Clement aims to build
+  innovative, accessible systems that bridge global digital divides.
 academic_status: Community College Student
 year_in_program: 2nd
 research_area: Computer Science; Data Science; Machine Learning/AI; Mathematics
@@ -75,8 +74,4 @@ keywords: Artificial Intelligence Cybersecurity Python Sustainable Technology Tr
   AI Data Science for Development
 image: "/assets/images/pictures/clement_bosomtwe.jpg"
 ---
-
-## Academic Interests
-
-My academic and research interests are rooted in my experiences in Ghana and my current studies in the United States, focusing on artificial intelligence, cybersecurity, and software engineering to address real-world challenges. I am particularly interested in using AI and machine learning to enhance data protection, improve system efficiency, and support decision-making in resource-limited environments. This includes exploring secure software development practices, integrating cybersecurity into AI applications, and studying the societal impacts of technology, such as bridging digital divides in developing regions. Through projects like co-developing Elevate.ai, an AI-powered tutoring platform, and participating in cybersecurity hackathons, I aim to create adaptable, resilient systems that promote accessibility and innovation globally.
 

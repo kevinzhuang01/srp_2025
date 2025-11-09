@@ -7,17 +7,16 @@ email: dbang6@gatech.edu
 institution: georgia institute of technology
 organization: georgia institute of technology
 department: college of computing
-biography: "Hello, I'm a masterâ\x80\x99s student in Computer Science at Georgia Tech
-  with a focus on machine learning and data-driven systems. My research experience
-  includes training Transformer models for multilingual subjectivity detection on
-  HPC clusters, which resulted in a peer-reviewed paper accepted to CLEF 2025, and
-  building a pipeline to convert drug-related mortality data into FHIR-compliant JSON
-  for integration with HAPI FHIR servers. I also completed a summer research internship
-  at GTRIâ\x80\x99s Sensors and Electromagnetic Applications Lab, where I developed
-  MATLAB tools to process radar simulation data and validate it using signal processing
-  methods. I am interested in projects that combine AI, high-performance computing,
-  and data science, and Iâ\x80\x99m eager to contribute to collaborative research
-  through the SRP program."
+biography: Hello, I'm a master’s student in Computer Science at Georgia Tech with
+  a focus on machine learning and data-driven systems. My research experience includes
+  training Transformer models for multilingual subjectivity detection on HPC clusters,
+  which resulted in a peer-reviewed paper accepted to CLEF 2025, and building a pipeline
+  to convert drug-related mortality data into FHIR-compliant JSON for integration
+  with HAPI FHIR servers. I also completed a summer research internship at GTRI’s
+  Sensors and Electromagnetic Applications Lab, where I developed MATLAB tools to
+  process radar simulation data and validate it using signal processing methods. I
+  am interested in projects that combine AI, high-performance computing, and data
+  science, and I’m eager to contribute to collaborative research through the SRP program.
 academic_status: Masters Student
 year_in_program: 1st
 research_area: Computer Science
@@ -36,24 +35,20 @@ academic_interests: AI and data science applied to high-performance computing, l
 topical_areas: Applied Computer Science; Artificial Intelligence and Intelligent Systems;
   Computer Science; Informatics, Analytics and Information Science; Statistics and
   Probability; Training; Visualization and Human-Computer Systems
-motivation: "I want to participate in SRP because Iâ\x80\x99m motivated by applied,
-  hands-on research that connects computational methods with real-world data. Over
-  the past year and a half, my entry into research has been challenging, but Iâ\x80\x99ve
-  loved being in an environment where I can keep learning while working on problems
-  that havenâ\x80\x99t been solved before. Projects like training Transformer models
-  for multilingual research at CLEF, building a FHIR-compliant data pipeline in my
-  VIP project, and processing radar simulation data during my GTRI internship have
-  shown me how much I enjoy turning complex data into actionable insights. Through
-  SRP, I hope to continue developing my skills, tackle new applied challenges, and
-  collaborate with mentors and peers who inspire me to keep growing as a researcher."
+motivation: I want to participate in SRP because I’m motivated by applied, hands-on
+  research that connects computational methods with real-world data. Over the past
+  year and a half, my entry into research has been challenging, but I’ve loved being
+  in an environment where I can keep learning while working on problems that haven’t
+  been solved before. Projects like training Transformer models for multilingual research
+  at CLEF, building a FHIR-compliant data pipeline in my VIP project, and processing
+  radar simulation data during my GTRI internship have shown me how much I enjoy turning
+  complex data into actionable insights. Through SRP, I hope to continue developing
+  my skills, tackle new applied challenges, and collaborate with mentors and peers
+  who inspire me to keep growing as a researcher.
 lightning_talk: From Data Infrastructure to Applied AI
 keywords: Data Infrastructure; Applied Machine Learning; Data Pipelines; Transformer
   Models; NLP; High-Performance Computing; FHIR; Radar Data Processing; Reproducible
   AI; Data Validation
 image: "/assets/images/pictures/dionne_bang.jpg"
 ---
-
-## Academic Interests
-
-AI and data science applied to high-performance computing, large datasets, sensor and imaging systems, and computationally intensive, data-driven projects.
 

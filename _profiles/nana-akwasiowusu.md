@@ -27,11 +27,11 @@ major: I'm majoring in Computer Science and minoring in Cybersecurity
 degrees: I'm currently in progress of earning my Bachelor's degree in computer science.
 courses: I have completed Intro to Computer Science I and II, Data Structures and
   Algorithms and Operation Systems.
-academic_interests: "Iâ\x80\x99m interested in artificial intelligence, data science,
-  and high-performance computing, especially how they can be applied to sustainability,
-  automation, and real-world problem solving. I enjoy exploring how computational
-  tools can make systems more efficient, intelligent, and accessible to improve lives
-  and support environmental progress."
+academic_interests: I’m interested in artificial intelligence, data science, and high-performance
+  computing, especially how they can be applied to sustainability, automation, and
+  real-world problem solving. I enjoy exploring how computational tools can make systems
+  more efficient, intelligent, and accessible to improve lives and support environmental
+  progress.
 topical_areas: Applied Computer Science; Computer Science; Informatics, Analytics
   and Information Science
 motivation: I'm Nana Akwasi Owusu Addai, a Computer Science sophomore at Grambling
@@ -58,8 +58,4 @@ keywords: Artificial Intelligence; Machine Learning; Data Science; Sustainabilit
   Human-Centered Computing; Software Engineering; Predictive Modeling; Ethical AI
 image: "/assets/images/pictures/nana_akwasi_owusu.jpg"
 ---
-
-## Academic Interests
-
-Iâm interested in artificial intelligence, data science, and high-performance computing, especially how they can be applied to sustainability, automation, and real-world problem solving. I enjoy exploring how computational tools can make systems more efficient, intelligent, and accessible to improve lives and support environmental progress.
 

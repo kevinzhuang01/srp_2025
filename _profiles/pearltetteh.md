@@ -49,7 +49,3 @@ keywords: Microcapsule Transport; Micropolar Theory; Experiments; Modeling; Para
 image: "/assets/images/pictures/pearl_tetteh.jpg"
 ---
 
-## Academic Interests
-
-I am interested in fluid mechanics, more specifically computational fluid dynamics (CFD) of any sort. I have had the opportunity to use Fortran and the Ansys Fluent software to model 2D and 3D laminar flows. I would like to work on and learn more about uncertainty quantification in CFD.
-

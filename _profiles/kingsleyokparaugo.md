@@ -20,22 +20,18 @@ research_area: Applied Mathematics; Computer Science; Data Science; Mathematics
 major: Computer Science
 degrees: Bachelor Degree/Computer Science/2025
 courses: Programming Language Data Structure Software Engineering
-academic_interests: "Iâ\x80\x99m interested in math, computer science and data science,
-  these topics peak my interest the most."
+academic_interests: I’m interested in math, computer science and data science, these
+  topics peak my interest the most.
 topical_areas: Applied Computer Science; Applied Mathematics; Artificial Intelligence
   and Intelligent Systems; Computer Science; Informatics, Analytics and Information
   Science; Other Computer and Information Sciences; Statistics and Probability
-motivation: "Iâ\x80\x99m motivated by my pure sense of success, moving here from a
-  different country shaped the way I think that I have to work hard for equal opportunity
-  so anytime I feel discouraged I remember where Iâ\x80\x99m coming from and that
-  fuels me to keep going"
-lightning_talk: "AI for Social Impact â\x80\x93 Using Data to Drive Change"
+motivation: I’m motivated by my pure sense of success, moving here from a different
+  country shaped the way I think that I have to work hard for equal opportunity so
+  anytime I feel discouraged I remember where I’m coming from and that fuels me to
+  keep going
+lightning_talk: AI for Social Impact – Using Data to Drive Change
 keywords: AI; Machine Learning; Data Analysis; Social Impact; Python Programming;
   Super Computing; Technology for Good; Automation; Computer Science Research; HPC
 image: "/assets/images/pictures/kingsley_okparaugo.jpg"
 ---
-
-## Academic Interests
-
-Iâm interested in math, computer science and data science, these topics peak my interest the most.
 

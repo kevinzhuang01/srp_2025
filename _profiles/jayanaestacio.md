@@ -8,8 +8,8 @@ institution: University of Washington Tacoma
 organization: University of Washington Tacoma
 department: School of Engineering and Technology
 pronouns: she/her/hers
-biography: "A Computer Science researcher specializing in artificial intelligence
-  for medical imaging. I am currently pursuing a Master of Science in Computer Science
+biography: A Computer Science researcher specializing in artificial intelligence for
+  medical imaging. I am currently pursuing a Master of Science in Computer Science
   and Systems (Data Science track, thesis pathway) at the University of Washington
   Tacoma. Her thesis focuses on developing AI methods for pelvic ultrasound analysis,
   with the goal of advancing early detection of infertility-related diseases such
@@ -20,8 +20,8 @@ biography: "A Computer Science researcher specializing in artificial intelligenc
   by undergraduate research in multimodal generative AI for medical imaging. In addition
   to research, she has experience building full-stack applications, working with machine
   learning pipelines, and leading student technology initiatives. Her long-term goal
-  is to pursue a Ph.D. and contribute to patient-centered AI solutions for womenâ\x80\x99s
-  health diagnostics."
+  is to pursue a Ph.D. and contribute to patient-centered AI solutions for women’s
+  health diagnostics.
 academic_status: Masters Student
 year_in_program: 1st
 research_area: Computer Science; Data Science; Machine Learning/AI
@@ -33,12 +33,12 @@ courses: 'By the time of the summer internship, I will have completed: TCSS 543:
   Analytics TCSS 558: Applied Distributed Computing TCSS 598: Research Seminar TCSS
   700: Thesis Research TCSS 588: Bioinformatics'
 research_experience: "(see resume)"
-academic_interests: "My past research has focused on generative AI in medical imaging,
+academic_interests: My past research has focused on generative AI in medical imaging,
   where I explored multimodal models for diagnostic support of sepsis and clinical
   question answering using datasets such as MIMIC-CXR. Building on this work, my current
-  masterâ\x80\x99s thesis centers on developing AI methods for pelvic ultrasound analysis
+  master’s thesis centers on developing AI methods for pelvic ultrasound analysis
   to support early detection of infertility-related conditions, with a particular
-  focus on pelvic adhesions"
+  focus on pelvic adhesions
 topical_areas: Applied Computer Science; Artificial Intelligence and Intelligent Systems;
   Basic Medicine; Computer Science; Condensed Matter Physics; Health Sciences; Other
   Medical Sciences
@@ -54,8 +54,4 @@ motivation: I am motivated to pursue this internship because it represents an op
 lightning_talk: AI for Early Pelvic Adhesion Detection Sonography Imaging
 keywords: Women's Infertility;Women's Health; Medical Imaging;
 ---
-
-## Academic Interests
-
-My past research has focused on generative AI in medical imaging, where I explored multimodal models for diagnostic support of sepsis and clinical question answering using datasets such as MIMIC-CXR. Building on this work, my current masterâs thesis centers on developing AI methods for pelvic ultrasound analysis to support early detection of infertility-related conditions, with a particular focus on pelvic adhesions
 

@@ -37,18 +37,18 @@ courses: I have completed key Computer Science and Mathematics courses including
   my understanding of data security and mathematical reasoning-skills that directly
   prepare me for computational and data-driven research in sustainability and scientific
   innovation.
-research_experience: "I have conducted research and technical projects across both
+research_experience: 'I have conducted research and technical projects across both
   academic and professional settings. At Youngstown State University, I served as
   a Data Science Research Intern, leading over 25 projects involving Python, SQL,
   and R for data validation and retrieval optimization. I also interned at UR2PhD,
-  where I co-authored the research project â\x80\x9CAdvancing Particle Track Reconstruction:
-  Evaluating Hit Embedding Methods on the TrackML Datasetâ\x80\x9D (Spring 2025, with
-  Aliza Khan). This work compared supervised, graph-neural-network, and transformer-based
+  where I co-authored the research project “Advancing Particle Track Reconstruction:
+  Evaluating Hit Embedding Methods on the TrackML Dataset” (Spring 2025, with Aliza
+  Khan). This work compared supervised, graph-neural-network, and transformer-based
   deep-learning models to improve particle-track reconstruction efficiency in high-energy-physics
   datasets. Additionally, during my Data Engineering Internship at First National
   Bank, I developed automated SQL pipelines and Power BI dashboards to optimize large-scale
   data processing-experience that strengthened my applied research skills in data
-  engineering and computational modeling."
+  engineering and computational modeling.'
 academic_interests: My research interests lie at the intersection of artificial intelligence,
   computational sustainability, and data-driven science. I am particularly passionate
   about using machine-learning and deep-learning methods to address large-scale environmental
@@ -65,25 +65,21 @@ topical_areas: Applied Computer Science; Artificial Intelligence and Intelligent
   Computer Science; Informatics, Analytics and Information Science; Other Computer
   and Information Sciences; Particle and High-Energy Physics; Visualization and Human-Computer
   Systems
-motivation: "I want to participate in the Sustainable Research Pathways program because
+motivation: I want to participate in the Sustainable Research Pathways program because
   it represents everything I value in research collaboration, mentorship, and using
   technology to make a meaningful impact. My journey in computer science and data
   science has shown me how powerful data can be when applied to real-world problems.
   Through my current research on deep learning for scientific data, I have seen how
   computational tools can accelerate discovery. I now want to direct those skills
   toward sustainability an area where innovation can directly improve lives and the
-  environment. Iâ\x80\x99m also drawn to the community that Sustainable Horizons Institute
+  environment. I’m also drawn to the community that Sustainable Horizons Institute
   is building. I come from a background where mentorship and access to opportunities
   made a big difference for me, and I want to be part of a program that values inclusion
   and shared growth. I hope to contribute my technical perspective, learn from diverse
   researchers, and build long-term collaborations that help create more sustainable,
-  data-driven solutions for our world."
+  data-driven solutions for our world.
 lightning_talk: Machine Learning for Computational Sustainability and Scientific Discovery
 keywords: Artificial Intelligence; Machine Learning; Graph Neural Networks; Computational
   Sustainability; Data Science; Scientific Computing
 ---
-
-## Academic Interests
-
-My research interests lie at the intersection of artificial intelligence, computational sustainability, and data-driven science. I am particularly passionate about using machine-learning and deep-learning methods to address large-scale environmental and scientific challenges-such as modeling climate dynamics, optimizing renewable-energy systems, and improving data efficiency for sustainable infrastructure. My recent work in deep learning for particle-track reconstruction sparked my interest in extending these computational methods beyond physics into sustainability domains that rely on complex, high-dimensional data. I aim to develop models that enhance the accuracy, scalability, and interpretability of data analysis for climate and energy applications. Through the Sustainable Research Pathways program, I hope to collaborate with scientists applying AI to real-world sustainability research and to contribute innovative computational approaches that advance data-driven environmental solutions.
 

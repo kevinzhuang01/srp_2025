@@ -42,16 +42,16 @@ academic_interests: I am interested in research at the intersection of artificia
   and human understanding.
 topical_areas: Applied Computer Science; Applied Mathematics; Artificial Intelligence
   and Intelligent Systems; Computer Science; Visualization and Human-Computer Systems
-motivation: "I am currently a sophomore computer science major at Grambling State
-  University and actively working on an AI-authenticity detection research project
-  that utilizes software engineering and data analysis techniques. As I progress through
-  my undergraduate career and gain the necessary skills and knowledge through coursework,
-  research, and self-study, I want to focus my studies on exploring how artificial
-  intelligence and software engineering intersect to create reliable, transparent,
-  and reproducible intelligent systems. I am particularly drawn to this area of research
-  because it allows for the development of AI technologies that are both ethical and
-  impactful in real-world applications. My research thus far has involved developing
-  models and pipelines that could be implemented in software to solve real-world challenges.
+motivation: I am currently a sophomore computer science major at Grambling State University
+  and actively working on an AI-authenticity detection research project that utilizes
+  software engineering and data analysis techniques. As I progress through my undergraduate
+  career and gain the necessary skills and knowledge through coursework, research,
+  and self-study, I want to focus my studies on exploring how artificial intelligence
+  and software engineering intersect to create reliable, transparent, and reproducible
+  intelligent systems. I am particularly drawn to this area of research because it
+  allows for the development of AI technologies that are both ethical and impactful
+  in real-world applications. My research thus far has involved developing models
+  and pipelines that could be implemented in software to solve real-world challenges.
   In Summer 2025, I worked as a Software Engineering Research Intern at the University
   of Illinois Urbana-Champaign, where I built a Python-based pipeline using Pandas,
   AST, and regex to analyze code metrics and improve AI-authenticity detection. Working
@@ -78,9 +78,9 @@ motivation: "I am currently a sophomore computer science major at Grambling Stat
   and grandparents never had the opportunity to go to college. Although I have greatly
   enjoyed the current scope of my research, I would love to explore different avenues
   and applications of data science and artificial intelligence in the Sustainable
-  Horizons Institute â\x80\x93 SRP program. I am particularly interested in developing
-  models that enhance system transparency, reliability, and fairness. The programâ\x80\x99s
-  focus on sustainable, long-term research partnerships and mentorship aligns perfectly
+  Horizons Institute – SRP program. I am particularly interested in developing models
+  that enhance system transparency, reliability, and fairness. The program’s focus
+  on sustainable, long-term research partnerships and mentorship aligns perfectly
   with my goals, as I see collaboration as essential not only to my growth as a researcher
   but also to my development as a future leader in STEM. I am excited to engage with
   experienced researchers, learn from their guidance, and contribute meaningfully
@@ -100,15 +100,11 @@ motivation: "I am currently a sophomore computer science major at Grambling Stat
   school preparation that I have long sought. It will help me achieve what my parents
   never had the opportunity to accomplish. Along the way, I hope to serve as a mentor
   and resource for others, especially for students who lack support in pursuing their
-  educational and research goals."
+  educational and research goals.
 lightning_talk: Building Trustworthy and Scalable AI Systems for Global Impact
 keywords: Artificial intelligence; machine learning; trustworthy AI; data engineering;
   large language models; federated learning; AI for social good; automation; reinforcement
   learning
 image: "/assets/images/pictures/frank_nambeh.jpg"
 ---
-
-## Academic Interests
-
-I am interested in research at the intersection of artificial intelligence and software engineering, particularly in developing systems that improve the reliability and transparency of AI-generated outputs. My previous research experience at the University of Illinois Urbana-Champaign introduced me to the challenges of AI-authenticity detection and inspired my curiosity about how data-driven models can be made more trustworthy and efficient. I am also drawn to exploring how programming tools, automation, and software optimization can enhance reproducibility in machine learning research. Through future research, I hope to contribute to creating innovative and ethical approaches that strengthen the connection between intelligent systems and human understanding.
 

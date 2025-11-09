@@ -63,7 +63,3 @@ motivation: I recently attended the 2025 U.S. Research Software Engineering Conf
 image: "/assets/images/pictures/saul_lopez.jpg"
 ---
 
-## Academic Interests
-
-My academic interests lie in the intersection of computer science, medicine and mental health. My interest particularly lies in how technology can be used to improve diagnostics, treatment, and accessibility in healthcare. As technology becomes more advanced and new discoveries are made, I believe the potential to address challenges within the medical and mental health field become greater as well. My research interests include learning how technology can improve detection of disorders and modeling personalized treatment plans for different individuals, especially those from underserved communities where resources may be difficult to access. I recently attended the U.S Research Software Engineering conference and participated in a workshop on using machine learning and AI to track and predict animal movement. During this workshop, I learned about how these techniques could also be applied in the medical field to track different stages of diseases and conditions. I am excited to continue learning about these applications and how they can advance health care.
-

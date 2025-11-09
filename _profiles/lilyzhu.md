@@ -61,7 +61,3 @@ keywords: Public Health; Medicine; Bioinformatics; Protein Prediction; Biostatis
 image: "/assets/images/pictures/lily_zhu.jpg"
 ---
 
-## Academic Interests
-
-Patient centered research to reduce bias in physicians through training.
-

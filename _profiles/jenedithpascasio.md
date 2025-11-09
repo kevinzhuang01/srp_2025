@@ -28,8 +28,8 @@ research_area: Applied Mathematics; Chemistry; Machine Learning/AI; Materials Sc
 major: Applied Mathematics (in progress). Research focus in computational chemistry,
   theoretical chemistry, and artificial intelligence (DFT, quantum simulations, data-driven
   modeling).
-degrees: "A.S. in Mathematics (expected 2026) â\x80\x93 Palomar College Transferring
-  into B.S. program in Applied Mathematics (Fall 2026)"
+degrees: A.S. in Mathematics (expected 2026) – Palomar College Transferring into B.S.
+  program in Applied Mathematics (Fall 2026)
 courses: I have completed General Chemistry I-II, Calculus I-III, Linear Algebra,
   General Physics I, and Computer Science (CSCI). I will also complete Differential
   Equations and General Physics II. My current research has provided a strong foundation
@@ -67,8 +67,4 @@ keywords: Theoretical Chemistry; Density Functional Theory; Applied Mathematics;
   HPC; Chemistry; Radiation; Materials
 image: "/assets/images/pictures/jenedith_pascasio.jpg"
 ---
-
-## Academic Interests
-
-I'm interested in computational and theoretical chemistry, with a focus on using tools like AI and quantum simulations to accelerate scientific discovery. Beyond simply studying materials, my goal is to apply these methods to address global challenges like sustainable energy and climate change. I believe computational research can have a significant impact by helping to create solutions that benefit both communities and the world.
 

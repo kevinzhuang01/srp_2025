@@ -7,20 +7,20 @@ email: jadeleke@hawk.illinoistech.edu
 institution: Illinois Institute of Technology
 organization: Illinois Institute of Technology
 department: Applied Mathematics
-biography: "Joshua Owolabi Adeleke is a fourth-year PhD candidate in Applied Mathematics
+biography: Joshua Owolabi Adeleke is a fourth-year PhD candidate in Applied Mathematics
   at the Illinois Institute of Technology in Chicago focusing on analysis and partial
   differential equations. His current research focuses on measure-theoretic scalar
-  balance laws, and he has worked on high-dimensional tensor algorithms â\x80\x94
-  such as Tucker-tensor techniques for Kohn-Sham density functional theory. Joshua
-  aims to use mathematics with simulation, and physics, and has had a few national-laboratory
+  balance laws, and he has worked on high-dimensional tensor algorithms — such as
+  Tucker-tensor techniques for Kohn-Sham density functional theory. Joshua aims to
+  use mathematics with simulation, and physics, and has had a few national-laboratory
   appointments. He was a Graduate Student Intern (ST-2) under Nuclear & Particle Physics,
   Astrophysics & Cosmology group at Los Alamos National Laboratory where he worked
   on building a framework for machine-learning algorithms for nuclear scattering,
-  and he is a 2025 summer Research Aide at Argonne National Laboratoryâ\x80\x99s Center
-  for Nanoscale Materials. Besides his passion for mathematics, Joshua relishes taking
+  and he is a 2025 summer Research Aide at Argonne National Laboratory’s Center for
+  Nanoscale Materials. Besides his passion for mathematics, Joshua relishes taking
   leisurely walks and sharing scientific history tales with the younger generation.
   Joshua hopes to combine keen theoretical intuition with a data-driven paradigm to
-  tackle complex problems in physics and technology."
+  tackle complex problems in physics and technology.
 academic_status: PhD Student
 year_in_program: 4th
 research_area: Applied Mathematics; Mathematics; Physics
@@ -41,7 +41,7 @@ academic_interests: My research centers on analysis and partial differential equ
   in fluid and kinetic models.
 topical_areas: Applied Mathematics; Electrical, Electronic, and Information Engineering;
   Fluid and Plasma Physics; Materials Engineering; Statistics and Probability
-motivation: "I am thrilled to engage in the Sustainable Research Pathways (SRP) initiative
+motivation: I am thrilled to engage in the Sustainable Research Pathways (SRP) initiative
   because it is closely aligned with my research priorities as well as my values as
   a scholar committed to inclusive science. As a fourth-year Ph.D. candidate in Applied
   Mathematics at Illinois Institute of Technology, I am involved in the analysis of
@@ -51,21 +51,16 @@ motivation: "I am thrilled to engage in the Sustainable Research Pathways (SRP) 
   Resource (NAIRR) community. The opportunity to work with scientists and engineers
   from all backgrounds will expand my perspective on how AI and advanced mathematics
   can be harnessed together to solve challenging problems in broad research sectors
-  such as materials science, energy, and climate. Equally significant, SRPâ\x80\x99s
-  focus on mentorship and belonging resonates with my own mentoring of undergraduate
-  students as well as outreach to younger students. I hope to develop not just new
-  technical skills and interdisciplinary collaborations, but also meaningful professional
-  connections that embody this programâ\x80\x99s vision of a science and technology
-  ecosystem where everyone belongs, everyone flourishes, and everyone benefits."
-lightning_talk: "Unidirectional Eulerâ\x80\x93Alignment: Entropy, Disintegration,
-  Stability"
-keywords: "Nonlocal Partial Differential Equations; Entropy and Weak Solutions; Measure
-  Disintegration; Collective Dynamics; Eulerâ\x80\x93Alignment Systems; Scientific
-  Machine Learning; Mathematical Physics."
+  such as materials science, energy, and climate. Equally significant, SRP’s focus
+  on mentorship and belonging resonates with my own mentoring of undergraduate students
+  as well as outreach to younger students. I hope to develop not just new technical
+  skills and interdisciplinary collaborations, but also meaningful professional connections
+  that embody this program’s vision of a science and technology ecosystem where everyone
+  belongs, everyone flourishes, and everyone benefits.
+lightning_talk: 'Unidirectional Euler–Alignment: Entropy, Disintegration, Stability'
+keywords: Nonlocal Partial Differential Equations; Entropy and Weak Solutions; Measure
+  Disintegration; Collective Dynamics; Euler–Alignment Systems; Scientific Machine
+  Learning; Mathematical Physics.
 image: "/assets/images/pictures/joshua_adeleke.jpg"
 ---
-
-## Academic Interests
-
-My research centers on analysis and partial differential equations, with a focus on measure-theoretic scalar balance laws and Lie symmetry methods for nonlinear PDEs. I am particularly interested in how symmetry structures and entropy principles govern the existence, uniqueness, and qualitative behavior of weak solutions in fluid and kinetic models.
 

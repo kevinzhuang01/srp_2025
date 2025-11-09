@@ -8,18 +8,18 @@ institution: Loyola University Chicago
 organization: Loyola University Chicago
 department: Department of Computer Science
 pronouns: they/him/any
-biography: "I am a second-year Computer Science Masterâ\x80\x99s student at Loyola
-  University Chicago. I come from an interdisciplinary background; I majored in pre-law
-  during my undergraduate studies before pivoting to CS after teaching myself to code
-  sparked a lasting passion and curiosity. I am deeply fascinated by the semantic
-  representation of information in high-dimensional mathematical space, and my ongoing
-  research reflects this interest. I have built a modular architecture centered around
-  detecting drift in data streams relative to a desired baseline. I enjoy applying
-  this framework to a range of challenges within and beyond machine learning, including
-  hallucination detection in large language models, document collation, and instrument
-  calibration in automated data collection pipelines. Looking ahead, I hope to contribute
-  to equitable and trustworthy AI research, pursue a PhD, and develop scalable, reproducible
-  research software that supports open science and responsible innovation."
+biography: I am a second-year Computer Science Master’s student at Loyola University
+  Chicago. I come from an interdisciplinary background; I majored in pre-law during
+  my undergraduate studies before pivoting to CS after teaching myself to code sparked
+  a lasting passion and curiosity. I am deeply fascinated by the semantic representation
+  of information in high-dimensional mathematical space, and my ongoing research reflects
+  this interest. I have built a modular architecture centered around detecting drift
+  in data streams relative to a desired baseline. I enjoy applying this framework
+  to a range of challenges within and beyond machine learning, including hallucination
+  detection in large language models, document collation, and instrument calibration
+  in automated data collection pipelines. Looking ahead, I hope to contribute to equitable
+  and trustworthy AI research, pursue a PhD, and develop scalable, reproducible research
+  software that supports open science and responsible innovation.
 academic_status: Masters Student
 year_in_program: 2nd
 research_area: Computer Science; Data Science; Machine Learning/AI
@@ -36,14 +36,14 @@ research_experience: I have recently presented research on my software that dete
   is in progress and will be published on arXiv soon. Lyons, H. (2025). A Modular
   Architecture for Detecting Anomalous Data Trends in Research Systems. US Research
   Software Engineering Conference 2025 (USRSE'25), Philadelphia, PA. Zenodo. https://doi.org/10.5281/zenodo.17267058
-academic_interests: "My research interests revolve primarily around the representation
-  of data in high-dimensional mathematical space. Over the past year, Iâ\x80\x99ve
-  been building a modular architecture that segments this space to establish a â\x80\x98ground
-  truthâ\x80\x99 of meaning for automated systems of all kinds. Iâ\x80\x99m passionate
-  about applying this core architectural concept to diverse challenges in machine
-  learning and beyond. I enjoy both developing theories and building modular, elegant
-  software to test and refine them. My big-picture goal is to make automated systems
-  across all domains more trustworthy, efficient, and robust."
+academic_interests: My research interests revolve primarily around the representation
+  of data in high-dimensional mathematical space. Over the past year, I’ve been building
+  a modular architecture that segments this space to establish a ‘ground truth’ of
+  meaning for automated systems of all kinds. I’m passionate about applying this core
+  architectural concept to diverse challenges in machine learning and beyond. I enjoy
+  both developing theories and building modular, elegant software to test and refine
+  them. My big-picture goal is to make automated systems across all domains more trustworthy,
+  efficient, and robust.
 topical_areas: Applied Computer Science; Artificial Intelligence and Intelligent Systems;
   Computer Science; Informatics, Analytics and Information Science; Other Computer
   and Information Sciences; Training
@@ -72,8 +72,4 @@ keywords: hallucination; interpretability; drift; supervision; embeddings; centr
   reproducibility; reasoning; signals; alignment; safety; narratives
 image: "/assets/images/pictures/hattie_lyons.jpg"
 ---
-
-## Academic Interests
-
-My research interests revolve primarily around the representation of data in high-dimensional mathematical space. Over the past year, Iâve been building a modular architecture that segments this space to establish a âground truthâ of meaning for automated systems of all kinds. Iâm passionate about applying this core architectural concept to diverse challenges in machine learning and beyond. I enjoy both developing theories and building modular, elegant software to test and refine them. My big-picture goal is to make automated systems across all domains more trustworthy, efficient, and robust.
 

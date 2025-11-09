@@ -8,22 +8,22 @@ institution: North Carolina Agricultural and Technical
 organization: North Carolina Agricultural and Technical
 department: Computer Science
 pronouns: she/her/hers
-biography: "Wisdom Walker is a Computer Science student at North Carolina A&T State
+biography: Wisdom Walker is a Computer Science student at North Carolina A&T State
   University and the founder of Sweet Design Websites & Logos LLC. Passionate about
   technology, digital creativity, and problem-solving, Wisdom has developed expertise
   in web design, programming languages such as HTML, CSS, JavaScript, Python, and
   Java, and platforms including WordPress, Shopify, and GitHub. During their internship
-  with Lenovoâ\x80\x99s Ready, Set, App Hackathon, Wisdom mentored student coding
-  teams, coordinated events, and created tutorials, newsletters, and design materials
-  to support participants. They have also worked as a web development assistant at
-  I.A.M Digital Marketing Agency and as a computer technician with Eliminate the Digital
-  Divide, gaining hands-on experience in building and maintaining technology solutions.
-  Recognized nationally for innovation and computing excellence, Wisdom has received
-  awards including the NCWIT Aspirations in Computing Award (2024 & 2025) and the
-  Ready, Set, App Hackathon Innovation Award (2023). Driven by creativity, leadership,
-  and a commitment to helping others harness technology, Wisdom seeks opportunities
-  to contribute to innovative projects, mentor future tech leaders, and grow as a
-  professional in dynamic tech environments."
+  with Lenovo’s Ready, Set, App Hackathon, Wisdom mentored student coding teams, coordinated
+  events, and created tutorials, newsletters, and design materials to support participants.
+  They have also worked as a web development assistant at I.A.M Digital Marketing
+  Agency and as a computer technician with Eliminate the Digital Divide, gaining hands-on
+  experience in building and maintaining technology solutions. Recognized nationally
+  for innovation and computing excellence, Wisdom has received awards including the
+  NCWIT Aspirations in Computing Award (2024 & 2025) and the Ready, Set, App Hackathon
+  Innovation Award (2023). Driven by creativity, leadership, and a commitment to helping
+  others harness technology, Wisdom seeks opportunities to contribute to innovative
+  projects, mentor future tech leaders, and grow as a professional in dynamic tech
+  environments.
 academic_status: Undergraduate Student
 year_in_program: 1st
 research_area: Computer Science; Machine Learning/AI
@@ -35,16 +35,16 @@ courses: 'I have completed multiple computer science and related courses, includ
   Programming, and Database Foundations (CST 110T) Applied Java Programming (CST 240)
   Advanced Java Programming (CST 251T) Computer Design Basics (GCS 151T) College Algebra
   and Trigonometry for Engineering Science (MATH 103, MATH 104)'
-academic_interests: "I am passionate about software development, web design, and building
+academic_interests: I am passionate about software development, web design, and building
   innovative applications that solve real-world problems. I enjoy exploring programming,
   developing functional and creative digital solutions, and learning about emerging
   technologies such as AI, cybersecurity, and database management. I am particularly
-  motivated to use technology to make a positive impact on peopleâ\x80\x99s lives,
-  such as supporting victims of human trafficking, helping children from broken homes,
-  and creating tools that empower underserved communities. I am also interested in
-  collaborative projects that allow me to apply my technical skills while mentoring
-  and learning from peers, combining creativity, problem-solving, and social impact
-  to drive meaningful change."
+  motivated to use technology to make a positive impact on people’s lives, such as
+  supporting victims of human trafficking, helping children from broken homes, and
+  creating tools that empower underserved communities. I am also interested in collaborative
+  projects that allow me to apply my technical skills while mentoring and learning
+  from peers, combining creativity, problem-solving, and social impact to drive meaningful
+  change.
 topical_areas: Artificial Intelligence and Intelligent Systems; Computer Science
 motivation: 'Participating in the Sustainable Research Pathway program will allow
   me to research ways on how to help people with technology. Starting my freshman
@@ -71,8 +71,4 @@ keywords: AI for safety; online predator detection; child protection; ethical AI
   forensics.
 image: "/assets/images/pictures/wisdom_walker.jpg"
 ---
-
-## Academic Interests
-
-I am passionate about software development, web design, and building innovative applications that solve real-world problems. I enjoy exploring programming, developing functional and creative digital solutions, and learning about emerging technologies such as AI, cybersecurity, and database management. I am particularly motivated to use technology to make a positive impact on peopleâs lives, such as supporting victims of human trafficking, helping children from broken homes, and creating tools that empower underserved communities. I am also interested in collaborative projects that allow me to apply my technical skills while mentoring and learning from peers, combining creativity, problem-solving, and social impact to drive meaningful change.
 

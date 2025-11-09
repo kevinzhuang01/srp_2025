@@ -26,15 +26,15 @@ degrees: Bachelor of Science in Computer Science, Expected May 2027, Iowa State 
 courses: Data Structures and Algorithms, Machine Learning, Computer Vision, Artificial
   Intelligence, Software Engineering, Database Management Systems, and Probability
   & Statistics.
-research_experience: "I have conducted research at Iowa State University through the
+research_experience: 'I have conducted research at Iowa State University through the
   Institute for Transportation and FAST-TrAC. My work focuses on applying AI, computer
   vision, and data-driven methods to transportation and infrastructure systems. Selected
-  Publications: 1. Author, CTRG 2025 (Accepted) â\x80\x93 SignalVerse: Harnessing
-  LLMs to Revolutionize Traffic Signal Management 2. Co-Author, Remote Sensing, MDPI
-  2025 â\x80\x93 Uncrewed Aerial Vehicle-Based Automatic System for Seat Belt Compliance
-  Detection at Stop-Controlled Intersections These projects involved implementing
-  LLMs, computer vision algorithms, and automation pipelines to improve traffic analysis,
-  infrastructure monitoring, and safety compliance."
+  Publications: 1. Author, CTRG 2025 (Accepted) – SignalVerse: Harnessing LLMs to
+  Revolutionize Traffic Signal Management 2. Co-Author, Remote Sensing, MDPI 2025
+  – Uncrewed Aerial Vehicle-Based Automatic System for Seat Belt Compliance Detection
+  at Stop-Controlled Intersections These projects involved implementing LLMs, computer
+  vision algorithms, and automation pipelines to improve traffic analysis, infrastructure
+  monitoring, and safety compliance.'
 academic_interests: My research interests lie at the intersection of artificial intelligence,
   computer vision, and sustainability. I focus on using deep learning and data-driven
   modeling to make infrastructure systems smarter and safer. I am particularly interested
@@ -43,9 +43,9 @@ academic_interests: My research interests lie at the intersection of artificial 
 topical_areas: Applied Computer Science; Artificial Intelligence and Intelligent Systems;
   Civil Engineering; Computer Science; Informatics, Analytics and Information Science;
   Visualization and Human-Computer Systems
-motivation: "Iâ\x80\x99m applying to the Sustainable Research Pathways program because
-  I want to contribute to sustainable, AI-driven solutions that improve how we design
-  and operate real-world systems. As an undergraduate researcher at Iowa State Universityâ\x80\x99s
+motivation: I’m applying to the Sustainable Research Pathways program because I want
+  to contribute to sustainable, AI-driven solutions that improve how we design and
+  operate real-world systems. As an undergraduate researcher at Iowa State University’s
   Institute for Transportation, I have worked on projects combining computer vision,
   data science, and infrastructure engineering to analyze vehicle behavior and optimize
   traffic safety. Through this experience, I saw how technology can directly impact
@@ -56,15 +56,11 @@ motivation: "Iâ\x80\x99m applying to the Sustainable Research Pathways program 
   give me exposure to interdisciplinary research and mentorship from experts across
   national labs. I aspire to become a researcher who merges technical innovation with
   sustainability goals to drive smarter, safer, and more equitable infrastructure
-  systems."
+  systems.
 lightning_talk: Exploring AI and Generative Models for Intelligent Systems
 keywords: Artificial Intelligence; Generative Models; Machine Learning; Java; Computer
   Vision; Data Analytics; OCR; RAG; Python; SQL; Tableau; Cloud Computing; Autonomous
   Systems
 image: "/assets/images/pictures/rishabh_jain.jpg"
 ---
-
-## Academic Interests
-
-My research interests lie at the intersection of artificial intelligence, computer vision, and sustainability. I focus on using deep learning and data-driven modeling to make infrastructure systems smarter and safer. I am particularly interested in how AI can enhance transportation efficiency, climate resilience, and real-time decision-making.
 

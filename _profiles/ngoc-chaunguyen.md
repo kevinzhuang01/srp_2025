@@ -70,7 +70,3 @@ keywords: software; machine learning; deep learning; reinforce learning; artific
 image: "/assets/images/pictures/ngoc_chau_nguyen.jpg"
 ---
 
-## Academic Interests
-
-I believe software is a tool designed to solve problems, and it is essential for me to develop software that increases scientists' productivity while minimizing experimental errors. My goal is to become a software engineer and create meaningful software that advances scientific breakthroughs. I am excited to embrace the era of Artificial Intelligence, where many tasks can be automated, leading to a future where complex jobs are performed accurately and efficiently. I am interested in the intersection of computer science with medicine, economics, and materials engineering.
-

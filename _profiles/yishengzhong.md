@@ -27,21 +27,21 @@ year_in_program: 2nd
 research_area: Computer Science; Engineering; Machine Learning/AI; other
 major: Cybersecurity, with a focus on the security and privacy of Artificial Intelligence
   and Large Language Models (LLMs).
-degrees: "1. Ph.D. in Information Technology (Cybersecurity), George Mason University,
-  in progress (2024â\x80\x93Present) 2. M.S. in Cyber Security, University of Chinese
-  Academy of Sciences, 2024 3. B.S. in Computer Science, Harbin University of Science
-  and Technology, 2021"
-courses: "â\x80¢ Machine Learning â\x80¢ Deep Learning â\x80¢ Large Language Models
-  and Application â\x80¢ Natural Language Processing â\x80¢ Security Protocols â\x80¢
-  Applied Cryptography â\x80¢ Data Structures, Algorithms, and Pattern Recognition
-  These courses, combined with my research background, have prepared me to contribute
-  effectively to a summer internship experience in computer science and AI security."
-research_experience: "â\x80¢ Web Intellectual Property at Risk: Preventing Unauthorized
-  Real-Time Retrieval by Large Language Models, EMNLP 2025. â\x80¢ Hierarchical Federated
-  Unlearning for Large Language Models, FedKDD 2025. â\x80¢ PROFL: A Privacy-Preserving
+degrees: 1. Ph.D. in Information Technology (Cybersecurity), George Mason University,
+  in progress (2024–Present) 2. M.S. in Cyber Security, University of Chinese Academy
+  of Sciences, 2024 3. B.S. in Computer Science, Harbin University of Science and
+  Technology, 2021
+courses: "• Machine Learning • Deep Learning • Large Language Models and Application
+  • Natural Language Processing • Security Protocols • Applied Cryptography • Data
+  Structures, Algorithms, and Pattern Recognition These courses, combined with my
+  research background, have prepared me to contribute effectively to a summer internship
+  experience in computer science and AI security."
+research_experience: "• Web Intellectual Property at Risk: Preventing Unauthorized
+  Real-Time Retrieval by Large Language Models, EMNLP 2025. • Hierarchical Federated
+  Unlearning for Large Language Models, FedKDD 2025. • PROFL: A Privacy-Preserving
   Federated Learning Method with Stringent Defense Against Poisoning Attacks, CSCWD
-  2023. â\x80¢ DUET: Distilled LLM Unlearning from an Efficiently Contextualized Teacher,
-  under review at ICLR 2026. â\x80¢ CATNIP: LLM Unlearning via Calibrated and Tokenized
+  2023. • DUET: Distilled LLM Unlearning from an Efficiently Contextualized Teacher,
+  under review at ICLR 2026. • CATNIP: LLM Unlearning via Calibrated and Tokenized
   Negative Preference Alignment, under review at ICLR 2026."
 academic_interests: My academic interests lie in the security and privacy of AI systems,
   particularly large language models. I focus on LLM unlearning, safety alignment,
@@ -50,22 +50,18 @@ academic_interests: My academic interests lie in the security and privacy of AI 
   My long-term goal is to advance methods that make AI systems more secure, trustworthy,
   and privacy-conscious.
 topical_areas: Artificial Intelligence and Intelligent Systems; Computer Science
-motivation: "I want to join Sustainable Research Pathways to step outside my home
-  lab and learn from other institutions and mentors. My work centers on AI security
-  and privacy for large language models, but Iâ\x80\x99m intentionally looking to
-  see different areas and research styles so I donâ\x80\x99t get tunnel vision. Working
-  with people who tackle problems in different ways will push my critical thinking
-  and help me look at questions from new angles. I also hope to build real collaborationsâ\x80\x94meeting
-  potential partners now for projects we can pursue over the next few years. I care
-  about teams where people from different backgrounds can do good work together. Iâ\x80\x99m
-  not chasing titles or buzzwords; Iâ\x80\x99m looking for honest conversations, useful
-  feedback, and chances to contribute. Iâ\x80\x99ll bring experience in AI security,
-  solid research and coding habits, and a willingness to share what I know while learning
-  from others. If selected, I plan to show up, do the work, and be a reliable collaborator."
+motivation: I want to join Sustainable Research Pathways to step outside my home lab
+  and learn from other institutions and mentors. My work centers on AI security and
+  privacy for large language models, but I’m intentionally looking to see different
+  areas and research styles so I don’t get tunnel vision. Working with people who
+  tackle problems in different ways will push my critical thinking and help me look
+  at questions from new angles. I also hope to build real collaborations—meeting potential
+  partners now for projects we can pursue over the next few years. I care about teams
+  where people from different backgrounds can do good work together. I’m not chasing
+  titles or buzzwords; I’m looking for honest conversations, useful feedback, and
+  chances to contribute. I’ll bring experience in AI security, solid research and
+  coding habits, and a willingness to share what I know while learning from others.
+  If selected, I plan to show up, do the work, and be a reliable collaborator.
 image: "/assets/images/pictures/yisheng_zhong.jpg"
 ---
-
-## Academic Interests
-
-My academic interests lie in the security and privacy of AI systems, particularly large language models. I focus on LLM unlearning, safety alignment, and defense against unauthorized model extraction. I am also interested in privacy-preserving and Byzantine-robust federated learning, as well as adversarial machine learning. My long-term goal is to advance methods that make AI systems more secure, trustworthy, and privacy-conscious.
 

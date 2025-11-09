@@ -46,7 +46,3 @@ motivation: As a computer science student with some experience in backend and in
 image: "/assets/images/pictures/elton_baidoo.jpg"
 ---
 
-## Academic Interests
-
-Artificial Intelligence, Machine Learning, and Computer Vision, with an emphasis on developing models to improve automation and decision-making as this is something I have explored and have a project on. I am also open to roles that is studying how intuitive design and intelligent systems can improve accessibility and user engagement.
-

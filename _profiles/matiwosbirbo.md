@@ -8,13 +8,13 @@ institution: Louisiana State University
 organization: Louisiana State University
 department: Computer Science
 pronouns: he/him/his
-biography: "Growing up across two continents, I developed resilience, curiosity, and
+biography: Growing up across two continents, I developed resilience, curiosity, and
   a commitment to excellence that continue to shape my academic journey. Born in Asella,
   Ethiopia, and raised in the United States, I gained a deep appreciation for both
   my cultural roots and the value of global perspectives. My early passion for math
   and science led me to participate in programs such as Science Olympiad, robotics,
   and LaunchCode, where I learned to apply technology to real-world problems. As a
-  member of the Memphis MechWarriors robotics team and a participant in the Governorâ\x80\x99s
+  member of the Memphis MechWarriors robotics team and a participant in the Governor’s
   School for the Sciences and Engineering, I explored programming, electrical systems,
   and advanced research topics at Oak Ridge National Laboratory. These experiences
   inspired me to pursue Computer Science at the University of Memphis, where I served
@@ -24,7 +24,7 @@ biography: "Growing up across two continents, I developed resilience, curiosity,
   and privacy-preserving AI. I aspire to develop ethical, transparent, and sustainable
   AI systems that advance technological innovation, promote social responsibility,
   and foster inclusive scientific collaboration in line with the Sustainable Research
-  Pathway mission."
+  Pathway mission.
 academic_status: PhD Student
 year_in_program: 2nd
 research_area: Computer Science; Data Science; Machine Learning/AI
@@ -70,8 +70,4 @@ keywords: machine learning; artificial intelligence; software engineering; auton
   AI; deep learning; social computing
 image: "/assets/images/pictures/matiwos_birbo.jpg"
 ---
-
-## Academic Interests
-
-My research interests are also deeply rooted in machine learning, artificial intelligence, software engineering, autonomous vehicles, cloud computing, and deep learning. My current research, supervised by Dr. Aisha Ali-Gombe, is dedicated to understanding and mitigating how LLMs may memorize sensitive user data, cache inputs, and interact with third-party applications. I am developing and deploying privacy-preserving ML methods that ensure both security and fairness. I aim to protect consumers and critical infrastructures by creating robust mitigation strategies for AI systems integrated into essential real-world applications, including mobile and cloud-based platforms.
 

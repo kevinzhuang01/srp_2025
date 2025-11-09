@@ -107,6 +107,11 @@ layout: default
       <h3>Lightning Talk Title</h3>
       <p>{{ page.lightning_talk }}</p>
     {% endif %}
+    
+    {% if page.keywords and page.keywords != "" %}
+      <h3>Keywords (Maximum 20 words)</h3>
+      <p>{{ page.keywords }}</p>
+    {% endif %}
   </div>
 
   <div class="profile-content">

@@ -8,24 +8,24 @@ institution: Grambling State University
 organization: Grambling State University
 department: Computer Science
 pronouns: He/Him/His
-biography: "Augustine is a junior at Grambling State University majoring in Computer
+biography: Augustine is a junior at Grambling State University majoring in Computer
   Science. His academic and research interests span Software Engineering, Mathematics,
   Machine Learning, and Artificial Intelligence. He is particularly interested in
   combining mathematical modeling and AI to design interpretable, efficient, and scalable
   systems. During his NSF REU at Louisiana Tech University, Augustine developed an
-  â\x84\x93â\x82\x81 trend filtering model for financial time series, achieving improved
-  accuracy over the Hodrickâ\x80\x93Prescott filter in detecting structural breaks.
-  He is currently conducting research on packet-level anomaly detection, exploring
-  methods such as autoencoders, ensemble learning, and transformer-based architectures
-  for network security applications. Beyond research, Augustine has interned as a
-  Software Engineer at Afterquery, a Y Combinatorâ\x80\x93backed startup, where he
-  contributed to building scalable data infrastructure tools. He also served as a
-  Software Engineering Fellow at eBay, gaining experience in backend systems and collaborative
-  software development. He has presented his NSF poster work at the US Research Software
-  Engineer Conference (USRSE 2025) and the University of Louisiana System AI in Education
-  Summit (2025), sharing insights on computational modeling and AI adoption in education.
-  Augustine aims to pursue graduate study at the intersection of software engineering,
-  mathematics, and intelligent systems."
+  ℓ₁ trend filtering model for financial time series, achieving improved accuracy
+  over the Hodrick–Prescott filter in detecting structural breaks. He is currently
+  conducting research on packet-level anomaly detection, exploring methods such as
+  autoencoders, ensemble learning, and transformer-based architectures for network
+  security applications. Beyond research, Augustine has interned as a Software Engineer
+  at Afterquery, a Y Combinator–backed startup, where he contributed to building scalable
+  data infrastructure tools. He also served as a Software Engineering Fellow at eBay,
+  gaining experience in backend systems and collaborative software development. He
+  has presented his NSF poster work at the US Research Software Engineer Conference
+  (USRSE 2025) and the University of Louisiana System AI in Education Summit (2025),
+  sharing insights on computational modeling and AI adoption in education. Augustine
+  aims to pursue graduate study at the intersection of software engineering, mathematics,
+  and intelligent systems.
 academic_status: Undergraduate Student
 year_in_program: 3rd
 research_area: Applied Mathematics; Computer Science; Data Science; Engineering; Machine
@@ -36,21 +36,20 @@ courses: Data Structures and Algorithms Computer Architecture Software Engineeri
   Object-Oriented Programming Machine Learning Deep Learning Database Systems System
   Design/ Distributed Systems Linear Algebra Numerical Methods Abstract Algebra Probability
   and Statistics Discrete Mathematics Chemistry Physics
-research_experience: "I conducted research through the NSF Research Experiences for
+research_experience: 'I conducted research through the NSF Research Experiences for
   Undergraduates (REU) program at Louisiana Tech University, where I developed and
-  analyzed an â\x84\x93â\x82\x81 trend filtering model to detect structural breaks
-  in S&P 500 data, comparing its performance to the Hodrickâ\x80\x93Prescott filter.
-  The results are being prepared for publication. I am also engaged in an ongoing
-  research project at Grambling State University, focusing on packet-level anomaly
-  detection using autoencoders, ensemble methods, and transformer-based architectures
-  for network security applications. In addition, I have completed several technical
-  projects through coursework and internships, including backend system design, distributed
-  computing, and data infrastructure development during my Software Engineering Internship
-  at Afterquery (Y Combinator startup) and Software Engineering Fellowship at eBay.
-  Presentations: US Research Software Engineer Conference (USRSE 2025) â\x80\x94 Presented
-  NSF REU research on trend filtering methods. University of Louisiana System AI in
-  Education Summit (2025) â\x80\x94 Presented on AI adoption and student engagement
-  in higher education."
+  analyzed an ℓ₁ trend filtering model to detect structural breaks in S&P 500 data,
+  comparing its performance to the Hodrick–Prescott filter. The results are being
+  prepared for publication. I am also engaged in an ongoing research project at Grambling
+  State University, focusing on packet-level anomaly detection using autoencoders,
+  ensemble methods, and transformer-based architectures for network security applications.
+  In addition, I have completed several technical projects through coursework and
+  internships, including backend system design, distributed computing, and data infrastructure
+  development during my Software Engineering Internship at Afterquery (Y Combinator
+  startup) and Software Engineering Fellowship at eBay. Presentations: US Research
+  Software Engineer Conference (USRSE 2025) — Presented NSF REU research on trend
+  filtering methods. University of Louisiana System AI in Education Summit (2025)
+  — Presented on AI adoption and student engagement in higher education.'
 academic_interests: I am deeply interested in the intersection of software engineering,
   mathematics, and artificial intelligence. My goal is to understand how mathematical
   modeling can improve the design and reliability of intelligent systems while maintaining
@@ -87,13 +86,9 @@ motivation: Modern research depends on software, yet the people and practices be
   to a community that believes inclusive, well-crafted science is the key to lasting
   impact.
 lightning_talk: AI and HPC Integration for Scalable Scientific Workflows
-keywords: "AI for Science; Distributed ML; HPC Systems; Scientific Computing; Numerical
-  Optimization; Workflow Automation; AIâ\x80\x93HPC Co-Design; Data-Intensive Science;
-  Applied AI Research"
+keywords: AI for Science; Distributed ML; HPC Systems; Scientific Computing; Numerical
+  Optimization; Workflow Automation; AI–HPC Co-Design; Data-Intensive Science; Applied
+  AI Research
 image: "/assets/images/pictures/augustine_manu_frimpong.jpg"
 ---
-
-## Academic Interests
-
-I am deeply interested in the intersection of software engineering, mathematics, and artificial intelligence. My goal is to understand how mathematical modeling can improve the design and reliability of intelligent systems while maintaining transparency and efficiency. I enjoy studying how abstract mathematical ideas can be translated into practical tools that enhance the performance and interpretability of AI models. My recent research has explored time-series modeling and anomaly detection, where I developed and evaluated trend filtering techniques for financial data and investigated deep learning methods such as autoencoders and transformer architectures for network-level anomaly detection. These experiences have strengthened my appreciation for the balance between theoretical rigor and computational implementation. I am also passionate about the role of software engineering in research, particularly in building reproducible and scalable systems for scientific computing and machine learning. Looking ahead, I hope to continue working at the intersection of mathematics, algorithms, and intelligent systems to develop reliable, interpretable, and high-impact computational solutions.
 

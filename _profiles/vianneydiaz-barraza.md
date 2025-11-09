@@ -10,7 +10,7 @@ department: Engineering
 pronouns: she/her
 biography: Born in Chicago, Illinois, in the same year that space exploration advanced
   with rovers like Opportunity on Mars, I grew up for 17 years in Durango, Mexico.
-  Later, my family and I moved to JuÃ¡rez City, Chihuahua, looking for better opportunities.
+  Later, my family and I moved to Juárez City, Chihuahua, looking for better opportunities.
   I completed my high school studies at CBTIS 128, graduating with honors and earning
   a technical degree in Programming. During high school, I developed projects that
   strengthened my problem-solving and coding skills, sparking my interest in combining
@@ -78,8 +78,4 @@ lightning_talk: High-Throughput Validation of Nuclear Matter Equations of State
 keywords: High-Performance Computing; Machine Learning; Signal Processing; Telecommunications;
   Data Analysis; Computational Physics; Numerical Methods; Artificial Intelligence
 ---
-
-## Academic Interests
-
-I have strong interest in AI/machine learning and software development for research purposes. Also I'm curious about hardware design and adaptability of software for embeded systems, or automazition of processes applied in research projects.
 

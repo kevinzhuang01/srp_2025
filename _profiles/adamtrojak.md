@@ -73,13 +73,9 @@ motivation: I would like to participate in this program because it would connect
   me most, accelerate my career goals, and to contribute to valuable research.
 lightning_talk: Adam Trojak- Transformative Experiences, Academic Excellence, and
   Exploring New Frontiers
-keywords: "High Performance Computing; AI; Software Development; Cybersecurity; Robotics;
-  Research; Machine Learning; Super computing; â\x80\x8BSoftware; Optimization; HPC;
-  Programming; Coding; Artificial Intelligence"
+keywords: High Performance Computing; AI; Software Development; Cybersecurity; Robotics;
+  Research; Machine Learning; Super computing; ​Software; Optimization; HPC; Programming;
+  Coding; Artificial Intelligence
 image: "/assets/images/pictures/adam_trojak.jpg"
 ---
-
-## Academic Interests
-
-I am passionate about HPC, AI training, Cybersecurity, Robotics, Energy Systems, Data Visualization, and Software Development. I love programming, and I am looking forward to use my programming skills to contribute to research in the areas that I am passionate in.
 

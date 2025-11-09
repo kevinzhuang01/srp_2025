@@ -28,19 +28,19 @@ research_area: Computer Science; Data Science; Machine Learning/AI
 major: Doctor of Philosophy (Ph.D.) Major in Computer Science (Software Systems Concentration
   Entering with Bachelor's Degree)
 degrees: Bachelors Of Arts in Computer Science with a Minor in Mathematics
-courses: "Iâ\x80\x99ve built my preparation for a summer internship through both classes
-  and hands-on experiences. In school, Iâ\x80\x99ve taken courses like Introduction
-  to Data Science, Machine Learning, Database Systems, and Biostatistics, which gave
-  me a strong foundation in programming, statistics, and working with real-world data.
-  I also took Health Informatics, which showed me how data connects to patient care
-  and healthcare decision-making. Outside the classroom, I worked as a Data Science
-  Intern at OpenLending (Sept-Dec 22-23), where I learned how to approach problems
-  from a business perspective. More recently, I was part of the NCATS AIM-AHEAD Cohort
-  2 Program (Janâ\x80\x93Sept 2024), where I collaborated with a multidisciplinary
-  team to analyze National COVID Cohort Collaborative (N3C) data. We focused on understanding
-  Long COVID and respiratory complications, and I helped engineer features, run analyses,
-  and uncover disparities. These experiences taught me not only technical skills but
-  also how to work on a team and connect data science to real-world impact."
+courses: I’ve built my preparation for a summer internship through both classes and
+  hands-on experiences. In school, I’ve taken courses like Introduction to Data Science,
+  Machine Learning, Database Systems, and Biostatistics, which gave me a strong foundation
+  in programming, statistics, and working with real-world data. I also took Health
+  Informatics, which showed me how data connects to patient care and healthcare decision-making.
+  Outside the classroom, I worked as a Data Science Intern at OpenLending (Sept-Dec
+  22-23), where I learned how to approach problems from a business perspective. More
+  recently, I was part of the NCATS AIM-AHEAD Cohort 2 Program (Jan–Sept 2024), where
+  I collaborated with a multidisciplinary team to analyze National COVID Cohort Collaborative
+  (N3C) data. We focused on understanding Long COVID and respiratory complications,
+  and I helped engineer features, run analyses, and uncover disparities. These experiences
+  taught me not only technical skills but also how to work on a team and connect data
+  science to real-world impact.
 research_experience: 'My work has been published in peer-reviewed venues, including
   a study on predicting Long COVID using National COVID Cohort Collaborative (N3C)
   data presented at the IEEE International Conference on Healthcare Informatics. I
@@ -55,21 +55,17 @@ academic_interests: My research and academic interests focus on the intersection
   about unbiased and fair AI, ensuring that predictive insights are actionable and
   equitable.
 topical_areas: Computer Science
-motivation: "I want to participate in the Sustainable Research Pathways program because
+motivation: I want to participate in the Sustainable Research Pathways program because
   it aligns perfectly with my passion for applying data science and AI to real-world
   problems while engaging with a diverse community. I am excited by the opportunity
   to work on NSF NAIRR projects and contributing my own experience in healthcare analytics
   and machine learning. I hope to explore new approaches to creating fair and interpretable
-  models. Beyond the technical experience, I value the programâ\x80\x99s emphasis
-  on mentorship and community building. Ultimately, I hope this program will strengthen
-  my ability to conduct impactful, inclusive research."
+  models. Beyond the technical experience, I value the program’s emphasis on mentorship
+  and community building. Ultimately, I hope this program will strengthen my ability
+  to conduct impactful, inclusive research.
 lightning_talk: AI & Data Science for Health and Learning
 keywords: machine learning, AI, data science, healthcare analytics, prediction models,
   graph clustering, topic modeling, chronic conditions, clinical data, big data
 image: "/assets/images/pictures/mirna_elizondo.jpg"
 ---
-
-## Academic Interests
-
-My research and academic interests focus on the intersection of data science, machine learning, and healthcare, particularly in understanding and improving outcomes for patients with chronic diseases such as diabetes and heart failure. I am interested in using large-scale clinical datasets to identify risk factors, uncover health disparities, and develop predictive models. I am also passionate about unbiased and fair AI, ensuring that predictive insights are actionable and equitable.
 

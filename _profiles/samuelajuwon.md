@@ -31,25 +31,21 @@ topical_areas: Applied Computer Science; Artificial Intelligence and Intelligent
   Computer Science; Informatics, Analytics and Information Science; Other Computer
   and Information Sciences; Other Engineering and Technologies; Visualization and
   Human-Computer Systems
-motivation: "I am eager to participate in Sustainable Research Pathways because I
-  am deeply committed to advancing equitable and innovative approaches in science
-  and technology. The programâ\x80\x99s mission to foster inclusive communities resonates
-  strongly with me, as I have seen firsthand how diverse perspectives drive more creative
-  and robust solutions. I hope to engage meaningfully with faculty, peers, and professionals
+motivation: I am eager to participate in Sustainable Research Pathways because I am
+  deeply committed to advancing equitable and innovative approaches in science and
+  technology. The program’s mission to foster inclusive communities resonates strongly
+  with me, as I have seen firsthand how diverse perspectives drive more creative and
+  robust solutions. I hope to engage meaningfully with faculty, peers, and professionals
   through the summer project experience, contributing my skills while learning from
   others. Beyond technical growth, I aim to build lasting connections within the community,
   gain mentorship in navigating research pathways, and explore applications of AI
   in impactful ways. Ultimately, I want to leverage this experience to advance research
   that not only pushes scientific boundaries but also ensures accessibility, representation,
-  and benefit for all communities."
+  and benefit for all communities.
 lightning_talk: Training Intelligent Neural Networks for Real-World Vision Applications
 keywords: Artificial Intelligence; Computer Vision; Deep Learning; Machine Learning;
   Convolutional Neural Networks; AI for Cybersecurity;Intelligent Systems; Robotics;
   Trustworthy AI
 image: "/assets/images/pictures/samuel_ajuwon.jpg"
 ---
-
-## Academic Interests
-
-I have interest in Computer Vision, deep learning, Convolution neural networks, and also Robotics.
 

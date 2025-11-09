@@ -29,11 +29,10 @@ academic_status: PhD Student
 year_in_program: 5th
 research_area: Computer Science; Machine Learning/AI; other
 major: Computer Science (Computer Vision, Machine Learning)
-degrees: "2021â\x80\x93Ongoing PhD, Computer Science, University of Maryland, Baltimore
-  County, Advisor: Tejas Gokhale. 2021â\x80\x932023 Masters of Science, Computer Science,
-  University of Maryland, Baltimore County, Academic Supervisor: Tim Oates, David
-  Chapman. 2013â\x80\x932017 Bachelor of Science, Computer Science, BRAC University,
-  Advisor: Suraiya Tairin"
+degrees: '2021–Ongoing PhD, Computer Science, University of Maryland, Baltimore County,
+  Advisor: Tejas Gokhale. 2021–2023 Masters of Science, Computer Science, University
+  of Maryland, Baltimore County, Academic Supervisor: Tim Oates, David Chapman. 2013–2017
+  Bachelor of Science, Computer Science, BRAC University, Advisor: Suraiya Tairin'
 courses: Computer Vision, Image Processing, Data Visualization, Natural Language Processing,
   Machine Learning, Pattern Recognition, Artificial Intelligence, Advanced Artificial
   Intelligence, Optimization Algorithms, Design and Analysis of Algorithms, Advanced
@@ -76,32 +75,28 @@ academic_interests: My research lies at the intersection of computer vision, mul
 topical_areas: Applied Computer Science; Artificial Intelligence and Intelligent Systems;
   Computer Science; Electrical, Electronic, and Information Engineering; Informatics,
   Analytics and Information Science; Visualization and Human-Computer Systems
-motivation: "I am eager to join the Sustainable Research Pathways program because
-  it directly supports my Ph.D. research on interactive video retrieval, multimodal
-  reasoning, and video understanding at UMBC under Dr. Tejas Gokhale. My work integrates
-  vision-language models, scene-graph reasoning, and dialogue-driven interaction to
-  make retrieval systems more semantically aligned with human intent while reducing
-  annotation burdens. At Summer Camp for Applied Language Exploration (SCALE) 2024,
-  hosted by Johns Hopkins University, I contributed to semantic video frame sampling
-  and caption-based event localization for multilingual retrieval. This experience
-  broadened my perspective on large-scale collaborative research and highlighted the
-  importance of advancing video retrieval and reasoning to support diverse, real-world
-  applications. Building on this foundation through SCALE 2026 will allow me to collaborate
-  with experts in video reasoning-summarizing, multimodal event detection-localization,
-  and multimodal retrievalâ\x80\x94areas central to my dissertation. The Sustainable
-  Horizons Instituteâ\x80\x99s mission resonates with me as a Bangladeshi scholar
-  pursuing research in the U.S. I deeply value inclusive scientific communities where
-  diverse voices thrive. Through this program, I hope to contribute my expertise,
-  grow within a supportive research network, and advance scalable, human-centered
-  AI systems that benefit the broader scientific ecosystem."
+motivation: I am eager to join the Sustainable Research Pathways program because it
+  directly supports my Ph.D. research on interactive video retrieval, multimodal reasoning,
+  and video understanding at UMBC under Dr. Tejas Gokhale. My work integrates vision-language
+  models, scene-graph reasoning, and dialogue-driven interaction to make retrieval
+  systems more semantically aligned with human intent while reducing annotation burdens.
+  At Summer Camp for Applied Language Exploration (SCALE) 2024, hosted by Johns Hopkins
+  University, I contributed to semantic video frame sampling and caption-based event
+  localization for multilingual retrieval. This experience broadened my perspective
+  on large-scale collaborative research and highlighted the importance of advancing
+  video retrieval and reasoning to support diverse, real-world applications. Building
+  on this foundation through SCALE 2026 will allow me to collaborate with experts
+  in video reasoning-summarizing, multimodal event detection-localization, and multimodal
+  retrieval—areas central to my dissertation. The Sustainable Horizons Institute’s
+  mission resonates with me as a Bangladeshi scholar pursuing research in the U.S.
+  I deeply value inclusive scientific communities where diverse voices thrive. Through
+  this program, I hope to contribute my expertise, grow within a supportive research
+  network, and advance scalable, human-centered AI systems that benefit the broader
+  scientific ecosystem.
 lightning_talk: 'Bridging Vision and Language: Towards Interactive Multi-Modal Search
   and Reasoning'
 keywords: Interactive Visual Search; Multi-modal Retrieval; Multi-modal Reasoning;
   Video Understanding; Computer Vision
 image: "/assets/images/pictures/sourajit_saha.jpg"
 ---
-
-## Academic Interests
-
-My research lies at the intersection of computer vision, multimodal reasoning, and video understanding, with a focus on developing interactive and human-centered video retrieval systems. As a Ph.D. student at UMBC in the Cognitive Vision Group under Dr. Tejas Gokhale, I explore methods that combine vision-language models, scene-graph reasoning, and dialogue-driven interaction to reduce annotation burden and make retrieval more semantically aligned with human intent. In interactive video retrieval, I am interested in designing systems that allow users to refine search through natural, context-aware interaction. In visual reasoning, my work investigates spatial understanding, counterfactual inference, and visual editing, with the broader goal of pushing models beyond pattern recognition toward deeper semantic understanding. These directions aim to improve both the interpretability and adaptability of AI systems. At Summer Camp for Applied Language Exploration (SCALE) 2024, I contributed to semantic video frame sampling and caption-based event localization to enhance event retrieval in multilingual videos. This experience sharpened my focus on bridging retrieval and reasoning for diverse, real-world applications. Moving forward, my dissertation will expand on these foundations, with an emphasis on interactive, scalable, and explainable systems. Ultimately, I aim to advance multimodal AI that is interpretable, inclusive, and impactful across disciplines.
 

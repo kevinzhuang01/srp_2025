@@ -28,42 +28,40 @@ academic_status: PhD Student
 year_in_program: 2nd
 research_area: Applied Mathematics; Computer Science; Data Science; Engineering; Machine
   Learning/AI
-major: "- Computer Science (PhD) â\x80\x93 Specialization in Computer Vision, Artificial
-  Intelligence, and Additive Manufacturing. - Applied Statistics and Data Science
-  (Masterâ\x80\x99s) â\x80\x93 Specialization in Machine Learning, Big Data Analytics,
-  and Predictive Modeling. - Statistics (Bachelorâ\x80\x99s) â\x80\x93 Focus on Biostatistics,
-  Probability Theory, and Statistical Modeling."
-degrees: "â\x80¢ PhD in Computer Science (Interdisciplinary Applications) â\x80\x93
-  University of Texas Rio Grande Valley, Aug 2024 â\x80\x93 Present (in progress)
-  â\x80¢ MS in Applied Statistics and Data Science â\x80\x93 University of Texas Rio
-  Grande Valley, Aug 2022 â\x80\x93 Aug 2024 â\x80¢ BS in Statistics â\x80\x93 Kwame
-  Nkrumah University of Science and Technology, Ghana, Sep 2013 â\x80\x93 Jun 2017"
-courses: "I have completed a comprehensive range of advanced coursework in both computer
+major: "- Computer Science (PhD) – Specialization in Computer Vision, Artificial Intelligence,
+  and Additive Manufacturing. - Applied Statistics and Data Science (Master’s) – Specialization
+  in Machine Learning, Big Data Analytics, and Predictive Modeling. - Statistics (Bachelor’s)
+  – Focus on Biostatistics, Probability Theory, and Statistical Modeling."
+degrees: "• PhD in Computer Science (Interdisciplinary Applications) – University
+  of Texas Rio Grande Valley, Aug 2024 – Present (in progress) • MS in Applied Statistics
+  and Data Science – University of Texas Rio Grande Valley, Aug 2022 – Aug 2024 •
+  BS in Statistics – Kwame Nkrumah University of Science and Technology, Ghana, Sep
+  2013 – Jun 2017"
+courses: 'I have completed a comprehensive range of advanced coursework in both computer
   science and statistics, which directly equip me for research internships. These
-  include: â\x80¢ Computer Science/Engineering: Machine Learning, Image Processing,
-  Smart Sensors, Swarm Robotics, Computer Vision, Big Data Analytics. â\x80¢ Statistics/Data
+  include: • Computer Science/Engineering: Machine Learning, Image Processing, Smart
+  Sensors, Swarm Robotics, Computer Vision, Big Data Analytics. • Statistics/Data
   Science: Probability Theory, Biostatistics, Logistic Regression, Structural Equation
   Modeling, Advanced Data Analysis. Combined with my national lab experience at Lawrence
   Berkeley Lab and ongoing PhD research in additive manufacturing anomaly detection,
   these courses provide me with strong computational, analytical, and applied research
-  skills."
-research_experience: "â\x80¢ FAIM 2025 (Springer LNME) â\x80\x93 â\x80\x9CAI-Enhanced
-  Real-Time Additive Manufacturing Defect Detectionâ\x80\x9D (Asare, Garcia, & Yang).
-  Published. â\x80¢ FAIM 2025 (Springer LNME) â\x80\x93 â\x80\x9CAI-Enhanced Real-Time
-  AM Defect Detection Method Using Large Language Models (LLM)â\x80\x9D (Garcia, Asare,
-  & Yang). Published. â\x80¢ IEEE Sensors 2025 (Vancouver) â\x80\x93 â\x80\x9CDigital
-  Twin Driven Multi-Camera Edge Computing Sensing System for AM.â\x80\x9D Accepted
-  Lecture. â\x80¢ Asare, M. (2024). Evaluating Feature Selection Methods in Machine
-  Learning With Class Imbalance (Master's thesis, The University of Texas Rio Grande
-  Valley). â\x80¢ Fernandez, L. M., Villalobos, C., Ortiz, M. L., & Asare, M. Preliminary
-  Results of Specificationis Grading in Calculus 1. In 2024 Fall Central Sectional
-  Meeting. AMS. â\x80¢ Villalobos, C., Fernandez, L. M., Ortiz, M. L., & Asare, M.
-  Student Attitudes in Specifications Grading Calculus 1 classes. In 2024 Joint Mathematics
-  Meetings (JMM 2024). AMS. â\x80¢ Bilingual Research Journal â\x80\x93 â\x80\x9CIntersecting
-  Beliefs on Mathematics and Emergent Bilingual Mathematics Educationâ\x80\x9D (Ortiz
-  Galarza, Nguyen, & Asare). Under review. â\x80¢ Research conducted at Lawrence Berkeley
-  National Laboratory (NERSC data pipeline, 2024). â\x80¢ Ongoing PhD research at
-  the IMVSS Laboratory, UTRGV (real-time defect detection in 3D printing)."
+  skills.'
+research_experience: "• FAIM 2025 (Springer LNME) – “AI-Enhanced Real-Time Additive
+  Manufacturing Defect Detection” (Asare, Garcia, & Yang). Published. • FAIM 2025
+  (Springer LNME) – “AI-Enhanced Real-Time AM Defect Detection Method Using Large
+  Language Models (LLM)” (Garcia, Asare, & Yang). Published. • IEEE Sensors 2025 (Vancouver)
+  – “Digital Twin Driven Multi-Camera Edge Computing Sensing System for AM.” Accepted
+  Lecture. • Asare, M. (2024). Evaluating Feature Selection Methods in Machine Learning
+  With Class Imbalance (Master's thesis, The University of Texas Rio Grande Valley).
+  • Fernandez, L. M., Villalobos, C., Ortiz, M. L., & Asare, M. Preliminary Results
+  of Specificationis Grading in Calculus 1. In 2024 Fall Central Sectional Meeting.
+  AMS. • Villalobos, C., Fernandez, L. M., Ortiz, M. L., & Asare, M. Student Attitudes
+  in Specifications Grading Calculus 1 classes. In 2024 Joint Mathematics Meetings
+  (JMM 2024). AMS. • Bilingual Research Journal – “Intersecting Beliefs on Mathematics
+  and Emergent Bilingual Mathematics Education” (Ortiz Galarza, Nguyen, & Asare).
+  Under review. • Research conducted at Lawrence Berkeley National Laboratory (NERSC
+  data pipeline, 2024). • Ongoing PhD research at the IMVSS Laboratory, UTRGV (real-time
+  defect detection in 3D printing)."
 academic_interests: My research interests lie at the intersection of artificial intelligence,
   computer vision, and intelligent sensing systems. I focus on developing AI-driven
   methods for real-time quality control in additive manufacturing, including anomaly
@@ -81,9 +79,9 @@ topical_areas: Applied Computer Science; Artificial Intelligence and Intelligent
   Engineering; Informatics, Analytics and Information Science; Materials Engineering;
   Mechanical Engineering; Performance Evaluation and Benchmarking; Statistics and
   Probability; Visualization and Human-Computer Systems
-motivation: "I want to participate in this program because it aligns closely with
-  both my academic journey and long-term goals. As someone who was part of SRP 2023,
-  I experienced firsthand how the program creates meaningful collaborations and mentorship
+motivation: I want to participate in this program because it aligns closely with both
+  my academic journey and long-term goals. As someone who was part of SRP 2023, I
+  experienced firsthand how the program creates meaningful collaborations and mentorship
   opportunities. Returning now as a PhD student, I am eager to deepen that experience
   and contribute more strongly to the community. My current research focuses on using
   artificial intelligence and computer vision for real-time quality control in additive
@@ -93,21 +91,17 @@ motivation: "I want to participate in this program because it aligns closely wit
   at Lawrence Berkeley Lab, where I built large-scale data pipelines using NLP that
   improved efficiency at NERSC by 15%. I believe these skills prepare me to contribute
   to NAIRR-supported projects that advance AI for science and engineering. Through
-  SRPâ\x80\x93NAIRR, I hope to expand my technical expertise by working with projects
-  that use NAIRR resources to address real-world challenges. Just as important, I
-  want to be part of a community where I can both learn from mentors and peers and
-  also share my own perspective as someone committed to applying AI for sustainability,
+  SRP–NAIRR, I hope to expand my technical expertise by working with projects that
+  use NAIRR resources to address real-world challenges. Just as important, I want
+  to be part of a community where I can both learn from mentors and peers and also
+  share my own perspective as someone committed to applying AI for sustainability,
   trustworthy automation, and equitable access to technology. I see this fellowship
   as a pathway not only to strengthen my research but also to prepare me to mentor
-  others and to build long-term collaborations that extend beyond my PhD."
+  others and to build long-term collaborations that extend beyond my PhD.
 lightning_talk: AI-Driven Computer Vision for Smart Manufacturing Systems
 keywords: Artificial Intelligence; Machine Learning; Computer Vision; Additive Manufacturing;
   Deep Learning; Defect Detection; 3D Reconstruction; Robotics; Smart Manufacturing;
   Digital Twin
 image: "/assets/images/pictures/martha_asare.jpg"
 ---
-
-## Academic Interests
-
-My research interests lie at the intersection of artificial intelligence, computer vision, and intelligent sensing systems. I focus on developing AI-driven methods for real-time quality control in additive manufacturing, including anomaly detection, digital twins, and trustworthy AI approaches that improve efficiency and sustainability in production systems. I am also interested in advancing applied machine learning for science and engineering, including large-scale data analytics, predictive modeling, and AI-enabled automation. My work bridges theory and practice, combining deep learning (NLP, YOLO, CNNs), stereo vision, and 3D reconstruction to tackle real-world problems in manufacturing and beyond. More broadly, I am motivated by how AI for science and society can be applied to address challenges in sustainability, healthcare, and equitable education. I aim to continue building research that contributes not only to technical innovation but also to societal impact.
 

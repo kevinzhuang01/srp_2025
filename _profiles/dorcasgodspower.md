@@ -56,7 +56,3 @@ keywords: Computational Chemistry; Molecular Modeling; Kinetic Monte Carlo; High
   Computing; Machine Learning; Energy Transfer; Sustainability; Data-Driven Science
 ---
 
-## Academic Interests
-
-I am interested in applying my background in chemistry and mathematics to interdisciplinary research at the intersection of physical sciences, computational modeling, and applied problem-solving. My long-term academic goal is to integrate my training in the sciences with future medical studies, particularly in areas where quantitative and experimental methods can be used to address challenges in health, materials, and technology. I am especially drawn to projects that combine laboratory research with data analysis, modeling, or computational methods.
-

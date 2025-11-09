@@ -8,23 +8,22 @@ institution: Rice University
 organization: Rice University
 department: Computational Applied Mathematics and Operations Research
 pronouns: he/him/his
-biography: "I am a Ph.D. student in Computational and Applied Mathematics at Rice
-  University, advised by Dr. Illya V. Hicks. My primary research focuses on mixed-integer
-  nonlinear programming (MINLP) and optimization methods for operations research.
-  In particular, I am developing computational frameworks for symbolic regression
-  using MINLP and exploring new optimization strategies for large-scale decision problems.
-  I am also investigating kernel-based numerical methods for solving partial differential
-  equations, bridging scientific computing with optimization techniques. I hold a
-  masterâ\x80\x99s degree in Mathematical Modelling in Engineering from the University
-  of Lâ\x80\x99Aquila and a masterâ\x80\x99s in Financial Engineering from WorldQuant
-  University, where I applied optimization and machine learning to financial strategies.
-  I am proficient in Python, Julia, MATLAB, and optimization solvers such as Gurobi,
-  SCIP, and CPLEX. Through my research and interdisciplinary background, I aim to
-  contribute to SRPâ\x80\x99s mission by applying advanced optimization and computational
-  methods to sustainable and impactful problems. Beyond research, I have been actively
-  engaged in mentorship and community service, particularly through youth entrepreneurship
-  and educational initiatives. I am eager to contribute to SRPâ\x80\x99s mission of
-  fostering sustainable, interdisciplinary collaborations."
+biography: I am a Ph.D. student in Computational and Applied Mathematics at Rice University,
+  advised by Dr. Illya V. Hicks. My primary research focuses on mixed-integer nonlinear
+  programming (MINLP) and optimization methods for operations research. In particular,
+  I am developing computational frameworks for symbolic regression using MINLP and
+  exploring new optimization strategies for large-scale decision problems. I am also
+  investigating kernel-based numerical methods for solving partial differential equations,
+  bridging scientific computing with optimization techniques. I hold a master’s degree
+  in Mathematical Modelling in Engineering from the University of L’Aquila and a master’s
+  in Financial Engineering from WorldQuant University, where I applied optimization
+  and machine learning to financial strategies. I am proficient in Python, Julia,
+  MATLAB, and optimization solvers such as Gurobi, SCIP, and CPLEX. Through my research
+  and interdisciplinary background, I aim to contribute to SRP’s mission by applying
+  advanced optimization and computational methods to sustainable and impactful problems.
+  Beyond research, I have been actively engaged in mentorship and community service,
+  particularly through youth entrepreneurship and educational initiatives. I am eager
+  to contribute to SRP’s mission of fostering sustainable, interdisciplinary collaborations.
 academic_status: PhD Student
 year_in_program: 3rd
 research_area: Applied Mathematics; Data Science; Engineering; Machine Learning/AI;
@@ -32,14 +31,13 @@ research_area: Applied Mathematics; Data Science; Engineering; Machine Learning/
 major: Ph.D. in Computational and Applied Mathematics (in progress), Rice University
   Major/Specialty Mixed-Integer Linear Programming (MINLP), Optimization for Operations
   Research, Computational Methods for PDEs, Machine Learning, HPC.
-degrees: "Ph.D., Computational and Applied Mathematics, Rice University, In Progress
+degrees: Ph.D., Computational and Applied Mathematics, Rice University, In Progress
   (Expected 2028) M.Sc., Financial Engineering, WorldQuant University, In Progress,
-  2025 M.Sc., Mathematical Modelling in Engineering, University of Lâ\x80\x99Aquila,
-  2022 B.Sc., Mathematics, University of Nairobi, 2018"
-courses: "I have completed courses in Convex Optimization, Linear and Integer Programming,
+  2025 M.Sc., Mathematical Modelling in Engineering, University of L’Aquila, 2022
+  B.Sc., Mathematics, University of Nairobi, 2018
+courses: I have completed courses in Convex Optimization, Linear and Integer Programming,
   and Machine Learning with Graphs at Rice University. In addition, I studied numerical
-  partial differential equations and numerical linear algebra during my masterâ\x80\x99s
-  program."
+  partial differential equations and numerical linear algebra during my master’s program.
 academic_interests: My research interests focus on mixed-integer linear programming
   (MILP) and optimization methods for operations research, particularly for symbolic
   regression and large-scale decision problems. I am also interested in computational
@@ -47,7 +45,7 @@ academic_interests: My research interests focus on mixed-integer linear programm
   approaches for solving PDEs and machine learning.
 topical_areas: Applied Computer Science; Applied Mathematics; Artificial Intelligence
   and Intelligent Systems; Computer Science; Economics and Business
-motivation: "In my graduate studies in computational and applied mathematics at Rice
+motivation: 'In my graduate studies in computational and applied mathematics at Rice
   University, I have witnessed directly and indirectly the transformative power of
   collaboration in tackling the most complex scientific problems. Scientific breakthroughs,
   for example, in numerical models ranging from simple machine learning models, such
@@ -72,7 +70,7 @@ motivation: "In my graduate studies in computational and applied mathematics at 
   content and student experience is further compounded by the lack of interdisciplinary
   knowledge among faculty teaching students majoring in other fields. I have witnessed
   this difficulty both as a student and while working as a mentor to undergraduate
-  math students in Kenya and as a grader in computer science and CMOR courses â\x80\x9Cdesignedâ\x80\x9D
+  math students in Kenya and as a grader in computer science and CMOR courses “designed”
   for engineering students. My goal in becoming a teaching faculty member is to address
   these issues by adapting and designing curriculum content that allows students from
   less advantaged backgrounds to realize their talent, even in classes outside their
@@ -85,7 +83,7 @@ motivation: "In my graduate studies in computational and applied mathematics at 
   mentor to the undergrads inspires several other younger students to not only enter
   the STEM field but also to serve in leadership positions within it, as I experienced
   the first effects during my undergraduate studies. These experiences in mentorship
-  and leadership with students across multiple majors have educated me on studentsâ\x80\x99
+  and leadership with students across multiple majors have educated me on students’
   mental, emotional, and intellectual needs in STEM education, but I have by no means
   learned everything, and I strive to continue to learn more still. My past experiences,
   coupled with my expertise in mathematics, computer science, and mechanical engineering,
@@ -112,14 +110,10 @@ motivation: "In my graduate studies in computational and applied mathematics at 
   channel my passion for mathematics to advance mathematical tools with real-world
   applications and nurture a passion for mathematics in the next generation of mathematicians,
   especially those from underrepresented minority groups. I will share this research,
-  as well as my enthusiasm for mathematics, by presenting at research conferences."
+  as well as my enthusiasm for mathematics, by presenting at research conferences.'
 lightning_talk: Efficient Symbolic Regression Through Optimization and Machine Learning
 keywords: Optimization; Mixed-Integer Linear Programming (MILP); Symbolic Regression;
   Scientific Machine Learning; Operations Research; Kernel Methods; Scientific Computing;
   HPC
 ---
-
-## Academic Interests
-
-My research interests focus on mixed-integer linear programming (MILP) and optimization methods for operations research, particularly for symbolic regression and large-scale decision problems. I am also interested in computational methods that integrate optimization with scientific computing, such as kernel-based approaches for solving PDEs and machine learning.
 

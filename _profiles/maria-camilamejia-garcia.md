@@ -7,22 +7,21 @@ email: mariacmejiag80@gmail.com
 institution: The University of Texas Rio Grande Valley
 organization: The University of Texas Rio Grande Valley
 department: School of Mathematical and Statistical Sciences
-biography: "I am a first-generation college graduate who earned my bachelorâ\x80\x99s
-  degree in mathematics from Colombiaâ\x80\x99s National University in 2020, breaking
-  free from societal expectations for women. Then, I began a masterâ\x80\x99s in applied
-  mathematics and taught at the same institution. Currently, I am pursuing my Ph.D.
-  in Mathematics and Statistics with Interdisciplinary Applications at The University
-  of Texas, Rio Grande Valley. I serve as the president of the UTRGV chapter of the
-  American Statistical Association. While my roots are in mathematics, my current
-  research interests include statistics, data science, and applied mathematics, focusing
-  on using Machine Learning techniques particularly in medical and environmental applications.
-  I am dedicated to working with underrepresented groups in STEM, especially women,
-  and as a person from a developing country, I hope to contribute to education and
-  inclusiveness. I currently work as a Graduate Research Assistant at the ECS Lab
-  at UTRGV. Outside of work, I have several interests that I really enjoy. I love
-  dancing, reading, and exercising. CrossFit, cycling, and hiking are some of my favorite
-  activities. Iâ\x80\x99m a friendly person, so I value spending time with my family
-  and friends."
+biography: I am a first-generation college graduate who earned my bachelor’s degree
+  in mathematics from Colombia’s National University in 2020, breaking free from societal
+  expectations for women. Then, I began a master’s in applied mathematics and taught
+  at the same institution. Currently, I am pursuing my Ph.D. in Mathematics and Statistics
+  with Interdisciplinary Applications at The University of Texas, Rio Grande Valley.
+  I serve as the president of the UTRGV chapter of the American Statistical Association.
+  While my roots are in mathematics, my current research interests include statistics,
+  data science, and applied mathematics, focusing on using Machine Learning techniques
+  particularly in medical and environmental applications. I am dedicated to working
+  with underrepresented groups in STEM, especially women, and as a person from a developing
+  country, I hope to contribute to education and inclusiveness. I currently work as
+  a Graduate Research Assistant at the ECS Lab at UTRGV. Outside of work, I have several
+  interests that I really enjoy. I love dancing, reading, and exercising. CrossFit,
+  cycling, and hiking are some of my favorite activities. I’m a friendly person, so
+  I value spending time with my family and friends.
 academic_status: PhD Student
 year_in_program: 4th
 research_area: Computer Science; Data Science; Machine Learning/AI; Mathematics
@@ -43,19 +42,19 @@ courses: I have completed several academic courses that prepare me for this summ
   this, I have worked in several projects that have helped me develop skills to work
   on my own independent research and become creative with new ideas to solve real
   world problems with mathematics.
-research_experience: "1) I worked on a project to develop a Convolutional Neural Network
+research_experience: 1) I worked on a project to develop a Convolutional Neural Network
   to classify gene images into four experimental groups, using data augmentation and
   preprocessing to enhance model performance. From this project I got the publication
-  \"IFIT3 activation significantly contributes to HIV-1-associated neurodegenerative
-  disorder-mediated neuroinflammation\" in the journal frontier in immunology. https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2025.1532318/full.
+  "IFIT3 activation significantly contributes to HIV-1-associated neurodegenerative
+  disorder-mediated neuroinflammation" in the journal frontier in immunology. https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2025.1532318/full.
   2) I worked analyzing medical data to estimate the variance after using cross-validation
   and imputation techniques in classification problems, with this project I got the
   Best Poster Award, 3rd place, at Student Poster Competition with the master project
-  â\x80\x9D Theory & Application of ROC Curves with Cross-Validation Estimators for
-  Clinical Data with Missing Observationsâ\x80\x9D. https://drive.google.com/file/d/15qwAATuC7x7yCm92On1DLnN8mtL4TbcF/view?usp=sharing,
+  ” Theory & Application of ROC Curves with Cross-Validation Estimators for Clinical
+  Data with Missing Observations”. https://drive.google.com/file/d/15qwAATuC7x7yCm92On1DLnN8mtL4TbcF/view?usp=sharing,
   3) Collaborated with Kwaai AI Lab to design and implement homomorphic encryption
   methods for privacy-preserving vector search, co-developing two novel algorithms
-  in the Mathematical Problems in Industry Workshop. https://www.siam.org/conferences-events/workshops/2025-graduate-student-mathematical-modeling-camp/"
+  in the Mathematical Problems in Industry Workshop. https://www.siam.org/conferences-events/workshops/2025-graduate-student-mathematical-modeling-camp/
 academic_interests: While my roots are in pure mathematics, my current academic research
   interests include Statistics, Data Science, and applied mathematics, with a focus
   on Machine Learning and Deep Learning, particularly in medical and environmental
@@ -129,8 +128,4 @@ keywords: Machine Learning; Greenhouse Gas emissions; Environmental Modeling; Cl
   Data, Mathematics; AI; Geospatial Data; Bayesian Models; Data Science for life sciences.
 image: "/assets/images/pictures/maria_camila_mejia_garcia.jpg"
 ---
-
-## Academic Interests
-
-While my roots are in pure mathematics, my current academic research interests include Statistics, Data Science, and applied mathematics, with a focus on Machine Learning and Deep Learning, particularly in medical and environmental applications. My Ph.D. dissertation topic focuses on using machine learning to model the temporal variability in CO2, CH4, and N2O fluxes from human made aquatic-systems such as hydropower, and fishponds. In particular, my research aims to elucidate drivers and patterns of temporal variability in greenhouse gas (GHG) emissions from these distinct aquaculture production systems in Brazil using machine learning. In my undergraduate program, I worked in pure mathematics, so I never imagined that my background would one day allow me to work on real-world problems. Over time, I have discovered how computational applications can be both fascinating and powerful tools for addressing practical challenges. In my master's program I worked on Applied mathematics and Statists and analyzed medical data to estimate variance after using cross-validation and imputation techniques in classification problems. During my research, I have worked with large datasets and images, which require advanced tools like high-performance computing. Right now, I am particularly interested in high-performance computing, I took a free course in Argonne in AI-driven Science on Supercomputers, and a Hands-on in Supercomputing at Oak Ridge Computing facility to enhance my skills in this area.
 

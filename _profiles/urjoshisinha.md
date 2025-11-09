@@ -48,7 +48,7 @@ research_experience: '1. "Using a genetic algorithm to optimize configurations i
   and Adaptive Systems 6. "Event-Based Data Pipelines in Recommender Systems: The
   Data Engineering Perspective", International Conference for Emerging Technologies
   in Computing'
-academic_interests: "My research interests lie at the intersection of software testing
+academic_interests: My research interests lie at the intersection of software testing
   and optimization, high-performance computing (HPC), and sustainable data management.
   I am deeply interested in applying AI and different testing techniques (metamorphic
   testing, differential testing) to enhance the reliability and scalability of scientific
@@ -57,36 +57,32 @@ academic_interests: "My research interests lie at the intersection of software t
   and optimization of data-driven scientific software, enabling more reliable and
   reproducible research across domains such as biosciences, physics, and material
   science. I am deeply motivated by the challenge of improving AI model reliability,
-  interpretability, and resource efficiency, especially within NSFâ\x80\x99s vision
-  for the National Artificial Intelligence Research Resource (NAIRR). Ultimately,
-  I aim to advance research that bridges software engineering, sustainability, and
-  scientific discovery, creating scalable methods that support equitable access to
-  computational science."
+  interpretability, and resource efficiency, especially within NSF’s vision for the
+  National Artificial Intelligence Research Resource (NAIRR). Ultimately, I aim to
+  advance research that bridges software engineering, sustainability, and scientific
+  discovery, creating scalable methods that support equitable access to computational
+  science.
 topical_areas: Biochemistry and Molecular Biology; Computer Science; Informatics,
   Analytics and Information Science
-motivation: "I am eager to participate in the Sustainable Research Pathways program
+motivation: I am eager to participate in the Sustainable Research Pathways program
   because it uniquely integrates research collaboration, mentorship, and inclusion
   which are values that have shaped my own career. Over the past few years, working
   in diverse, interdisciplinary teams across DOE laboratories and universities, I
   have seen firsthand how access to mentorship and resources transforms early-stage
-  research careers. SRPâ\x80\x99s mission to build sustainable connections deeply
-  resonates with my belief that innovation thrives in inclusive ecosystems. Through
-  this program, I hope to collaborate with NAIRR researchers to apply my existing
-  skillset related to testing and optimization of data-driven scientific software,
-  in particular leveraging optimization algorithms and LLM-based testing frameworks,
-  and explore how I can contribute to the sustainable AI infrastructure. I also look
-  forward to engaging with peers and mentors in the SRP community to discuss long-term
-  pathways for diversity, accessibility, and responsible AI in HPC research. Beyond
-  technical growth, I seek to contribute as both a mentee and mentor, sharing my experiences
-  in database optimization, open science, and community leadership to strengthen the
-  programâ\x80\x99s collaborative spirit."
+  research careers. SRP’s mission to build sustainable connections deeply resonates
+  with my belief that innovation thrives in inclusive ecosystems. Through this program,
+  I hope to collaborate with NAIRR researchers to apply my existing skillset related
+  to testing and optimization of data-driven scientific software, in particular leveraging
+  optimization algorithms and LLM-based testing frameworks, and explore how I can
+  contribute to the sustainable AI infrastructure. I also look forward to engaging
+  with peers and mentors in the SRP community to discuss long-term pathways for diversity,
+  accessibility, and responsible AI in HPC research. Beyond technical growth, I seek
+  to contribute as both a mentee and mentor, sharing my experiences in database optimization,
+  open science, and community leadership to strengthen the program’s collaborative
+  spirit.
 lightning_talk: Software testing of highly configurable data-driven scientific tools
 keywords: testing, data-driven, optimization, LLM, scientific tool, software configurability,
   metamorphic testing, software reliability
 image: "/assets/images/pictures/urjoshi_sinha.jpg"
 ---
-
-## Academic Interests
-
-My research interests lie at the intersection of software testing and optimization, high-performance computing (HPC), and sustainable data management. I am deeply interested in applying AI and different testing techniques (metamorphic testing, differential testing) to enhance the reliability and scalability of scientific software, particularly within computational biology and HPC workflows. My work at Lawrence Berkeley National Lab and Iowa State University has focused on configurability and optimization of data-driven scientific software, enabling more reliable and reproducible research across domains such as biosciences, physics, and material science. I am deeply motivated by the challenge of improving AI model reliability, interpretability, and resource efficiency, especially within NSFâs vision for the National Artificial Intelligence Research Resource (NAIRR). Ultimately, I aim to advance research that bridges software engineering, sustainability, and scientific discovery, creating scalable methods that support equitable access to computational science.
 

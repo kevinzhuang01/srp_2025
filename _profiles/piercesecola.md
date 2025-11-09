@@ -25,18 +25,17 @@ biography: My name is Pierce Secola, and I am currently a fourth year Ph.D. Oper
 academic_status: PhD Student
 year_in_program: 4th
 research_area: Applied Mathematics; Data Science; Machine Learning/AI; Mathematics
-major: "I completed my undergraduate degree at NC State University and hold my B.S.
+major: I completed my undergraduate degree at NC State University and hold my B.S.
   in Business Administration with a concentration in supply chain. To further bolster
   my mathematical and analytical capabilities, I then attended a one-year full-time
-  masterâ\x80\x99s program in data science through the Institute of Advanced Analytics
-  at NC State University. After a stint as a data scientist with Siemens Healthineers,
+  master’s program in data science through the Institute of Advanced Analytics at
+  NC State University. After a stint as a data scientist with Siemens Healthineers,
   I returned to NC State to pursue a doctorate in operations research to further progress
   my mathematical skills and fuel my passion of learning. I am currently in my fourth
-  year in the OR program with the goal to complete my dissertation in December 2026."
-degrees: "B.S. Business Administration - Supply Chain â\x80\x93 08/2013-05/2018 â\x80\x93
-  NC State University M.S. Analytics - Data Science â\x80\x93 08/2018-05/2019 â\x80\x93
-  NC State University Ph.D. Operations Research [Candidate] - 08/2022-Present â\x80\x93
-  NC State University"
+  year in the OR program with the goal to complete my dissertation in December 2026.
+degrees: B.S. Business Administration - Supply Chain – 08/2013-05/2018 – NC State
+  University M.S. Analytics - Data Science – 08/2018-05/2019 – NC State University
+  Ph.D. Operations Research [Candidate] - 08/2022-Present – NC State University
 courses: Given my tenure in academia, I have demonstrated proficiency in a myriad
   of courses related to mathematics and computer science. Notably, I have completed
   coursework exploring neural network theory and various neural network architectures,
@@ -89,14 +88,10 @@ motivation: My motivation to participate in the SRP program stems from my passio
   my understanding in those concepts and swap career paths. Now I am working to push
   even further to master these realms of knowledge, and I believe that the SRP Program
   is the perfect opportunity to do so.
-lightning_talk: "Pixels and Perception â\x80\x93 My Journey into Computer Vision"
+lightning_talk: Pixels and Perception – My Journey into Computer Vision
 keywords: 'Academic Background: Stochastic Processes; Numerical Analysis; Non-Linear/Linear
   Programming; Neural Network Current Research/Research Interests: Computer Vision;
   Inventory Control NNs; BP Modeling'
 image: "/assets/images/pictures/pierce_secola.jpg"
 ---
-
-## Academic Interests
-
-My current research involves 2D to 3D reconstruction using NeRF models. My team and I are attempting to accurately reconstruct the interior of seashell-like creatures called foraminifera (foram). Understanding the external and internal attributes of the foram allows researchers to gain insight about the ocean's environment at the time they were alive. Some foram fossils are millions of years old, so the information that can be gained from analyzing their structure is invaluable. However, uncovering the internal structure of the foram using CT scanning is expensive and time consuming. Our team plans to implement a pre-trained NeRF model to generate a 3D volumetric mesh of the foram using 2D images of the exterior of a given foram. Subsequently, our team will need to investigate how many 2D images we need to capture, how the camera should be positioned for these images, and any additional components of machine learning that should be utilized so that the 3D reconstruction is as similar as possible to the foram's true structures (internal and external). Additionally, the team hopes to utilize a combination of stochastic modeling and physics informed neural networks (PINNs) to automate the wet-imaging of the foram. The imaging process requires precise control of the camera and a microfluidic system to gently rotate the foram and capture 2D images. In general, microfluidic systems exhibit stochastic behaviors due to the random fluctuations in the flow rate. Thus, this aspect of the research is a perfect opportunity to combine both stochastic process modeling with a deterministic component like a PINN.
 

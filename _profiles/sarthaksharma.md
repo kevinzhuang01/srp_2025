@@ -93,7 +93,3 @@ motivation: I have always loved research. The thrill of making discoveries and i
   and a great career.
 ---
 
-## Academic Interests
-
-My research / academic interests include computational science, artificial intelligence / machine learning, high performance computing, data science, robotics, renewable energy, aerospace engineering, mechanical engineering, etc.
-

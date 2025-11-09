@@ -36,7 +36,3 @@ lightning_talk: Exploring AI, Cloud, and Reproducible Computing
 keywords: AI;Coding;LLM;RAG;RSE;HPC;GenAI;reproduciblity;Cloud Computing;Open Source;
 ---
 
-## Academic Interests
-
-I'm interested in researching AI, machine learning, Cybersecurity, networking and computer processing. I am very interested in making programs that are used to track data.
-

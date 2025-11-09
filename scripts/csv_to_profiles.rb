@@ -24,7 +24,7 @@ def csv_to_profiles
   # CSV columns: Submission,Status ,First,Last,Email,Institution,Department,Website,Citizenship Status,Academic Status,Title,Abstract ,Academic/Research Interests,Motivation,Additional Comments
 
   # Read CSV and create profile pages
-  CSV.foreach(csv_file, headers: true, encoding: 'ISO-8859-1:UTF-8') do |row|
+  CSV.foreach(csv_file, headers: true, encoding: 'UTF-8') do |row|
     first = row['First/Given Names (first)'] || row['First']
     last = row['Last/Family Name (first)'] || row['Last']
     name = "#{first}_#{last}"
@@ -87,12 +87,6 @@ def csv_to_profiles
     content += front_matter.to_yaml.gsub(/^---\n/, '')
     content += "---\n\n"
     
-    # Add Academic Interests section if available
-    if front_matter['academic_interests'] && !front_matter['academic_interests'].strip.empty?
-      content += "## Academic Interests\n\n"
-      content += "#{front_matter['academic_interests']}\n\n"
-    end
-    
     # Write the file
     File.write(filename, content)
     puts "Created: #{filename}"
@@ -112,7 +106,7 @@ def csv_to_yaml
   end
   
   profiles = []
-  CSV.foreach(csv_file, headers: true, encoding: 'ISO-8859-1:UTF-8') do |row|
+  CSV.foreach(csv_file, headers: true, encoding: 'UTF-8') do |row|
     profile = {}
     row.headers.each do |header|
       value = row[header]

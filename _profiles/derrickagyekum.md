@@ -7,10 +7,10 @@ email: agyekumd406@gmail.com
 institution: Michigan State University
 organization: Michigan State University
 department: Engineering
-biography: "My name is Derrick Agyekum, a Computer Science B.S. student at Michigan
-  State University (â\x80\x9927) and University Distinguished Scholar with a Finance
-  minor. I build end-to-end software; from iOS apps (Swift/SwiftUI, UIKit) to full-stack
-  web, and applies machine learning to real data. As a Professorial Assistant in MSUâ\x80\x99s
+biography: My name is Derrick Agyekum, a Computer Science B.S. student at Michigan
+  State University (’27) and University Distinguished Scholar with a Finance minor.
+  I build end-to-end software; from iOS apps (Swift/SwiftUI, UIKit) to full-stack
+  web, and applies machine learning to real data. As a Professorial Assistant in MSU’s
   Engineering Department, I created data-mining and ML pipelines in Python/SQL/TensorFlow
   that accelerated research insights and informed faculty decisions. Earlier, I shipped
   front-end features at Vodafone Ghana that improved access and cut costs. My projects
@@ -18,62 +18,56 @@ biography: "My name is Derrick Agyekum, a Computer Science B.S. student at Michi
   Kdad Marketplace. My passion is using research and AI (RAG, model fine-tuning, and
   practical ML) to solve real-world problems in consumer experience, operations, and
   education. On campus I mentor in the Honors College and am strengthening my algorithmic
-  foundations through CodePathâ\x80\x99s advanced interview prep."
+  foundations through CodePath’s advanced interview prep.
 academic_status: Undergraduate Student
 year_in_program: 3rd
 research_area: Computer Science; Data Science; Engineering; Machine Learning/AI
-major: "B.S. in Computer Science â\x80\x94 Specialization: Artificial Intelligence
-  & Machine Learning (minor in Finance)."
-degrees: "B.S., Computer Science / Artificial Intelligence & Machine Learning / Michigan
-  State University â\x80\x94 In progress, expected May 2027. Minor: Finance."
-courses: "Here are the most relevant courses and prep Iâ\x80\x99ve completed for a
-  CS/AI summer internship: Programming + Data Structures/Algorithms: Intro to Programming
-  (Python) and DSA in Java/C++; heavy practice in LeetCode/CodePath Advanced Interview
-  Prep. Math for CS/AI: Discrete Math, Linear Algebra, Calculus Iâ\x80\x93II, and
-  Probability & Statistics. AI/Data: Foundations of Machine Learning/AI, Data Mining/Data
-  Science projects in Python (Pandas, scikit-learn, TensorFlow). Systems & Product:
-  Database Systems (SQL), Web Development (React/Node), Mobile iOS (Swift/SwiftUI),
-  and Software Engineering (Git). Applied prep: Professorial Assistant research building
-  ML pipelines (Python/SQL/TensorFlow) and shipped app/features in personal and internship
-  projects."
-academic_interests: "Iâ\x80\x99m interested in applied AI/ML that moves from research
-  to real-world impact. My focus areas include NLP and large language models (especially
-  retrieval-augmented generation and agentic workflows), representation learning for
-  multimodal data, and time-series/causal inference for forecasting and decision support.
-  I care deeply about trustworthy AI and the systems side that makes it work in practice
-  (data engineering, evaluation, and MLOps, including on-device/edge deployment).
-  Iâ\x80\x99m excited to study and build models for personalization and recommendation,
-  demand forecasting, and conversational assistants in domains like consumer analytics,
-  operations/supply chain, education, and public health. I enjoy combining statistical
-  learning with experimentation ot generate actionable insights and close the loop
-  between models and outcomes."
+major: 'B.S. in Computer Science — Specialization: Artificial Intelligence & Machine
+  Learning (minor in Finance).'
+degrees: 'B.S., Computer Science / Artificial Intelligence & Machine Learning / Michigan
+  State University — In progress, expected May 2027. Minor: Finance.'
+courses: 'Here are the most relevant courses and prep I’ve completed for a CS/AI summer
+  internship: Programming + Data Structures/Algorithms: Intro to Programming (Python)
+  and DSA in Java/C++; heavy practice in LeetCode/CodePath Advanced Interview Prep.
+  Math for CS/AI: Discrete Math, Linear Algebra, Calculus I–II, and Probability &
+  Statistics. AI/Data: Foundations of Machine Learning/AI, Data Mining/Data Science
+  projects in Python (Pandas, scikit-learn, TensorFlow). Systems & Product: Database
+  Systems (SQL), Web Development (React/Node), Mobile iOS (Swift/SwiftUI), and Software
+  Engineering (Git). Applied prep: Professorial Assistant research building ML pipelines
+  (Python/SQL/TensorFlow) and shipped app/features in personal and internship projects.'
+academic_interests: I’m interested in applied AI/ML that moves from research to real-world
+  impact. My focus areas include NLP and large language models (especially retrieval-augmented
+  generation and agentic workflows), representation learning for multimodal data,
+  and time-series/causal inference for forecasting and decision support. I care deeply
+  about trustworthy AI and the systems side that makes it work in practice (data engineering,
+  evaluation, and MLOps, including on-device/edge deployment). I’m excited to study
+  and build models for personalization and recommendation, demand forecasting, and
+  conversational assistants in domains like consumer analytics, operations/supply
+  chain, education, and public health. I enjoy combining statistical learning with
+  experimentation ot generate actionable insights and close the loop between models
+  and outcomes.
 topical_areas: Applied Computer Science; Computer Science; Informatics, Analytics
   and Information Science; Other Computer and Information Sciences
-motivation: "I want to join Sustainable Research Pathways to grow as a researcher
+motivation: 'I want to join Sustainable Research Pathways to grow as a researcher
   while contributing to an inclusive, impact-driven AI community. As a CS major (AI/ML
-  focus) at Michigan State University, Iâ\x80\x99ve helped faculty as a Professorial
-  Assistant build data-mining and ML pipelines in Python/SQL/TensorFlow and learned
-  how rigorous methods, careful evaluation, and clear communication turn raw data
-  into decisions. SRPâ\x80\x99s mission, which include mentoring, collaboration across
-  backgrounds, and hands-on work with NAIRR projects, matches how I like to learn.
-  My research interests are applied AI for public benefit: NLP and retrieval-augmented
-  generation, recommendation/personalization, and time-series/causal methods for forecasting
-  and decision support. I bring solid software skills (iOS, full-stack, SQL), experience
-  shipping features, and a habit of testing ideas with experiments and metrics. Through
-  SRP I hope to deepen my research toolkit (problem formulation, literature synthesis,
-  experimental design, MLOps), contributes to a publishable project, and learn from
-  mentors committed to inclusive excellence. In return I offer energy, humility, and
-  a builderâ\x80\x99s mindset, ready to prototype, analyze, write, and present. Iâ\x80\x99m
-  excited to help SRPâ\x80\x99s community connect rigorous AI research to real-world
-  problems where it can improve lives."
+  focus) at Michigan State University, I’ve helped faculty as a Professorial Assistant
+  build data-mining and ML pipelines in Python/SQL/TensorFlow and learned how rigorous
+  methods, careful evaluation, and clear communication turn raw data into decisions.
+  SRP’s mission, which include mentoring, collaboration across backgrounds, and hands-on
+  work with NAIRR projects, matches how I like to learn. My research interests are
+  applied AI for public benefit: NLP and retrieval-augmented generation, recommendation/personalization,
+  and time-series/causal methods for forecasting and decision support. I bring solid
+  software skills (iOS, full-stack, SQL), experience shipping features, and a habit
+  of testing ideas with experiments and metrics. Through SRP I hope to deepen my research
+  toolkit (problem formulation, literature synthesis, experimental design, MLOps),
+  contributes to a publishable project, and learn from mentors committed to inclusive
+  excellence. In return I offer energy, humility, and a builder’s mindset, ready to
+  prototype, analyze, write, and present. I’m excited to help SRP’s community connect
+  rigorous AI research to real-world problems where it can improve lives.'
 lightning_talk: 'Data-to-Deployment: Shipping Small LLMs With Measurable Impact'
 keywords: LLMs; RAG; Agents; Prompting; Alignment; Guardrails; Retrieval; Tokenization;
   LoRA; LLMOps; Deployment; Evaluation; Time-series; Causal-inference; Content-Based-Filtering;
   Feature-engineering; Distillation; Transfer-learning; Vector-databases; SQL/ETL
 image: "/assets/images/pictures/derrick_agyekum.jpg"
 ---
-
-## Academic Interests
-
-Iâm interested in applied AI/ML that moves from research to real-world impact. My focus areas include NLP and large language models (especially retrieval-augmented generation and agentic workflows), representation learning for multimodal data, and time-series/causal inference for forecasting and decision support. I care deeply about trustworthy AI and the systems side that makes it work in practice (data engineering, evaluation, and MLOps, including on-device/edge deployment). Iâm excited to study and build models for personalization and recommendation, demand forecasting, and conversational assistants in domains like consumer analytics, operations/supply chain, education, and public health. I enjoy combining statistical learning with experimentation ot generate actionable insights and close the loop between models and outcomes.
 

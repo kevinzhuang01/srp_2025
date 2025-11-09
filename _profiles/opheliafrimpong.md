@@ -76,7 +76,3 @@ keywords: Artificial Intelligence; Machine Learning; Explainable Artificial Inte
 image: "/assets/images/pictures/ophelia_frimpong.jpg"
 ---
 
-## Academic Interests
-
-I have been focusing on meta-learning for medical diagnosis, machine learning techniques, and partial differential equation (PDE) modeling. For example, my current research explores enhancing interpretability in meta-learning-based medical diagnostic systems that aids in developing frameworks that balance accuracy with clinical trust.
-

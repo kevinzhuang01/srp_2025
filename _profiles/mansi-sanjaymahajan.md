@@ -38,10 +38,10 @@ academic_interests: My research interest focuses on Computational Mathematics. I
   applies the spectral finite element method to examine the dispersive characteristics
   of metamaterials. In this project, we have formulated generalized dispersion relations
   for Drude and Lorenz metamaterial models in two dimensions. We conducted convergence
-  analyses of first, second, and third order NÃ©dÃ©lec elements, both analytically
-  and numerically, and established generalized convergence orders for higher order
-  edge elements. The project includes a detailed stability analysis of spectral FEM
-  for metamaterials. We use Python and MATLAB to develop the simulations for metamaterials.
+  analyses of first, second, and third order Nédélec elements, both analytically and
+  numerically, and established generalized convergence orders for higher order edge
+  elements. The project includes a detailed stability analysis of spectral FEM for
+  metamaterials. We use Python and MATLAB to develop the simulations for metamaterials.
   In addition to my work with finite element methods, I am also interested in explicit
   and implicit finite difference methods, operator splitting methods, and optimization.
   Furthermore, I am keen to explore Artificial Intelligence techniques to rigorously
@@ -60,8 +60,4 @@ keywords: FEM; Numerical Modeling; Neural Network; Deep Learning; Wave Phenomena
   Python; MATLAB; Multiscale Materials; High-Order Methods; Simulation; Implementation;
   Finite Difference
 ---
-
-## Academic Interests
-
-My research interest focuses on Computational Mathematics. I work on developing, implementing, and analyzing numerical methods and simulations for complex physical phenomena and their practical applications. My ongoing research applies the spectral finite element method to examine the dispersive characteristics of metamaterials. In this project, we have formulated generalized dispersion relations for Drude and Lorenz metamaterial models in two dimensions. We conducted convergence analyses of first, second, and third order NÃ©dÃ©lec elements, both analytically and numerically, and established generalized convergence orders for higher order edge elements. The project includes a detailed stability analysis of spectral FEM for metamaterials. We use Python and MATLAB to develop the simulations for metamaterials. In addition to my work with finite element methods, I am also interested in explicit and implicit finite difference methods, operator splitting methods, and optimization. Furthermore, I am keen to explore Artificial Intelligence techniques to rigorously assess and compare the accuracy of computational results.
 

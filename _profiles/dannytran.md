@@ -51,7 +51,3 @@ keywords: machine learning; accessibility; sustainability; remote sensing; data 
   computer vision
 ---
 
-## Academic Interests
-
-I am interested in how AI/ML can be leveraged to help model climate problems and how it can be used to help mitigate/solve many climate issues. I believe that it can also help make sustainability more accessible so I am interested in that.
-

@@ -39,7 +39,7 @@ courses: CS249 - Graph Neural Networks for Scientific Discovery (Graduate Level)
   (Honors) MATH115AH -Linear Algebra (Honors) MATH131AH - Analysis (Honors) etc.
 research_experience: 'I have published as equal first author in ICLR 2026 MLMP Workshop
   with the work "SpectralFlowNet: Resolution-Invariant Continuous Neural Dynamics
-  for Mesh-Based PDE Modeling" Access can be found here: https://openreview.net/forum?id=z3H20lc5tRÂ¬eId=xBNCkj0Ymj
+  for Mesh-Based PDE Modeling" Access can be found here: https://openreview.net/forum?id=z3H20lc5tR¬eId=xBNCkj0Ymj
   It was conducted in the Data Mining Lab in UCLA under the advisory of Professor
   Yizhou Sun, and under the help of my PhD collaborator Fang Sun.'
 academic_interests: I am interested in developing machine learning algorithms and
@@ -68,8 +68,4 @@ motivation: To participate in Sustainable Research Pathways, I want to enrich my
   throughout the program.
 image: "/assets/images/pictures/tianrun_yu.jpg"
 ---
-
-## Academic Interests
-
-I am interested in developing machine learning algorithms and applying advanced computational methods to solve scientific problems, particularly in areas involving partial differential equations (PDEs), mathematical modeling, computer vision, and large language models. My current research focuses on Graph Neural Networks (GNNs) and physics-informed machine learning for PDEs, which has strengthened my technical expertise and analytical thinking in scientific machine learning. Looking ahead, I aim to deepen my work in this area while also exploring interdisciplinary directions where machine learning can drive innovation across diverse domains.
 

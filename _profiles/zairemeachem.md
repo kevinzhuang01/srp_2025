@@ -54,7 +54,3 @@ keywords: Artificial Intelligence; High-Performance Computing; Machine Learning;
 image: "/assets/images/pictures/zaire_meachem.jpg"
 ---
 
-## Academic Interests
-
-My research and academic interests stems from being able to apply AI so that innovation or design can help make a positive change. I really enjoy the application of machine learning and deep learning. The ability to leverage the computational aspect is what excites me the most because their something joyful about the ability to understand what's going on under the hood when developing solutions for problems.
-

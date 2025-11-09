@@ -69,7 +69,3 @@ keywords: Machine learning; computational mathematics; scientific imaging; inver
 image: "/assets/images/pictures/isiaha_rodriguez.jpg"
 ---
 
-## Academic Interests
-
-My research interests lie in dynamical systems, computational mathematics, and machine learning. I am currently pursuing two projects: developing and analyzing a mathematical model of Gestational Diabetes to study population-level disease dynamics, and investigating interactions among autonomous Large Language Model (LLM) agents to better understand and quantify bias in generative systems. Further, I am deeply committed to building inclusive communities of mathematical collaboration. I aspire to contribute both mathematically and socially, by advancing rigorous research while creating pathways for others like me to thrive in the mathematical sciences.
-
