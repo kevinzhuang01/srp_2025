@@ -1,9 +1,9 @@
 ---
 layout: profile
-first_name: NAGA VENKATA SAI RAMA KRISHNA ROHAN
-last_name: AVIREDDY
-name: NAGA VENKATA SAI RAMA KRISHNA ROHAN AVIREDDY
-email: rohanavireddy2019@gmail.com
+first_name: Naga Venkata Sai Rama Krishna Rohan
+last_name: Avireddy
+name: Naga Venkata Sai Rama Krishna Rohan Avireddy
+email: rohanAvireddy2019@gmail.com
 institution: University of Washington
 organization: University of Washington
 department: School of Engineering and Technology
