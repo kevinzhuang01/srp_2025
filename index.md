@@ -32,9 +32,6 @@ description: Profile pages for Sustainable Horizons Institute SRP 25-26 particip
       {% endif %}
       
       <div class="profile-card-links">
-        {% if profile.email %}
-          <a href="mailto:{{ profile.email }}" title="Email {{ profile.name }}">📧</a>
-        {% endif %}
         {% if profile.website %}
           <a href="{{ profile.website }}" title="Visit {{ profile.name }}'s website" target="_blank">🌐</a>
         {% endif %}
