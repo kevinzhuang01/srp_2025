@@ -51,6 +51,6 @@ motivation: I want to participate in this internship to challenge myself and gai
   step toward a career in Information Technology or Cybersecurity.
 lightning_talk: Arduino-Based Motion Detection
 keywords: Arduino; Sensors; Motion Detection; Automation; Security; Embedded systems
-image: "/assets/images/pictures/taylor_garcia.jpg"
+image: "/assets/images/pictures/taylor_garcia.png"
 ---
 

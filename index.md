@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SHI SRP 25-26 Participant Profiles
-description: Profile pages for Sustainable Horizons Institute SRP 25-26 participants 
+description: Profile pages for Sustainable Horizons Institute SRP 25-26 Student Matching Workshop participants
 ---
 ## Our Participants
 

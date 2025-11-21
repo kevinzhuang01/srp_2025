@@ -4,8 +4,8 @@ first_name: Abdulmumeed
 last_name: Rashidi
 name: Abdulmumeed Rashidi
 email: Abdulrashidi2828@gmail.com
-institution: phoenix college
-organization: phoenix college
+institution: Phoenix College
+organization: Phoenix College
 department: computer science
 pronouns: he/him
 biography: My name is Abdul Mumeed Rashidi, and I am a first-year computer science
@@ -16,9 +16,9 @@ biography: My name is Abdul Mumeed Rashidi, and I am a first-year computer scien
   To build a solid foundation, I am currently taking Java and College Algebra courses,
   and I actively participate in the Computer Science Club at Phoenix College, where
   I collaborate with peers to explore new technologies and strengthen my skills. After
-  completing my studies at Phoenix College, I plan to pursue a bachelor’s degree in
-  Computer Science at Arizona State University’s Fulton Schools of Engineering. Looking
-  further ahead, I aspire to either begin a career in artificial intelligence/software
+  completing my studies at Phoenix College, I plan to pursue a bachelorâ€™s degree
+  in Computer Science at Arizona State Universityâ€™s Fulton Schools of Engineering.
+  Looking further ahead, I aspire to either begin a career in artificial intelligence/software
   engineering or continue my education at the graduate level to contribute to advancing
   technology and its applications for society.
 academic_status: Community College Student

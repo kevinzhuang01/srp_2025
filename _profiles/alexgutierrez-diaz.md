@@ -83,6 +83,6 @@ lightning_talk: Quantum Secure ZKSNARKs - Code-Based Zero Knowledge Proofs
 keywords: Zero-Knowledge Proofs; Post-Quantum Cryptography; SNARKs; Cryptographic
   Protocol Design; Rust Programming; Arkworks; Coding Theory; Lattice-Based; Applied
   Algebra; Machine Learning for Cryptanalysis
-image: "/assets/images/pictures/alex_gutierrez_diaz.jpg"
+image: "/assets/images/pictures/alex_gutierrez_diaz.png"
 ---
 
