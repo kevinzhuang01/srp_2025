@@ -2,7 +2,7 @@
 title: SHI SRP 25-26 Profiles
 description: Profile pages for Sustainable Horizons Institute SRP 25-26 Student Matching Workshop participants.
 baseurl: "/srp_2025"
-url: "https://kevinzhuang01.github.io"
+url: "https://sustainablehorizons.github.io"
 
 # GitHub Pages configuration
 remote_theme: pages-themes/primer@v0.6.0
